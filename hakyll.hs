@@ -11,3 +11,5 @@ main = hakyll "http://example.com" $ do
   where
     render = renderChain ["templates/default.html"]
            . createPage
+
+-- nothing
