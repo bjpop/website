@@ -12,4 +12,3 @@ main = hakyll "http://example.com" $ do
     render = renderChain ["templates/default.html"]
            . createPage
 
--- a comment
