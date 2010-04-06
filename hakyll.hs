@@ -5,10 +5,13 @@ import Text.Hakyll.CreateContext (createPage)
 
 main = hakyll "http://example.com" $ do
     directory css "css"
-    static "images/bernie.bw.face.jpg"
+    directory static "images"
+    directory static "docs" 
     render "about.rst"
     render "index.markdown"
-    render "code.lhs"
+    render "contact.markdown"
+    render "writing.markdown"
+    -- render "code.lhs"
   where
     render = renderChain ["templates/default.html"]
            . createPage

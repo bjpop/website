@@ -1,6 +1,7 @@
 body {
-    width: 600px;
+    width: 700px;
     margin: 0px auto 0px auto;
+    text-align: justify;
 }
 
 div#navigation {
@@ -14,4 +15,23 @@ div#navigation a {
     background-color: black;
     padding: 3px 10px 3px 10px;
     margin: 0px 10px 0px 10px;
+}
+
+div.figure { 
+   float:right;
+   margin-left:15px
+}
+
+a {
+   color:#386794;
+   text-decoration:none
+}
+
+a:hover {
+   color:#1d4c77;
+   text-decoration:underline
+}
+
+a:visited,a:active { 
+   color:#6c88a2
 }
