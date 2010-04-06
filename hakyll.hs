@@ -13,4 +13,3 @@ main = hakyll "http://example.com" $ do
            . createPage
 
 -- more nothing
--- sill comment
