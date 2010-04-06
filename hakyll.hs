@@ -5,6 +5,7 @@ import Text.Hakyll.CreateContext (createPage)
 
 main = hakyll "http://example.com" $ do
     directory css "css"
+    static "images/bernie.bw.face.jpg"
     render "about.rst"
     render "index.markdown"
     render "code.lhs"
