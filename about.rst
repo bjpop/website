@@ -7,7 +7,7 @@ Quisque pellentesque dignissim felis, egestas tempus urna luctus vitae. In hac
 habitasse platea dictumst. Morbi fringilla mattis odio, et mattis tellus
 accumsan vitae.
 
-1. Amamus Unicode 碁
+1. Amamus Unicode
 2. Interdum nex magna.
 
 Vivamus eget mauris sit amet nulla laoreet lobortis. Nulla in diam elementum
