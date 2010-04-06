@@ -12,5 +12,4 @@ main = hakyll "http://example.com" $ do
     render = renderChain ["templates/default.html"]
            . createPage
 
--- nothing
 -- more nothing
