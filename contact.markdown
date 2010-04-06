@@ -4,7 +4,7 @@ title: Contact
 
 ## Email 
 
-(reversed): *ua.ude.bleminu@epopjb*
+(reversed) *ua.ude.bleminu@epopjb*
 
 ## Post
 

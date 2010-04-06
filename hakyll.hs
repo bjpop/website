@@ -11,7 +11,7 @@ main = hakyll "http://example.com" $ do
     render "index.markdown"
     render "contact.markdown"
     render "writing.markdown"
-    -- render "code.lhs"
+    render "software.markdown"
   where
     render = renderChain ["templates/default.html"]
            . createPage
