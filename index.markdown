@@ -2,4 +2,4 @@
 title: Home
 ---
 
-Bernie's homepage.
+Bernie's homepage. Hi Nie!
