@@ -8,7 +8,7 @@ A declarative debugger for Haskell
 
 #### Downloads
 
-* [Main buddha page](http://www.cs.mu.oz.au/~bjpop/buddha/).
+* [Main buddha page](http://www.cs.mu.oz.au/~bjpop/buddha).
 * [Source repository on patch tag](http://patch-tag.com/r/bjpop/buddha).
 
     You can download the buddha source repository using darcs with this command:
@@ -50,10 +50,9 @@ A ray tracer written in Haskell.
 
 A ray tracer for 3D computer graphics using wxHaskell for the GUI. I wrote bjpop-ray primarily for teaching purposes. In particular I wanted to demonstrate to first-year university students that Haskell can be used for non-trivial (and interesting) projects.
 
-#### Screen shots
+#### Gallery 
 
-* [bjpop-ray screen shot 1]($root/images/bjpop-ray.1.png)
-* [bjpop-ray screen shot 2]($root/images/bjpop-ray.2.png)
+[bjpop-ray gallery]($root/bjpopray.html).
 
 ****
 
@@ -63,8 +62,8 @@ A lexer, parser and pretty printer for Python programs, written in Haskell.
 
 #### Downloads
 
-* [Cabal package on hackage](http://hackage.haskell.org/cgi-bin/hackage-scripts/package/language-python)
-* [Source repository on github](http://github.com/bjpop/language-python)
+* [Cabal package on hackage](http://hackage.haskell.org/cgi-bin/hackage-scripts/package/language-python).
+* [Source repository on github](http://github.com/bjpop/language-python).
 
     You can download the language-python source repository using git with this command:
 
@@ -76,7 +75,9 @@ This package provides a parser (and lexer) for Python written in Haskell. It sup
 
 As a demonstration of the library, I have written a simple code colouring tool which converts Python source code into XHTML files. A CSS file is used to determine the presentation of the code (such as colours). 
 
-Here is [an example coloured Python file]($root/html/pycol/lsystem.py.html).
+#### Gallery
+
+[An example coloured Python file]($root/html/pycol/lsystem.py.html).
 
 ****
 
@@ -86,9 +87,9 @@ An interpreter for the small-step operational semantics of the STG machine.
 
 #### Downloads
 
-* [Project web page on haskell.org](http://www.haskell.org/haskellwiki/Ministg)
-* [Cabal package on hackage](http://hackage.haskell.org/package/ministg)
-* [Source repository on patch tag](http://patch-tag.com/r/bjpop/ministg)
+* [Project web page on haskell.org](http://www.haskell.org/haskellwiki/Ministg).
+* [Cabal package on hackage](http://hackage.haskell.org/package/ministg).
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/ministg).
 
     You can download the ministg source repository using darcs with this command:
 
@@ -100,7 +101,6 @@ Ministg is an interpreter for a high-level, small-step, operational semantics fo
 
 One of the main features of Ministg is the ability to record a trace of the execution steps as a sequence of html files. 
 
-Here is [an example program trace]($root/html/ministg/step0.html).
 
 The example shows the execution of a program which sums a list of three integers, using the well-known space-leaky version of sum. Follow the *next* and *previous* links to step forwards and backwards through the trace.
 
@@ -118,6 +118,10 @@ Here is an example ministg program for calculating the factorial of 7:
 
     main = THUNK (fac seven)
 
+#### Gallery  
+
+[An example program trace]($root/html/ministg/step0.html).
+
 ****
 
 ## py-lsystem
@@ -126,8 +130,7 @@ An L-System (Lindenmayer system) in Python.
 
 #### Downloads
 
-* [L-System gallery]($root/lsystem.html)
-* Source repository on patch tag
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/py-lsystem).
 
     You can download the py-lsystem source repository using darcs with this command:
 
@@ -141,13 +144,17 @@ Originally I wrote this program for a guest lecture in a first-year university P
 
 A selection of example L-System rules and the resulting images produce by py-lsystem can be seen in my L-System gallery.
 
+#### Gallery
+
+[L-System gallery]($root/lsystem.html).
+
 ****
 
 ## Scala XML parser
 
 #### Downloads
 
-* Source repository on patch tag
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/scala-xml-parser).
 
     You can download the scala-xml-parser source repository using darcs with this command:
 
@@ -157,7 +164,7 @@ A selection of example L-System rules and the resulting images produce by py-lsy
 
 This is a parser for a non-trivial subset of XML, written using parser combinators in Scala.
 
-I wrote this program to demonstrate the use of parser combinators in Scala, as part of a talk I did at the Melbourne Scala Users group. See my slides from the talk for more details.
+I wrote this program to demonstrate the use of parser combinators in Scala, as part of a talk I did at the Melbourne Scala Users group. See my [slides from the talk]($root/docs/scala_parser_combinators.pdf) for more details.
 
 For comparison, here is the same parser written in Haskell using the Parsec combinators: repository on patch tag.
 
@@ -169,14 +176,14 @@ A type checker for Haskell
 
 #### Downloads
 
-* Source tar ball
-* Online documentation
+* [Source tar ball](http://www.cs.mu.oz.au/~bjpop/hatchet/src/hatchet.tar.gz).
+* [Online documentation](http://www.cs.mu.oz.au/~bjpop/hatchet/onlinedocs/hatchet/index.html).
 
 #### Description
 
 Hatchet is a type checking and inference tool for Haskell 98, written in (almost) Haskell 98. It is based on the Typing Haskell in Haskell work of Mark Jones.
 
-I originally wrote hatchet as part of a program transformation tool for debugging Haskell. Ultimately that tool was rewritten to avoid the need for type information, so hatchet was forked off as a separate project. Eventually hatchet made its way into other projects, such as the JHC Haskell compiler.
+I originally wrote hatchet as part of a program transformation tool for debugging Haskell. Ultimately that tool was rewritten to avoid the need for type information, so hatchet was forked off as a separate project. Eventually hatchet made its way into other projects, such as the [JHC Haskell compiler](http://repetae.net/computer/jhc/).
 
 ****
 
@@ -186,7 +193,7 @@ An interpreter for a small functional language with type inference.
 
 #### Downloads
 
-* Source repository on patch tag
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/baskell).
 
     You can download the baskell source repository using darcs with this command:
 
@@ -196,7 +203,7 @@ An interpreter for a small functional language with type inference.
 
 Baskell is an interpreter for a small functional language. It features Hindley/Milner type inference, strict and lazy evaluation and an interactive REPL (read-eval-print-loop) command line.
 
-For the history buffs out there, the PUGS implementation of Perl 6 began with some parts of baskell in it.
+For the history buffs out there, the [PUGS implementation of Perl 6](http://www.pugscode.org/) began with some parts of baskell in it.
 
 Here is an example baskell program for calculating the factorial of a number, using Turing's fixed point combinator to implement recursion (baskell has built in recursion too, but this example shows that you can also do without):
 
@@ -216,7 +223,7 @@ Functional manipulation of 2D images.
 
 #### Downloads
 
-* Source repository on patch tag
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/image-transform).
 
     You can download the image-transform source repository using darcs with this command:
 
@@ -228,6 +235,10 @@ This is a small program for manipulating 2D computer images. It was written for 
 
 It can generate interesting effects, such as simulated water ripples, and geometric distortions.
 
+#### Gallery
+
+[Image transform gallery]($root/imgtrans.html).
+
 ****
 
 ## terpie-llvm
@@ -236,7 +247,7 @@ A small imperative language compiler with LLVM back-end.
 
 #### Downloads
 
-* Source repository on patch tag
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/terpie-llvm).
 
     You can download the terpie-llvm source repository using darcs with this command:
 
@@ -268,7 +279,7 @@ A small functional language with different backends.
 
 #### Downloads
 
-* Source repository on patch tag
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/minifp).
 
     You can download the minifp source repository using darcs with this command:
 

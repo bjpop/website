@@ -14,6 +14,8 @@ main = hakyll "http://example.com" $ do
     render "writing.markdown"
     render "software.markdown"
     render "lsystem.markdown"
+    render "bjpopray.markdown"
+    render "imgtrans.markdown"
   where
     render = renderChain ["templates/default.html"]
            . createPage
