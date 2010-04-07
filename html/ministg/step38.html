@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+><head
+  ><title
+    >Step 38</title
+    ></head
+  ><body
+  ><h1
+    >Step 38</h1
+    ><p
+    ><a href="step37.html"
+      >previous</a
+      > <a href="step39.html"
+      >next</a
+      ></p
+    ><h3
+    >Most recent rule applied</h3
+    ><p
+    >RET</p
+    ><h3
+    >Stack and Code</h3
+    ><table border="3" cellpadding="10"
+    ><tr
+      ><td style="vertical-align:top"
+	>Stack</td
+	><td style="vertical-align:top"
+	>Expression</td
+	></tr
+      ><tr
+      ><td style="vertical-align:top"
+	><table border="1" cellpadding="5" cellspacing="0"
+	  ><tr
+	    ><td
+	      ><pre
+		>upd * $1</pre
+		></td
+	      ></tr
+	    ><tr
+	    ><td
+	      ><pre
+		>case * {I i -&gt;
+           case one of {
+              I j -&gt;
+                 case plus# i j of {
+                    x -&gt; let { result = CON(I x) } in result
+                 }
+           }}</pre
+		></td
+	      ></tr
+	    ><tr
+	    ><td
+	      ><pre
+		>upd * $2</pre
+		></td
+	      ></tr
+	    ><tr
+	    ><td
+	      ><pre
+		>upd * main</pre
+		></td
+	      ></tr
+	    ></table
+	  ></td
+	><td style="vertical-align:top"
+	><pre
+	  >case 5 of {
+   x -&gt; let { result = CON(I x) } in result
+}</pre
+	  ></td
+	></tr
+      ></table
+    ><h3
+    >Heap</h3
+    ><table border="3" cellpadding="5" cellspacing="0"
+    ><tr
+      ><td
+	>Variable</td
+	><td
+	>Object</td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >$1</pre
+	  ></td
+	><td
+	><pre
+	  >BLACKHOLE</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >$2</pre
+	  ></td
+	><td
+	><pre
+	  >BLACKHOLE</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >main</pre
+	  ></td
+	><td
+	><pre
+	  >BLACKHOLE</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >one</pre
+	  ></td
+	><td
+	><pre
+	  >CON(I 1)</pre
+	  ></td
+	></tr
+      ></table
+    ></body
+  ></html
+>

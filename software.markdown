@@ -8,8 +8,8 @@ A declarative debugger for Haskell
 
 #### Downloads
 
-* Main buddha page
-* Source repository on patch tag
+* [Main buddha page](http://www.cs.mu.oz.au/~bjpop/buddha/).
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/buddha).
 
     You can download the buddha source repository using darcs with this command:
 
@@ -40,7 +40,7 @@ A ray tracer written in Haskell.
 
 #### Downloads
 
-* Source repository on patch tag
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/bjpop-ray).
 
     You can download the bjpop-ray source repository using darcs with this command:
 
@@ -52,8 +52,8 @@ A ray tracer for 3D computer graphics using wxHaskell for the GUI. I wrote bjpop
 
 #### Screen shots
 
-* bjpop-ray screen shot 1
-* bjpop-ray screen shot 2
+* [bjpop-ray screen shot 1]($root/images/bjpop-ray.1.png)
+* [bjpop-ray screen shot 2]($root/images/bjpop-ray.2.png)
 
 ****
 
@@ -63,13 +63,12 @@ A lexer, parser and pretty printer for Python programs, written in Haskell.
 
 #### Downloads
 
-* Project web page on haskell.org
-* Cabal package on hackage
-* Source repository on patch tag
+* [Cabal package on hackage](http://hackage.haskell.org/cgi-bin/hackage-scripts/package/language-python)
+* [Source repository on github](http://github.com/bjpop/language-python)
 
-    You can download the language-python source repository using darcs with this command:
+    You can download the language-python source repository using git with this command:
 
-    `darcs get http://patch-tag.com/r/bjpop/language-python/pullrepo language-python`
+    `git clone git://github.com/bjpop/language-python.git`
 
 #### Description
 
@@ -77,7 +76,7 @@ This package provides a parser (and lexer) for Python written in Haskell. It sup
 
 As a demonstration of the library, I have written a simple code colouring tool which converts Python source code into XHTML files. A CSS file is used to determine the presentation of the code (such as colours). 
 
-Here is an example coloured Python file.
+Here is [an example coloured Python file]($root/html/pycol/lsystem.py.html).
 
 ****
 
@@ -87,9 +86,9 @@ An interpreter for the small-step operational semantics of the STG machine.
 
 #### Downloads
 
-* Project web page on haskell.org
-* Cabal package on hackage
-* Source repository on patch tag
+* [Project web page on haskell.org](http://www.haskell.org/haskellwiki/Ministg)
+* [Cabal package on hackage](http://hackage.haskell.org/package/ministg)
+* [Source repository on patch tag](http://patch-tag.com/r/bjpop/ministg)
 
     You can download the ministg source repository using darcs with this command:
 
@@ -99,7 +98,9 @@ An interpreter for the small-step operational semantics of the STG machine.
 
 Ministg is an interpreter for a high-level, small-step, operational semantics for the STG machine. The STG machine is the abstract machine at the core of GHC. The operational semantics used in Ministg is taken from the paper *Making a fast curry: push/enter versus eval/apply for higher-order languages* by Simon Marlow and Simon Peyton Jones. Ministg implements both sets of evaluation rules from the paper.
 
-One of the main features of Ministg is the ability to record a trace of the execution steps as a sequence of html files. And example trace can be viewed here: First step of a program trace
+One of the main features of Ministg is the ability to record a trace of the execution steps as a sequence of html files. 
+
+Here is [an example program trace]($root/html/ministg/step0.html).
 
 The example shows the execution of a program which sums a list of three integers, using the well-known space-leaky version of sum. Follow the *next* and *previous* links to step forwards and backwards through the trace.
 
@@ -125,7 +126,7 @@ An L-System (Lindenmayer system) in Python.
 
 #### Downloads
 
-* L-System gallery
+* [L-System gallery]($root/lsystem.html)
 * Source repository on patch tag
 
     You can download the py-lsystem source repository using darcs with this command:

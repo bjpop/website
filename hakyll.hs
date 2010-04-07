@@ -7,11 +7,13 @@ main = hakyll "http://example.com" $ do
     directory css "css"
     directory static "images"
     directory static "docs" 
+    directory static "html"
     render "about.rst"
     render "index.markdown"
     render "contact.markdown"
     render "writing.markdown"
     render "software.markdown"
+    render "lsystem.markdown"
   where
     render = renderChain ["templates/default.html"]
            . createPage

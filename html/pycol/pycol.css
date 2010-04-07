@@ -1,0 +1,9 @@
+.Comment {color: ForestGreen;}
+.Number {color: Red;}
+.Identfier {color: Black;}
+.Punctuation {color: Red;}
+.Keyword {color: Blue;}
+.String {color: Olive;}
+.Operator {color: BlueViolet;}
+.Bracket {color: Gray;}
+.Assignment {color: DarkSlateBlue;}

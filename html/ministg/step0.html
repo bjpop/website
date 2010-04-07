@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+><head
+  ><title
+    >Step 0</title
+    ></head
+  ><body
+  ><h1
+    >Step 0</h1
+    ><p
+    > <a href="step1.html"
+      >next</a
+      ></p
+    ><h3
+    >Stack and Code</h3
+    ><table border="3" cellpadding="10"
+    ><tr
+      ><td style="vertical-align:top"
+	>Stack</td
+	><td style="vertical-align:top"
+	>Expression</td
+	></tr
+      ><tr
+      ><td style="vertical-align:top"
+	></td
+	><td style="vertical-align:top"
+	><pre
+	  >main</pre
+	  ></td
+	></tr
+      ></table
+    ><h3
+    >Heap</h3
+    ><table border="3" cellpadding="5" cellspacing="0"
+    ><tr
+      ><td
+	>Variable</td
+	><td
+	>Object</td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >foldl</pre
+	  ></td
+	><td
+	><pre
+	  >FUN(f acc list -&gt;
+       case list of {
+          Nil -&gt; acc;
+          Cons h t -&gt;
+             let { newAcc = THUNK(f_? acc h) } in foldl_3 f newAcc t
+       })</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >list1</pre
+	  ></td
+	><td
+	><pre
+	  >CON(Cons one nil)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >list2</pre
+	  ></td
+	><td
+	><pre
+	  >CON(Cons two list1)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >list3</pre
+	  ></td
+	><td
+	><pre
+	  >CON(Cons three list2)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >main</pre
+	  ></td
+	><td
+	><pre
+	  >THUNK(sum_1 list3)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >nil</pre
+	  ></td
+	><td
+	><pre
+	  >CON(Nil)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >one</pre
+	  ></td
+	><td
+	><pre
+	  >CON(I 1)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >plusInt</pre
+	  ></td
+	><td
+	><pre
+	  >FUN(x y -&gt;
+       case x of {
+          I i -&gt;
+             case y of {
+                I j -&gt;
+                   case plus# i j of {
+                      x -&gt; let { result = CON(I x) } in result
+                   }
+             }
+       })</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >sum</pre
+	  ></td
+	><td
+	><pre
+	  >FUN(list -&gt; foldl_3 plusInt zero list)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >three</pre
+	  ></td
+	><td
+	><pre
+	  >CON(I 3)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >two</pre
+	  ></td
+	><td
+	><pre
+	  >CON(I 2)</pre
+	  ></td
+	></tr
+      ><tr
+      ><td
+	><pre
+	  >zero</pre
+	  ></td
+	><td
+	><pre
+	  >CON(I 0)</pre
+	  ></td
+	></tr
+      ></table
+    ></body
+  ></html
+>
