@@ -138,7 +138,7 @@ An L-System (Lindenmayer system) in Python.
 
 #### Description
 
-L-Systems (wikipedia entry) are term rewriting languages which have interesting interpretations in computer graphics.
+[L-Systems](http://en.wikipedia.org/wiki/L-system) are term rewriting languages which can have interesting interpretations in computer graphics.
 
 Originally I wrote this program for a guest lecture in a first-year university Python course, but I have subsequently been using it to motivate computing to high-school students.
 
