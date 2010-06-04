@@ -1,0 +1,6 @@
+_cache
+_site
+*~
+*.hi
+*.o
+hakyll
