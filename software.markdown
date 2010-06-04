@@ -2,6 +2,35 @@
 title: Software 
 ---
 
+## berp
+
+A compiler and interpreter for Python 3.
+
+#### Downloads
+
+* [Cabal package on hackage](http://hackage.haskell.org/package/berp).
+* [Source repository on github](http://github.com/bjpop/berp).
+
+    You can download the berp source repository using git with this command:
+
+    `git clone http://github.com/bjpop/berp.git` 
+
+
+#### Documentaion
+
+* [Wiki on github](http://wiki.github.com/bjpop/berp/).
+
+#### Description
+
+Berp is an implementation of Python 3. At its heart is a translator, which takes Python 
+code as input and generates Haskell code as output. The Haskell code is fed into a 
+Haskell compiler (GHC) for compilation to machine code or interpretation as byte code.
+
+Berp provides both a compiler and an interactive interpreter. For the most part it 
+can be used in the same way as CPython (the main Python implementation).
+
+****
+
 ## buddha 
 
 A declarative debugger for Haskell
@@ -62,7 +91,7 @@ A lexer, parser and pretty printer for Python programs, written in Haskell.
 
 #### Downloads
 
-* [Cabal package on hackage](http://hackage.haskell.org/cgi-bin/hackage-scripts/package/language-python).
+* [Cabal package on hackage](http://hackage.haskell.org/package/language-python).
 * [Source repository on github](http://github.com/bjpop/language-python).
 
     You can download the language-python source repository using git with this command:
