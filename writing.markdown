@@ -120,11 +120,11 @@ title: Writing
 
 * [Berp - an implementation of Python 3 in Haskell]($root/docs/Berp.pdf). Presented at the Melbourne FPU, Friday 18 June 2010.
 
-   Berp is an implementation of Python 3. At its heart is a translator, which takes Python code as input and generates Haskell code as output. The Haskell code is fed into a Haskell compiler (GHC) for compilation to machine code or interpretation as byte code. 
+    Berp is an implementation of Python 3. At its heart is a translator, which takes Python code as input and generates Haskell code as output. The Haskell code is fed into a Haskell compiler (GHC) for compilation to machine code or interpretation as byte code. 
 
 * [Haskell bindings to MPI]($root/docs/mpi_bindings.pdf). Presented at the Melbourne FPU, Friday 30 July 2010.
 
-MPI (the Message Passing Interface) is a popular communication protocol for distributed parallel programming, providing both point-to- point and collective communication operators. Traditionally MPI is used in high-performance computing applications written in imperative languages, such as C, C++ and Fortran. I've recently been working on a Haskell binding to MPI via C and the Foreign Function Interface (FFI).  One of the main challenges in writing such a binding is deciding how to map the low-level C API into idiomatic Haskell. In this talk I provide a brief overview of MPI, and then discuss the hows and whys of my current implementation effort. 
+    MPI (the Message Passing Interface) is a popular communication protocol for distributed parallel programming, providing both point-to- point and collective communication operators. Traditionally MPI is used in high-performance computing applications written in imperative languages, such as C, C++ and Fortran. I've recently been working on a Haskell binding to MPI via C and the Foreign Function Interface (FFI).  One of the main challenges in writing such a binding is deciding how to map the low-level C API into idiomatic Haskell. In this talk I provide a brief overview of MPI, and then discuss the hows and whys of my current implementation effort. 
 
 
 
