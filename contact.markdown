@@ -1,5 +1,5 @@
 ---
-title: Contact 
+title: Contact
 ---
 
 ## Email 
@@ -8,7 +8,7 @@ title: Contact
 
 ## Post
 
-Victorian Life Sciences Computation Initiative  
-The University of Melbourne   
-187 Grattan Street, Carlton, Victoria  
-Australia, 3010  
+Victorian Life Sciences Computation Initiative \
+The University of Melbourne \
+187 Grattan Street, Carlton, Victoria \
+Australia, 3010 \

@@ -20,7 +20,7 @@ Interpretation:
 Rendering after 5 iterations:
 
 <div align="center">
-![]($root/images/bushy.jpg)
+![](/images/bushy.jpg)
 </div>
 
 ## A sticky tree
@@ -42,7 +42,7 @@ Interpretation:
 Rendering after 7 iterations:
 
 <div align="center">
-![]($root/images/sticky.jpg)
+![](/images/sticky.jpg)
 </div>
 
 ## A Sierpinski triangle
@@ -65,7 +65,7 @@ Interpretation:
 Rendering after 10 iterations:
 
 <div align="center">
-![]($root/images/sierpinski.jpg)
+![](/images/sierpinski.jpg)
 </div>
 
 ## A Peano Gosper curve
@@ -88,7 +88,7 @@ Interpretation:
 Rendering after 5 iterations:
 
 <div align="center">
-![]($root/images/peano_gosper.jpg)
+![](/images/peano_gosper.jpg)
 </div>
 
 ## A fractal crystal
@@ -110,7 +110,7 @@ Interpretation:
 Rendering after 5 iterations:
 
 <div align="center">
-![]($root/images/crystal.jpg)
+![](/images/crystal.jpg)
 </div>
 
 ## Tiling
@@ -132,5 +132,5 @@ Interpretation:
 Rendering after 6 iterations:
 
 <div align="center">
-![]($root/images/tiles.jpg)
+![](/images/tiles.jpg)
 </div>

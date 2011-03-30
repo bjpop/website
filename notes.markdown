@@ -1,0 +1,10 @@
+---
+title: Notes
+---
+
+## Building SPRNG
+
+[Instructions for building the SPRNG Psuedo Random Number Library](/sprng.html) on OS X Snow
+Leopard (although probably relevant to Linux too).
+
+****

@@ -1,0 +1,173 @@
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/bignum.cpp sprng4.works/SRC/bignum.cpp
+--- sprng4/SRC/bignum.cpp	2007-05-12 07:32:36.000000000 +1000
++++ sprng4.works/SRC/bignum.cpp	2011-03-29 18:19:31.000000000 +1100
+@@ -10,14 +10,17 @@
+ /*************************************************************************/
+ 
+ 
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <limits.h>
+ #include <time.h>
+-#include <iomanip.h>
++#include <iomanip>
+ #include <ctype.h>
+ #include "bignum.h"
++#include <cstring>
++
++using namespace std;
+ 
+ 
+ #ifdef LONG64
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/bignum.h sprng4.works/SRC/bignum.h
+--- sprng4/SRC/bignum.h	2007-04-18 02:07:38.000000000 +1000
++++ sprng4.works/SRC/bignum.h	2011-03-29 18:13:57.000000000 +1100
+@@ -1,4 +1,4 @@
+-#include <iostream.h>
++#include <iostream>
+ 
+ #ifndef BIGNUM_H
+ #define BIGNUM_H
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/cmrg/cmrg.cpp sprng4.works/SRC/cmrg/cmrg.cpp
+--- sprng4/SRC/cmrg/cmrg.cpp	2007-02-02 06:41:46.000000000 +1100
++++ sprng4.works/SRC/cmrg/cmrg.cpp	2011-03-29 18:13:57.000000000 +1100
+@@ -14,7 +14,7 @@
+ /*************************************************************************/
+ /*************************************************************************/
+ 
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/fwrap.cpp sprng4.works/SRC/fwrap.cpp
+--- sprng4/SRC/fwrap.cpp	2007-04-17 08:16:47.000000000 +1000
++++ sprng4.works/SRC/fwrap.cpp	2011-03-29 18:13:57.000000000 +1100
+@@ -21,7 +21,7 @@ extern "C"
+ #include "sprng_cpp.h"
+ #include "memory.h"
+ 
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/fwrap.cpp~ sprng4.works/SRC/fwrap.cpp~
+--- sprng4/SRC/fwrap.cpp~	2007-04-17 08:15:18.000000000 +1000
++++ sprng4.works/SRC/fwrap.cpp~	2011-03-29 18:13:57.000000000 +1100
+@@ -21,7 +21,7 @@ extern "C"
+ #include "sprng_cpp.h"
+ #include "memory.h"
+ 
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/lcg/lcg.cpp sprng4.works/SRC/lcg/lcg.cpp
+--- sprng4/SRC/lcg/lcg.cpp	2007-02-02 06:54:24.000000000 +1100
++++ sprng4.works/SRC/lcg/lcg.cpp	2011-03-29 18:21:42.000000000 +1100
+@@ -11,7 +11,8 @@
+ /*************************************************************************/
+ /*************************************************************************/
+ 
+-#include <iostream.h>
++
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+@@ -24,6 +25,8 @@
+ #include <assert.h>
+ #include "store.h"
+ 
++using namespace std;
++
+ #define MAX_STREAMS lcg_MAX_STREAMS
+ #define NGENS lcg_NGENS
+ 
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/lcg64/lcg64.cpp sprng4.works/SRC/lcg64/lcg64.cpp
+--- sprng4/SRC/lcg64/lcg64.cpp	2006-09-30 06:02:22.000000000 +1000
++++ sprng4.works/SRC/lcg64/lcg64.cpp	2011-03-29 18:13:57.000000000 +1100
+@@ -23,7 +23,7 @@
+ /*************************************************************************/
+ 
+ 
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/lfg/lfg.cpp sprng4.works/SRC/lfg/lfg.cpp
+--- sprng4/SRC/lfg/lfg.cpp	2006-09-30 06:03:00.000000000 +1000
++++ sprng4.works/SRC/lfg/lfg.cpp	2011-03-29 18:13:57.000000000 +1100
+@@ -60,7 +60,7 @@
+ /*      into the appropriate places and avoid the problem entirely.)     */
+ /*************************************************************************/
+ 
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/mlfg/mlfg.cpp sprng4.works/SRC/mlfg/mlfg.cpp
+--- sprng4/SRC/mlfg/mlfg.cpp	2006-09-30 06:03:50.000000000 +1000
++++ sprng4.works/SRC/mlfg/mlfg.cpp	2011-03-29 18:13:57.000000000 +1100
+@@ -11,7 +11,7 @@
+ /*************************************************************************/
+ /*************************************************************************/
+ 
+-#include <iostream.h>
++#include <iostream>
+ #include <limits.h>
+ #include <stdio.h>
+ #include <string.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/pmlcg/bignum.h sprng4.works/SRC/pmlcg/bignum.h
+--- sprng4/SRC/pmlcg/bignum.h	2006-09-29 23:13:32.000000000 +1000
++++ sprng4.works/SRC/pmlcg/bignum.h	2011-03-29 18:13:57.000000000 +1100
+@@ -1,7 +1,7 @@
+ #ifndef BIGNUM_H
+ #define BIGNUM_H
+ 
+-#include <iostream.h>
++#include <iostream>
+ 
+ class BigNum
+ {
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/pmlcg/pmlcg.cpp sprng4.works/SRC/pmlcg/pmlcg.cpp
+--- sprng4/SRC/pmlcg/pmlcg.cpp	2007-05-16 05:30:12.000000000 +1000
++++ sprng4.works/SRC/pmlcg/pmlcg.cpp	2011-03-29 18:13:58.000000000 +1100
+@@ -14,7 +14,7 @@
+ /*************************************************************************/
+ /*************************************************************************/
+  
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/pmlcg/pmlcg.cpp~ sprng4.works/SRC/pmlcg/pmlcg.cpp~
+--- sprng4/SRC/pmlcg/pmlcg.cpp~	2007-05-12 08:20:52.000000000 +1000
++++ sprng4.works/SRC/pmlcg/pmlcg.cpp~	2011-03-29 18:13:58.000000000 +1100
+@@ -14,7 +14,7 @@
+ /*************************************************************************/
+ /*************************************************************************/
+  
+-#include <iostream.h>
++#include <iostream>
+ #include <stdio.h>
+ #include <string.h>
+ #include <stdlib.h>
+diff -x '*.Po' -x 'Make*.*' -x 'Make*' -rupN sprng4/SRC/sprng_cpp.cpp sprng4.works/SRC/sprng_cpp.cpp
+--- sprng4/SRC/sprng_cpp.cpp	2006-09-30 02:47:18.000000000 +1000
++++ sprng4.works/SRC/sprng_cpp.cpp	2011-03-29 18:17:04.000000000 +1100
+@@ -1,6 +1,7 @@
+ #include "sprng_cpp.h"
+ 
+ #include <iostream>
++#include <cstdlib>
+ 
+ using namespace std;
+ 

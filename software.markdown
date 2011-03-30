@@ -81,7 +81,7 @@ A ray tracer for 3D computer graphics using wxHaskell for the GUI. I wrote bjpop
 
 #### Gallery 
 
-[bjpop-ray gallery]($root/bjpopray.html).
+[bjpop-ray gallery](/bjpopray.html).
 
 ****
 
@@ -106,7 +106,7 @@ As a demonstration of the library, I have written a simple code colouring tool w
 
 #### Gallery
 
-[An example coloured Python file]($root/html/pycol/lsystem.py.html).
+[An example coloured Python file](/html/pycol/lsystem.py.html).
 
 ****
 
@@ -149,7 +149,7 @@ Here is an example ministg program for calculating the factorial of 7:
 
 #### Gallery  
 
-[An example program trace]($root/html/ministg/step0.html).
+[An example program trace](/html/ministg/step0.html).
 
 ****
 
@@ -175,7 +175,7 @@ A selection of example L-System rules and the resulting images produce by py-lsy
 
 #### Gallery
 
-[L-System gallery]($root/lsystem.html).
+[L-System gallery](/lsystem.html).
 
 ****
 
@@ -193,7 +193,7 @@ A selection of example L-System rules and the resulting images produce by py-lsy
 
 This is a parser for a non-trivial subset of XML, written using parser combinators in Scala.
 
-I wrote this program to demonstrate the use of parser combinators in Scala, as part of a talk I did at the Melbourne Scala Users group. See my [slides from the talk]($root/docs/scala_parser_combinators.pdf) for more details.
+I wrote this program to demonstrate the use of parser combinators in Scala, as part of a talk I did at the Melbourne Scala Users group. See my [slides from the talk](/docs/scala_parser_combinators.pdf) for more details.
 
 For comparison, here is the same parser written in Haskell using the Parsec combinators: repository on patch tag.
 
@@ -266,7 +266,7 @@ It can generate interesting effects, such as simulated water ripples, and geomet
 
 #### Gallery
 
-[Image transform gallery]($root/imgtrans.html).
+[Image transform gallery](/imgtrans.html).
 
 ****
 
