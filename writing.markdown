@@ -72,6 +72,10 @@ title: Writing
 
 ## Slides
 
+* [The road to dependent types](/docs/dependent_types.pdf). Presented at the Melbourne Scala Users Group, Monday 28 March 2010.
+
+    [Barendregt's Lambda Cube](http://en.wikipedia.org/wiki/Lambda_cube) provides a neat characterisation of various kinds of typed Lambda Calculi. In these slides I show how we can explore the axes of the Lambda Cube by studying families of languages indexed by (possibly other) languages. For example the Simply Typed Lambda Calculus supports terms indexed by terms, whereas the Polmorhpic Lambda Calculus extends this with terms indexed by types. Taking this idea further we can also consider types indexed by types and finally arrive at types indexed by terms, which is what most people call Dependent Types.
+
 * [Static Pattern Calculus](/docs/static_pattern_calculus.pdf). Presented at the Melbourne FPU, Friday 22 January 2010.
 
     The Pattern Calculus extends the Lambda Calculus with first class patterns. Barry Jay recently published a book on the Pattern Calculus (which has been briefly discussed on this list), and I have been reading through it over the summer break. In this talk I give an overview of the term rewriting system which underpins the calculus. The term rewriting system is developed in four stages in the book. The first stage is the Lambda Calculus which is well known. The second stage is the Compound Calculus which is essentially a core version of LISP. The third stage is the Static Pattern Calculus which adds static patterns. The fourth stage is the Dynamic Pattern Calculus which adds dynamic patterns. This talk covers the static variant of the calculus only.
