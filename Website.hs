@@ -6,45 +6,48 @@ import Control.Arrow ((>>>))
 import Control.Monad (forM_)
 
 import Hakyll
+import Data.Binary (Binary)
+import Data.Typeable (Typeable)
 
 main :: IO ()
 main = hakyll $ do
-    route   "files/*" idRoute
-    compile "files/*" copyFileCompiler
 
-    route   "images/*" idRoute
-    compile "images/*" copyFileCompiler
+   mapM_ justCopyFiles
+         [ "files/*"
+         , "images/*"
+         , "html/lsystem/*"
+         , "html/ministg/*"
+         , "html/pycol/*"
+         , "docs/*"
+         ]
 
-    route   "html/lsystem/*" idRoute
-    compile "html/lsystem/*" copyFileCompiler
+   routeCompile "css/*" idRoute compressCssCompiler
+   match "templates/*" $ compile templateCompiler
 
-    route   "html/ministg/*" idRoute
-    compile "html/ministg/*" copyFileCompiler
+   let docs = [ "index.markdown"
+              , "contact.markdown"
+              , "writing.markdown"
+              , "software.markdown"
+              , "lsystem.markdown"
+              , "bjpopray.markdown"
+              , "imgtrans.markdown"
+              , "notes.markdown"
+              , "sprng.markdown"
+              ]
 
-    route   "html/pycol/*" idRoute
-    compile "html/pycol/*" copyFileCompiler
-
-    route   "docs/*" idRoute
-    compile "docs/*" copyFileCompiler
-
-    route   "css/*" idRoute
-    compile "css/*" compressCssCompiler
-
-    compile "templates/*" templateCompiler
-
-    let docs = [ "index.markdown"
-               , "contact.markdown"
-               , "writing.markdown"
-               , "software.markdown"
-               , "lsystem.markdown"
-               , "bjpopray.markdown"
-               , "imgtrans.markdown"
-               , "notes.markdown"
-               , "sprng.markdown"
-               ]
-
-    forM_ docs  $ \page -> do
-        route   page $ setExtension "html"
-        compile page $ pageCompiler
+   forM_ docs  $ \page -> do
+      routeCompile
+         page
+         (setExtension "html")
+         (pageCompiler
             >>> applyTemplateCompiler "templates/default.html"
-            >>> relativizeUrlsCompiler
+            >>> relativizeUrlsCompiler)
+
+justCopyFiles :: Pattern -> Rules
+justCopyFiles pattern = routeCompile pattern idRoute copyFileCompiler
+
+routeCompile :: (Binary a, Typeable a, Writable a) => Pattern -> Routes -> Compiler Resource a -> Rules
+routeCompile pattern r c = match pattern $ do
+   route r
+   compile c
+
