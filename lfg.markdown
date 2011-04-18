@@ -37,7 +37,7 @@ LFGs *can* have the following properties which make them a good basis for PRNGs:
 
 ## Period
 
-When the modulus is $2^m$ the maximum period of an additive LFG is $(2^k - 1)2^{m-1}$, 
+When the modulus is $2^m$ the maximum period of an additive LFG is $(2^k - 1)2^{m-1}$,
 assuming careful choice of
 the lags [4]. For example, when $k = 17$ and $m = 32$ the maximum period is $\approx 2^48$.
 
