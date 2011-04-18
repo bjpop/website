@@ -33,6 +33,7 @@ main = hakyll $ do
               , "imgtrans.markdown"
               , "notes.markdown"
               , "sprng.markdown"
+              , "lfg.markdown"
               ]
 
    forM_ docs  $ \page -> do

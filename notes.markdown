@@ -8,3 +8,9 @@ title: Notes
 Leopard (although probably relevant to Linux too).
 
 ****
+
+## Lagged Fibonacci Generators
+
+[Some comments on Lagged Fibonacci Generators and their implementation in SPRNG](/lfg.html).
+
+****
