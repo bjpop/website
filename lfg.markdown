@@ -1,12 +1,21 @@
 ---
-title: Lagged Fibonacci PRNGs
+title: Lagged Fibonacci Generators
 ---
 
-# Lagged Fibonacci psuedorandom number generators
+# Lagged Fibonacci Generators
 
 ## Introduction
 
-The recurrence relation for simple LFGs is:
+Lagged Fibonnaci Generators (LFGs) are a popular class of pseudo-random number generators (PRNGs).
+LFGs *can* have the following properties which make them a good basis for PRNGs:
+
+   - Efficient implementation.
+   - Long periods.
+   - Acceptable performance on standard statistical tests for randomness.
+   - A large number of independent streams of
+     numbers can be generated from the same initial values.
+
+Simple LFGs are based on recurrences of the form:
 
 $x_n = x_{n-j} \odot x_{n-k}\ (mod\ m),\ 0 < j < k$
 
@@ -15,27 +24,12 @@ the operator is $+$ the generator is *additive* (ALFG); when it is $\times$ the 
 *multiplicative* (MLFG). The indices $j,k$ are the *lags* of the generator. The modulus $m$
 reflects the fact that individual numbers in the sequence are stored in a fixed
 number of bits. For generating sequences of floating point numbers $m$
-is 1 and $x_n \in [0,1)$.
+is 1 and $x_n \in [0,1)$. Sometimes more than two lags are used.
 
-In Haskell the ALFG recurrence can be expressed like so:
-
-    alfg j k m = x
-       where
-       x n = (x (n-j) + x (n-k)) `mod` m
-
-There is, of course, one glaring omission from this definition: base case definitions for $x_{1..k}$,
-and it turns out that initialisation (seeding) is the trickiest aspect of LFGs; more on this below.
-
-LFGs *can* have the following properties which make them a good basis for PRNGs:
-
-   - Efficient implementation.
-   - Long periods.
-   - Good performance on standard statistical tests for randomness.
-   - A large number of independent streams of
-     numbers can be generated from the same initial values.
-
-Typical for recurrences of this form, an efficient implementation is based on tabulating the last $k$ values
-in the sequence. Thus $O(k)$ words of state are needed.
+The recurrence must be initialised by a sequence of values $x_{1..k}$, and it
+turns out that initialisation (seeding) is the trickiest aspect of LFGs; more on this below.
+Typical for recurrences of this form, an efficient implementation is based on remembering the last $k$ values
+in the sequence in a so-called *lag table*. Thus $O(k)$ words of state are needed.
 
 ## Period
 
@@ -46,7 +40,6 @@ common to use a modulus which is a power of two, $m = 2^p$. In this case, the ma
    - ALFG: $(2^k - 1)2^{p-1}$
    - MLFG: $(2^k - 1)2^{p-3}$
 
-To attain these maximum periods we must be careful with our choice of lags and initial sequence (seed) [4].
 For example, for the ALFG case, when $k = 1279$ and $m = 32$ the maximum period is $\approx 2^1310$.
 
 A longer period is important for applications which need a large number of pseudo random numbers, and
@@ -59,7 +52,7 @@ property has come into question more recently [9]).
 
 An LFG must be initialised by the first $k$ elements of the sequence. Some authors refer to this initial
 sequence as the *seed* of the generator. This terminology is different than the traditional
-meaning of "seed" for PRNGS, which is simply an offset into the sequence; a starting position.
+meaning of "seed" for PRNGS, where it normally refers to an offset into the sequence.
 The choice of initial values
 is signficant for the quality of the resulting sequence. For instance, if all the initial values are even in
 an ALFG,
@@ -71,12 +64,16 @@ the sequence using another PRNG (Mersenne Twister, MT19937).
 
 ## Spawning
 
-A more complex issue is that the set of all
-initialisers can be split into equivalence classes. Each member of a particular equivalence class will
-produce the same periodic sequence of numbers (but perhaps starting at a different point). For the
-ALFG, the number
-of equivalence classes is $2^{(k-1)(p-1)}$. This allows us to generate a large number of independent
-sequences of numbers, which can be useful in parallel computations.
+Coddington [6] notes that a sequential PRNG can be "parallelised" by distributing the sequence over processors in three ways:
+
+   1. Leapfrog: elements of the sequence are given to processors in a cyclic fashion. If there are $n$ processors, element $i$ is given to processor $i\ mod\ n$.
+   2. Sequential splitting: elements of the sequence are given to processes in non-overlapping sequential blocks.
+   3. Independent sequences: from a given set of initial values, some generators can produce a large set of indendent streams. This is true for LFGs, as discussed in this section.
+
+For LFGs the set of all full period sequences can be grouped into equivalence classes. From this we can 
+observe that the space of LFGs is toroidal. In one cyclic dimension we travel along a particular sequence
+of numbers. In the other cyclic dimension we travel between equivalence classes.
+For the ALFG, the number of equivalence classes is $2^{(k-1)(p-1)}$.
 It should be noted that, while the
 number of equivalence classes is large, it is still finite. It is obviously undesirable to generate all
 the indepenent sequences up front, so some method of "spawning" must be provided. That is to say, we must
@@ -96,7 +93,11 @@ can be achieved by seeding with another PRNG with good statistical properties, s
 
 ## Choice of lags
 
-Coddington [6] recommends lags of at least (1063, 1279) and and preferably much larger values (for SPRNG he says "Be sure to use the largest possible lag").
+When the modulus is a power of two, the maximal period sequence is attainable if the lags are exponents
+of a primitive polynomial. Larger lags are also said to provide better randomness properties and
+Coddington [6] recommends lag pairs of at least (1063, 1279) and and preferably much larger values 
+(for SPRNG he says "Be sure to use the largest possible lag").
+In some implementations pre-determined lags are chosen, whilst others provide a table of possible lag values.
 
 ## References
 
