@@ -34,6 +34,7 @@ main = hakyll $ do
               , "notes.markdown"
               , "sprng.markdown"
               , "lfg.markdown"
+              , "rng_test.markdown"
               ]
 
    forM_ docs  $ \page -> do

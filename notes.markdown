@@ -14,3 +14,9 @@ Leopard (although probably relevant to Linux too).
 [Some comments on Lagged Fibonacci Generators and their implementation in SPRNG](/lfg.html).
 
 ****
+
+## Tools for testing RNGs
+
+[Tools for testing pseudo random number generators](/rng_test.html).
+
+****
