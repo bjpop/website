@@ -73,7 +73,7 @@ title: Writing
 ## Slides
 * [Open recursion and fixed points (in Scala)](/docs/open_recursion.pdf). Presented at the Melbourne Scala Users Group, Monday 25 July 2011.
 
-    Classes in object oriented languages combine many different programming language features into a single abstraction. One of the key features is open recursion - the recursion on the *self* parameter which provides a late binding mechanism on method calls, making methods in superclasses extensible by subclasses. In these slides we show how the same kind of extensibility can be achieved with ordinary higher order functions and fixed points (no classes). We use Scala to demonstrate the key ideas, but they can be easily translated to any language with higher-order functions.
+    Classes in object oriented languages combine many different programming language features into a single abstraction. One of the key features is open recursion - the recursion on the *self* parameter which provides a late binding mechanism on method calls. In these slides we show how the same kind of extensibility can be achieved with ordinary higher order functions and fixed points (no classes). We use Scala to demonstrate the key ideas, but they can be easily translated to any language with higher-order functions.
 
     * [simple closed recursive form](/files/fib_closed.scala)
     * [implicit open recursion using classes](/files/fib_class.scala)
