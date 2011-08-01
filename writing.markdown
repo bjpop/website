@@ -73,7 +73,7 @@ title: Writing
 ## Slides
 * [Open recursion and fixed points (in Scala)](/docs/open_recursion.pdf). Presented at the Melbourne Scala Users Group, Monday 25 July 2011.
 
-    Classes in object oriented languages combine many different programming language features into a single absraction. One of the key features is open recursion - the recursion on the *self* parameter which provides a late binding mechanism on method calls, making methods in superclasses extensible by subclasses. In these slides we show how the same kind of extensibility can be achieved with ordinary higher order functions and fixed points (no classes). We use Scala to demonstrate the key ideas, but they can be easily translated to any language with higher-order functions.
+    Classes in object oriented languages combine many different programming language features into a single abstraction. One of the key features is open recursion - the recursion on the *self* parameter which provides a late binding mechanism on method calls, making methods in superclasses extensible by subclasses. In these slides we show how the same kind of extensibility can be achieved with ordinary higher order functions and fixed points (no classes). We use Scala to demonstrate the key ideas, but they can be easily translated to any language with higher-order functions.
 
     * [simple closed recursive form](/files/fib_closed.scala)
     * [implicit open recursion using classes](/files/fib_class.scala)
@@ -81,7 +81,7 @@ title: Writing
 
 * [The road to dependent types](/docs/dependent_types.pdf). Presented at the Melbourne Scala Users Group, Monday 28 March 2011.
 
-    [Barendregt's Lambda Cube](http://en.wikipedia.org/wiki/Lambda_cube) provides a neat characterisation of various kinds of typed Lambda Calculi. In these slides I show how we can explore the axes of the Lambda Cube by studying families of languages indexed by (possibly other) languages. For example the Simply Typed Lambda Calculus supports terms indexed by terms, whereas the Polmorhpic Lambda Calculus extends this with terms indexed by types. Taking this idea further we can also consider types indexed by types and finally arrive at types indexed by terms, which is what most people call Dependent Types.
+    [Barendregt's Lambda Cube](http://en.wikipedia.org/wiki/Lambda_cube) provides a neat characterisation of various kinds of typed Lambda Calculi. In these slides I show how we can explore the axes of the Lambda Cube by studying families of languages indexed by (possibly other) languages. For example the Simply Typed Lambda Calculus supports terms indexed by terms, whereas the Polymorphic Lambda Calculus extends this with terms indexed by types. Taking this idea further we can also consider types indexed by types and finally arrive at types indexed by terms, which is what most people call Dependent Types.
 
 * [Static Pattern Calculus](/docs/static_pattern_calculus.pdf). Presented at the Melbourne FPU, Friday 22 January 2010.
 
@@ -178,7 +178,7 @@ title: Writing
 
 * [HTML forms - a user interface to CGI applications](/docs/htmlforms.pdf).
 
-    These notes discuss how HTML forms can be used to created user interfaces to CGI applications on the web. The difference beween the GET and POST commands of the HTTP protocol is discussed, and simple examples are demonstrated in Python.
+    These notes discuss how HTML forms can be used to created user interfaces to CGI applications on the web. The difference between the GET and POST commands of the HTTP protocol is discussed, and simple examples are demonstrated in Python.
 
 * [A Haskell quiz](/docs/haskell_quiz.pdf).
 
