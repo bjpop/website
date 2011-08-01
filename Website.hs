@@ -45,11 +45,17 @@ main = hakyll $ do
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler)
 
-justCopyFiles :: Pattern -> Rules
+-- justCopyFiles :: Pattern a -> Rules
+justCopyFiles :: Pattern a -> RulesM (Pattern CopyFile)
 justCopyFiles pattern = routeCompile pattern idRoute copyFileCompiler
 
-routeCompile :: (Binary a, Typeable a, Writable a) => Pattern -> Routes -> Compiler Resource a -> Rules
+-- routeCompile :: (Binary a, Typeable a, Writable a) => Pattern b -> Routes -> Compiler Resource a -> Rules
+routeCompile :: (Binary a, Writable a, Typeable a) =>
+                 Pattern b -> Routes -> Compiler Resource a -> RulesM (Pattern a)
 routeCompile pattern r c = match pattern $ do
    route r
    compile c
+
+
+
 

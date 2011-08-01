@@ -71,6 +71,13 @@ title: Writing
 * [Bibtex entries for some of my papers](/docs/bibtex.txt).
 
 ## Slides
+* [Open recursion and fixed points (in Scala)](/docs/open_recursion.pdf). Presented at the Melbourne Scala Users Group, Monday 25 July 2011.
+
+    Classes in object oriented languages combine many different programming language features into a single absraction. One of the key features is open recursion - the recursion on the *self* parameter which provides a late binding mechanism on method calls, making methods in superclasses extensible by subclasses. In these slides we show how the same kind of extensibility can be achieved with ordinary higher order functions and fixed points (no classes). We use Scala to demonstrate the key ideas, but they can be easily translated to any language with higher-order functions.
+
+    * [simple closed recursive form](/files/fib_closed.scala)
+    * [implicit open recursion using classes](/files/fib_class.scala)
+    * [explicit open recursive form using higher-order functions](/files/fib_open.scala)
 
 * [The road to dependent types](/docs/dependent_types.pdf). Presented at the Melbourne Scala Users Group, Monday 28 March 2011.
 
@@ -129,8 +136,6 @@ title: Writing
 * [Haskell bindings to MPI](/docs/mpi_bindings.pdf). Presented at the Melbourne FPU, Friday 30 July 2010.
 
     MPI (the Message Passing Interface) is a popular communication protocol for distributed parallel programming, providing both point-to- point and collective communication operators. Traditionally MPI is used in high-performance computing applications written in imperative languages, such as C, C++ and Fortran. I've recently been working on a Haskell binding to MPI via C and the Foreign Function Interface (FFI).  One of the main challenges in writing such a binding is deciding how to map the low-level C API into idiomatic Haskell. In this talk I provide a brief overview of MPI, and then discuss the hows and whys of my current implementation effort. 
-
-
 
 
 ## Notes
