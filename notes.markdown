@@ -2,6 +2,12 @@
 title: Notes
 ---
 
+## Linux Perf Events (Performance Counters)
+
+[Notes on Linux Perf Events](/linuxPerfEvents.html).
+
+****
+
 ## Building SPRNG
 
 [Instructions for building the SPRNG Psuedo Random Number Library](/sprng.html) on OS X Snow

@@ -37,6 +37,7 @@ main = hakyll $ do
               , "sprng.markdown"
               , "lfg.markdown"
               , "rng_test.markdown"
+              , "linuxPerfEvents.markdown"
               ]
 
    forM_ docs  $ \page -> do
