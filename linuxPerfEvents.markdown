@@ -19,6 +19,14 @@ There is the kernel interface via syscalls, and then the user-space tool called 
 
     apt-get install linux-tools
 
+## Perf file format
+
+The 'perf record' command records information about performance events in a file called (by default) 'perf.data'.
+It is hard to find official documentation on the format (other than reading the source code of the perf tool).
+Some documentation is available
+in [perf file format](https://openlab-mu-internal.web.cern.ch/openlab-mu-internal/03_Documents/3_Technical_Documents/Technical_Reports/2011/Urs_Fassler_report.pdf).
+
+
 ## Alternatives
 
    * [PAPI](http://icl.cs.utk.edu/papi/)

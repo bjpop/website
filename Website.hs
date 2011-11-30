@@ -40,13 +40,20 @@ main = hakyll $ do
               , "linuxPerfEvents.markdown"
               ]
 
-   forM_ docs  $ \page -> do
+   forM_ docs $ \page -> do
       routeCompile
          page
          (setExtension "html")
          (pageCompiler
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler)
+
+   routeCompile
+      "melbPL2011.markdown"
+      (setExtension "html")
+      (pageCompiler
+         >>> applyTemplateCompiler "templates/plain.html"
+         >>> relativizeUrlsCompiler)
 
 -- justCopyFiles :: Pattern a -> Rules
 justCopyFiles :: Pattern a -> RulesM (Pattern CopyFile)

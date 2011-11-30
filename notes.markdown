@@ -2,6 +2,12 @@
 title: Notes
 ---
 
+## Melbourne Programming Languages Workshop 2011
+
+[Schedule of talks for the Melbourne Programming Languages Workshop 2011](/melbPL2011.html).
+
+****
+
 ## Linux Perf Events (Performance Counters)
 
 [Notes on Linux Perf Events](/linuxPerfEvents.html).
