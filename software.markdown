@@ -31,7 +31,28 @@ can be used in the same way as CPython (the main Python implementation).
 
 ****
 
-## buddha 
+## haskell-mpi
+
+A Haskell interface to the MPI distributed parallel library.
+
+#### Downloads
+
+* [Cabal package on hackage](http://hackage.haskell.org/package/haskell-mpi).
+* [Source repository on github](http://github.com/bjpop/haskell-mpi).
+
+    You can download the berp source repository using git with this command:
+
+    `git clone http://github.com/bjpop/haskell-mpi.git`
+
+#### Description
+
+MPI is defined by the Message-Passing Interface Standard, as specified by the Message Passing Interface Forum. The latest release of the standard is known as MPI-2. These Haskell bindings are designed to work with any standards compliant implementation of MPI-2. Examples are [MPICH2](http://www.mcs.anl.gov/research/projects/mpich2) and [OpenMPI](http://www.open-mpi.org).
+
+For an overview of using the library see the paper from issue 19 of the Monad Reader magazine [High Performance Haskell with MPI](/docs/haskell-mpi.monad.reader.pdf).
+
+****
+
+## buddha
 
 A declarative debugger for Haskell
 
@@ -50,10 +71,10 @@ buddha is a debugger for Haskell 98 programs. To be more precise, it is a declar
 
 A typical debugging session involves a number of questions and answers. The questions are posed by the debugger, and the answers are provided by the user. The questions relate to the evaluation of function applications that were made during the execution of the program. Evaluation is presented in a high-level manner, for example, something like:
 
-    Prelude 35 map 
-       arg 1  = fst 
-       arg 2  = [(True,1),(False,2)] 
-       result = [True,False] 
+    Prelude 35 map
+       arg 1  = fst
+       arg 2  = [(True,1),(False,2)]
+       result = [True,False]
 
 The above statement means: the application of `map` to `fst` and `[(True,1),(False,2)]` evaluates to `[True,False]`. The text `Prelude 35` says that the function was defined on line `35` of the module called `Prelude`. The job of the user is to determine whether the evaluation of this application is correct in their intended interpretation of the program. Of course, we presume the user knows what their program is supposed to do!
 
@@ -79,7 +100,7 @@ A ray tracer written in Haskell.
 
 A ray tracer for 3D computer graphics using wxHaskell for the GUI. I wrote bjpop-ray primarily for teaching purposes. In particular I wanted to demonstrate to first-year university students that Haskell can be used for non-trivial (and interesting) projects.
 
-#### Gallery 
+#### Gallery
 
 [bjpop-ray gallery](/bjpopray.html).
 

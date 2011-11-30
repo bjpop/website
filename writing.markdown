@@ -70,8 +70,7 @@ title: Writing
 
 * [High Performance Haskell with MPI](/docs/haskell-mpi.monad.reader.pdf). Co-authored with Dmitry Astapov, in Issue 19 of the Monad Reader online Haskell magazine. October 2011.
 
-In this article, we give a brief overview of the Haskell-MPI library and show how it can be used to write distributed para
-llel programs. We use the trapezoid method for approximating definite integrals as a motivating example and compare the performance of an implementation using Haskell-MPI to three variations of the same algorithm: a sequential Haskell program, a multi-threaded Haskell program, and a C program also using MPI.
+    In this article, we give a brief overview of the Haskell-MPI library and show how it can be used to write distributed parallel programs. We use the trapezoid method for approximating definite integrals as a motivating example and compare the performance of an implementation using Haskell-MPI to three variations of the same algorithm: a sequential Haskell program, a multi-threaded Haskell program, and a C program also using MPI.
 
 ## Slides
 
