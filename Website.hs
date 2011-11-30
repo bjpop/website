@@ -65,7 +65,3 @@ routeCompile :: (Binary a, Writable a, Typeable a) =>
 routeCompile pattern r c = match pattern $ do
    route r
    compile c
-
-
-
-
