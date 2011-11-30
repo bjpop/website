@@ -6,7 +6,7 @@ title: Software
 
 [Turtle graphics in Javascript](/html/js-turtle/turtle.html).
 
-[Logo](http://en.wikipedia.org/wiki/Logo_(programming_language) is a popular choice
+[Logo](http://en.wikipedia.org/wiki/Logo_(programming_language)) is a popular choice
 for teaching programming to beginners. Its most significant feature is *turtle graphics* which
 provides a simple way to create graphical programs. js-turtle is a re-implementation of
 turtle graphics using the Javascript language. It runs directly in a web page using the canvas
