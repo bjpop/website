@@ -68,9 +68,13 @@ title: Writing
 
     Major releases of GHC are highly anticipated events, especially because of all the exciting new features they bring. The 6.8 series was a particularly impressive example, which came with lots of goodies, including a shiny new debugger. In this article we take the debugger out for a test run, and see what it can do.
 
-* [Bibtex entries for some of my papers](/docs/bibtex.txt).
+* [High Performance Haskell with MPI](/docs/haskell-mpi.monad.reader.pdf). Co-authored with Dmitry Astapov, in Issue 19 of the Monad Reader online Haskell magazine. October 2011.
+
+In this article, we give a brief overview of the Haskell-MPI library and show how it can be used to write distributed para
+llel programs. We use the trapezoid method for approximating definite integrals as a motivating example and compare the performance of an implementation using Haskell-MPI to three variations of the same algorithm: a sequential Haskell program, a multi-threaded Haskell program, and a C program also using MPI.
 
 ## Slides
+
 * [Open recursion and fixed points (in Scala)](/docs/open_recursion.pdf). Presented at the Melbourne Scala Users Group, Monday 25 July 2011.
 
     Classes in object oriented languages combine many different programming language features into a single abstraction. One of the key features is open recursion - the recursion on the *self* parameter which provides a late binding mechanism on method calls. In these slides we show how the same kind of extensibility can be achieved with ordinary higher order functions and fixed points (no classes). We use Scala to demonstrate the key ideas, but they can be easily translated to any language with higher-order functions.
