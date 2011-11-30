@@ -20,6 +20,7 @@ main = hakyll $ do
          , "html/lsystem/*"
          , "html/ministg/*"
          , "html/pycol/*"
+         , "html/js-turtle/*"
          , "docs/*"
          ]
 
