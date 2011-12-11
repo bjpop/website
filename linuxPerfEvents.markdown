@@ -11,6 +11,10 @@ It is rather hard to find authorative information about performance counters on 
 what is the official name? It could be "Performance Counters for Linux" or perhaps "Linux Perf Events".
 There is the kernel interface via syscalls, and then the user-space tool called "perf".
 
+One source of information is the [Unofficial Linux Perf Events Web-Page](http://web.eecs.utk.edu/~vweaver1/projects/perf-events),
+which is motivated by the lack of official documentation for the project.
+
+
 ## The perf command
 
 [A short tutorial on using the perf command](http://www.baptiste-wicht.com/2011/07/profile-applications-linux-perf-tools/)
