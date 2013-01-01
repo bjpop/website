@@ -2,33 +2,77 @@
 title: Notes
 ---
 
-## Melbourne Programming Languages Workshop 2011
+## Notes and other bits of information.
 
-[Schedule of talks for the Melbourne Programming Languages Workshop 2011](/melbPL2011.html).
+* [Melbourne Programming Languages Workshop 2011](/melbPL2011.html).
 
-****
+    To celebrate the presence of Simon Peyton Jones and John Hughes in Australia (to speak at the YOW! 2011 conference) I organised a local Programming Languages Research Workshop in Melbourne. We had a great turnout and a very impressive lineup of talks. 
 
-## Linux Perf Events (Performance Counters)
+* [Linux Perf Events (Performance Counters)](/linuxPerfEvents.html).
 
-[Notes on Linux Perf Events](/linuxPerfEvents.html).
+    Some notes I've taken about Linux Performance Counters whilst working on the linux-perf Haskell library.
 
-****
+* [Building SPRNG](/sprng.html).
 
-## Building SPRNG
+    Instructions for building the SPRNG Psuedo Random Number Library on OS X Snow Leopard (although probably relevant to Linux too).
 
-[Instructions for building the SPRNG Psuedo Random Number Library](/sprng.html) on OS X Snow
-Leopard (although probably relevant to Linux too).
+* [Lagged Fibonacci Generators](/lfg.html).
 
-****
+    Some comments on Lagged Fibonacci Generators (for pseudo random numbers) and their implementation in SPRNG.
 
-## Lagged Fibonacci Generators
+* [Tools for testing RNGs](/rng_test.html).
 
-[Some comments on Lagged Fibonacci Generators and their implementation in SPRNG](/lfg.html).
+    Tools for testing pseudo random number generators.
 
-****
 
-## Tools for testing RNGs
+* [Fixed points](/docs/fixed_points.txt).
 
-[Tools for testing pseudo random number generators](/rng_test.html).
+    Given a function f, if there exists a value x, such that x = f(x), then we say that x is a fixed point of f. A function may have zero fixed points, or it may have one, or many. In fact, a function can have infinitely many fixed points. These notes explore the idea of fixed points in the semantics of programming languages.
 
-****
+* [The Scott Encoding of data types into the lambda calculus](/docs/scott_encoding.txt).
+
+    The purpose of the Scott encoding (SE) is to transform programs with algebraic data types into pure lambda calculus (LC) terms. This is a simple and effective way to compile more full-featured languages into LC. The key idea in SE is to turn data constructors into functions which select from a set of alternatives, thus encoding the behaviour of case statements.
+
+* [The Pure Lambda Calculus](/docs/pure_lambda_calculus.txt).
+
+    Church's Lambda Calculus is one of the cornerstones of theoretical Computer Science. These notes describe the syntax and semantics of the Pure Lambda Calculus (the simplest version of the lambda calculus). They also define some of the key terms used in the field.
+
+* [Monad Transformers](/docs/MonadTransformers.lhs).
+
+    Monad transformers are type constructors which are parameterised by monads. A monad transformer applied to a monad yields a (new) monad. Monad transformers are of great utility in functional programming, as they allow us to build libraries for modular semantic features. In these notes we show that the Parser monad can be reconstructed from the Maybe monad (aka failure monad), and a state monad transformer.
+
+* [Indexing for fast search in Python](/docs/indexing.pdf).
+
+    These notes discuss the use of an index to improve the performance of searching in CSV data. The notes use Python and demonstrate the use of dictionaries, pickling and reading CSV files.
+
+* [Binary search trees in Python](/docs/binary_search_trees.pdf).
+
+    These notes illustrate a simple way to implement a dictionary using binary search trees in Python. Performance is compared with linear search and Python's built in dictionaries.
+
+* [Recursion in Python](/docs/recursion.pdf).
+
+    These notes discuss the important concept of recursion. Topics discussed are: divide and conquer problem solving, recursive data structures (binary search trees and XML), Python programming.
+
+* [HTTP cookies](/docs/cookies.pdf).
+
+    These notes explain the motivation for cookies in the HTTP protocol, and show simple use cases in Python CGI scripts.
+
+* [CGI - facilitating interactive web applications](/docs/cgi.pdf).
+
+    These notes explain the Common Gateway Interface, more commonly known as CGI. They discuss the HTTP protocol and show how CGI scripts communicate with clients on the web. Simple examples are demonstrated in Python.
+
+* [HTML forms - a user interface to CGI applications](/docs/htmlforms.pdf).
+
+    These notes discuss how HTML forms can be used to created user interfaces to CGI applications on the web. The difference between the GET and POST commands of the HTTP protocol is discussed, and simple examples are demonstrated in Python.
+
+* [A Haskell quiz](/docs/haskell_quiz.pdf).
+
+    Test your knowledge of Haskell in this quiz.
+
+* [A Lambda Calculus quiz](/docs/lambda_calculus_quiz.pdf).
+
+    Test your knowledge of the Lambda Calculus in this quiz.
+
+* [Ninety nine bottles of beer on the wall - a study in repetition](/docs/Ninety_nine_bottles_of_beer_on_the_wall_.pdf).
+
+    A tutorial for teaching looping to novice programmers, based on the well-known song *Ninety nine bottles of beer on the wall*.

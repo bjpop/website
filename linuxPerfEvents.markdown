@@ -125,6 +125,67 @@ in `linux/arch/x86/kernel/tsc.c`. You might be able to read the value of this cl
 `clock_gettime(CLOCK_MONOTONIC, ...)`, although I'm not sure it is guaranteed to line up with the counter that perf
 uses.
 
+## Extending ThreadScope to support perf events
+
+How to incorporate perf event information into the GHC event format used by ThreadScope?
+
+These are the design issues I can think of:
+
+   1. How to synchronise the perf timestamps with the time format used by GHC events?
+   2. How to encode the perf events in the GHC event log format?
+
+### Synchronising timestamps
+
+The perf timestamps are based on some kind of internal clock, perhaps the TSC hardware. 
+A simple approach would be to just synchronise the timestamps at the start
+of the profiled program, but this runs the risk of them drifting apart over the length of the computation.
+It is not clear how CPU frequency scaling affects the perf clock, and the clock probably doesn't
+run if the CPU core hibernates. For these reasons it is probably necessary to synchronise the two timestamps
+on a regular basis throughout the execution of the traced program.
+
+There are a number of ways we might try to synchronise the timestamps:
+
+   * Look for a known sys-call in the perf event log which happens at a known time-of-day. For example, we could look
+     for calls to `gettimeofday`. Alternatively, it might be possible to get the GHC RTS to emit some kind of
+     innocuous sys-call at various intervals throughout the execution of the traced program. 
+   * We could get the GHC RTS to sample the same clock that perf is using for its timestamps. Unfortunately there
+     does not appear to be a portable way to do this, as the clock used is system specific. However, for many
+     systems it is possible that the POSIX `clock_gettime(CLOCK_MONOTONIC, ...)` will work.
+
+It is worth noting that any kind of sys-call sampling is likely to lead to "observer effects" whereby the 
+re-scheduling due to the sys-call will affect the runtime behaviour of the traced Haskell program.
+
+### Encoding perf events in the GHC event format
+
+The GHC event format specifies in its header a fixed number of event types. Each event instance in the payload of
+the file should have one of those types. As seen below there is a very large number of event types that
+the perf tool can record. Obviously in the context of ThreadScope we are only interested in a limited subset of
+all possible events. There appears to be a couple of choices regarding the encoding of perf events in the GHC
+event stream:
+
+   1. Pick a fixed subset of the perf events and add them to the fixed set of GHC event types.
+   2. Allow for any number of different perf events to be encoded in the GHC event stream. 
+   3. A combination of the above two approaches.
+
+The advantages of option 1 are that is easy to implement and probably nicer for the visualisation part of ThreadScope
+since it knows all the possible event types in advance. It may be possible and advantageous to pick a subset of events
+that are likely to be available on other platforms (CPU, operating system, and tracing framework).
+
+The advantage of option 2 is that it allows the user more flexibility with the set of events to include and will be
+forwards and backwards compatible with different version of the perf tool.
+
+Option 2 could be implemented using a two-level encoding. The first level of the encoding adds two new event types
+to the GHC header:
+
+   1. A perf event meta-type.
+   2. A perf event record.
+
+Instances of the meta-type are pseudo events which encode true perf event types. They contain a string name of
+the actual perf event, and a unique integer token identifying them. Instances of the perf event record are actual
+event values. They contain timestamp and other information such as thread-id, plus an integer token which links
+the event to its corresponding perf type. The program which reads the perf event stream will have to be extended
+to be aware of the two-level encoding.
+
 ## Types of events
 
 You can get a listing of all the available events with the command:

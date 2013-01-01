@@ -30,6 +30,7 @@ main = hakyll $ do
    let docs = [ "index.markdown"
               , "contact.markdown"
               , "writing.markdown"
+              , "presentations.markdown"
               , "software.markdown"
               , "lsystem.markdown"
               , "bjpopray.markdown"

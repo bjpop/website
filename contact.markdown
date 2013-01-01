@@ -4,6 +4,10 @@ title: Contact
 
 ## Email 
 
+<div class=figure>
+![](/images/eyes.png "self portrait of my eyes")
+</div>
+
 (reversed) *ua.ude.bleminu@epopjb*
 
 ## Post

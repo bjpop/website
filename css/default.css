@@ -22,6 +22,11 @@ div.figure {
    margin-left:15px
 }
 
+div.figure_left { 
+   float:left;
+   margin-right:15px
+}
+
 a {
    color:#386794;
    text-decoration:none

@@ -2,6 +2,31 @@
 title: Software
 ---
 
+## Haskell linux-perf 
+
+A Haskell library for reading and processing Linux performance counter trace-file data.
+
+#### Downloads
+
+* [Cabal package on hackage](http://hackage.haskell.org/package/linux-perf).
+* [Source repository on github](https://github.com/bjpop/haskell-linux-perf).
+
+    You can download the haskell linux-perf source repository using git with this command:
+
+    `git clone https://github.com/bjpop/haskell-linux-perf` 
+
+#### Documentaion
+
+* [My notes about Linux performance counters](/linuxPerfEvents.html).
+
+#### Description 
+
+This library is for parsing, representing in Haskell and pretty printing the data file output of the Linux perf command. The perf command provides performance profiling information for applications running under the Linux operating system. This information includes hardware performance counters and kernel tracepoints.
+
+Modern CPUs can provide information about the runtime behaviour of software through so-called [hardware performance counters](http://en.wikipedia.org/wiki/Hardware_performance_counter). Recent versions of the Linux kernel (since 2.6.31) provide a generic interface to low-level events for running processes. This includes access to hardware counters but also a wide array of software events such as page faults, scheduling activity and system calls. A userspace tool called perf is built on top of the kernel interface, which provides a convenient way to record and view events for running processes.
+
+****
+
 ## js-turtle
 
 [Turtle graphics in Javascript](/html/js-turtle/turtle.html).
