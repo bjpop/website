@@ -40,6 +40,7 @@ main = hakyll $ do
               , "lfg.markdown"
               , "rng_test.markdown"
               , "linuxPerfEvents.markdown"
+              , "bioinfPubs.markdown"
               ]
 
    forM_ docs $ \page -> do

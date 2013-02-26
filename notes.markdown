@@ -4,6 +4,10 @@ title: Notes
 
 ## Notes and other bits of information.
 
+* [Publishing Bioinformatics Software](/bioinfPubs.html).
+
+    A non-exhaustive list of places to publish papers on bioinformatics software. 
+
 * [Melbourne Programming Languages Workshop 2011](/melbPL2011.html).
 
     To celebrate the presence of Simon Peyton Jones and John Hughes in Australia (to speak at the YOW! 2011 conference) I organised a local Programming Languages Research Workshop in Melbourne. We had a great turnout and a very impressive lineup of talks. 
