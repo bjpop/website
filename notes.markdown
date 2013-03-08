@@ -4,6 +4,10 @@ title: Notes
 
 ## Notes and other bits of information.
 
+* [Variant Annotation Tools](/variantAnnotationTools.html).
+
+    A non-exhaustive list of public tools for variant annotation. 
+
 * [Publishing Bioinformatics Software](/bioinfPubs.html).
 
     A non-exhaustive list of places to publish papers on bioinformatics software. 

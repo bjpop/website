@@ -34,6 +34,7 @@ main = hakyll $ do
               , "software.markdown"
               , "lsystem.markdown"
               , "bjpopray.markdown"
+              , "pyray.markdown"
               , "imgtrans.markdown"
               , "notes.markdown"
               , "sprng.markdown"
@@ -41,6 +42,7 @@ main = hakyll $ do
               , "rng_test.markdown"
               , "linuxPerfEvents.markdown"
               , "bioinfPubs.markdown"
+              , "variantAnnotationTools.markdown"
               ]
 
    forM_ docs $ \page -> do

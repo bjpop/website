@@ -2,6 +2,69 @@
 title: Software
 ---
 
+## FAVR
+
+Filtering and Annotation of Variants that are Rare
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/favr).
+
+    You can download the FAVR source repository using git with this command:
+
+    `git clone https://github.com/bjpop/favr` 
+
+#### Description 
+
+Characterizing genetic diversity through the analysis of massively parallel
+sequence (MPS) data offers enormous potential in terms of our understanding of
+predisposition to complex human disease. Great challenges remain, however,
+regarding our ability to resolve those genetic variants that are genuinely
+associated with disease from the millions of "bystanders" and artefactual
+signals. FAVR is designed to assist in the resolution of some of these issues
+in the context of rare germline variants by facilitating "platform-steered"
+artefact filtering.
+
+This program is described in the paper [FAVR (Filtering and Annotation of Variants that are Rare): methods to facilitate the analysis of rare germline genetic variants from massively parallel sequencing datasets](http://www.biomedcentral.com/1471-2105/14/65/abstract), published in BMC Bioinformatics.
+
+****
+
+## Python ray tracer
+
+A simple ray tracer written in Python.
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/pyray).
+
+    You can download the source repository using git with this command:
+
+    `git clone https://github.com/bjpop/pyray` 
+
+#### Description 
+
+This module implements a simple ray tracer. Its features are:
+
+   - Multiple point (white) light sources.
+   - Multiple coloured objects (spheres, planes).
+   - Ambient illumination (simulating scattered light).
+   - Diffuse illumination (simulating light scattering surfaces).
+   - Specular illumination using the Phong model (simulating highlights).
+   - Reflective illumination (simulating mirrored surfaces).
+   - Shadows.
+
+It was written for the purposes of demonstrating Ray Tracing in an 
+Advanced Lecture of the University of Melbourne subject COMP10001
+Foundations of Computing. As such the emphasis is on simplicity and
+clarity over performance. There are many ways to make this program
+faster, but usually at the expence of code readability.
+
+#### Gallery
+
+[pyray gallery](/pyray.html)
+
+****
+
 ## Haskell linux-perf 
 
 A Haskell library for reading and processing Linux performance counter trace-file data.
