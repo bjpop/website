@@ -2,9 +2,47 @@
 title: Software
 ---
 
+## Blip 
+
+A bytecode compiler for Python 3.
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/blip).
+
+    You can download the Blip source repository using git with this command:
+
+    `git clone https://github.com/bjpop/blip` 
+
+#### Description 
+
+Blip compiles Python 3 source files to bytecode. The output bytecode
+is compatible with the CPython interpreter. For example, given a Python 3 
+source file called `foo.py`, the command:
+
+   `blip foo.py`
+
+produces a bytecode file called `foo.pyc`. The bytecode can be executed
+by passing it as an argument to a CPython interpreter:
+
+   `python3 foo.pyc`
+
+You can specify more than one python source file on the command line;
+Blip will compile them all in sequence, stopping at the first error
+encountered.
+
+The Blip source tree also includes code for a program called `readpyc`,
+which can be used for pretty printing the contents of `.pyc` files:
+
+   `readpyc foo.pyc`
+
+More details are on the [blip wiki](https://github.com/bjpop/blip/wiki).
+
+****
+
 ## FAVR
 
-Filtering and Annotation of Variants that are Rare
+Filtering and Annotation of Variants that are Rare.
 
 #### Downloads
 
