@@ -49,24 +49,33 @@ main = hakyll $ do
       routeCompile
          page
          (setExtension "html")
-         (pageCompiler
-            >>> applyTemplateCompiler "templates/default.html"
-            >>> relativizeUrlsCompiler)
+         (compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls)
 
    routeCompile
       "melbPL2011.markdown"
       (setExtension "html")
-      (pageCompiler
-         >>> applyTemplateCompiler "templates/plain.html"
-         >>> relativizeUrlsCompiler)
+      (compile $ pandocCompiler
+         >>= loadAndApplyTemplate "templates/plain.html" defaultContext
+         >>= relativizeUrls)
+
+   routeCompile
+      "melbPL2013.markdown"
+      (setExtension "html")
+      (compile $ pandocCompiler
+         >>= loadAndApplyTemplate "templates/plain.html" defaultContext
+         >>= relativizeUrls)
 
 -- justCopyFiles :: Pattern a -> Rules
-justCopyFiles :: Pattern a -> RulesM (Pattern CopyFile)
+-- justCopyFiles :: Pattern a -> Rules (Pattern CopyFile)
 justCopyFiles pattern = routeCompile pattern idRoute copyFileCompiler
 
 -- routeCompile :: (Binary a, Typeable a, Writable a) => Pattern b -> Routes -> Compiler Resource a -> Rules
+{-
 routeCompile :: (Binary a, Writable a, Typeable a) =>
-                 Pattern b -> Routes -> Compiler Resource a -> RulesM (Pattern a)
+                 Pattern b -> Routes -> Compiler Resource a -> Rules (Pattern a)
+-}
 routeCompile pattern r c = match pattern $ do
    route r
    compile c
