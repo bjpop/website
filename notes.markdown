@@ -4,6 +4,10 @@ title: Notes
 
 ## Notes and other bits of information.
 
+* [Melbourne Programming Languages Workshop 2013](/melbPL2013.html).
+
+    To celebrate the presence of Phil Wadler, Gilad Bracha and Daniel Spiewak in Australia (to speak at the YOW! 2013 conference) we organised a local Programming Languages Research Workshop in Melbourne. We had a great turnout and a very impressive lineup of talks. 
+
 * [Variant Annotation Tools](/variantAnnotationTools.html).
 
     A non-exhaustive list of public tools for variant annotation. 
@@ -14,7 +18,7 @@ title: Notes
 
 * [Melbourne Programming Languages Workshop 2011](/melbPL2011.html).
 
-    To celebrate the presence of Simon Peyton Jones and John Hughes in Australia (to speak at the YOW! 2011 conference) I organised a local Programming Languages Research Workshop in Melbourne. We had a great turnout and a very impressive lineup of talks. 
+    To celebrate the presence of Simon Peyton Jones and John Hughes in Australia (to speak at the YOW! 2011 conference) we organised a local Programming Languages Research Workshop in Melbourne. We had a great turnout and a very impressive lineup of talks. 
 
 * [Linux Perf Events (Performance Counters)](/linuxPerfEvents.html).
 
