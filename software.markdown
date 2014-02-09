@@ -2,6 +2,55 @@
 title: Software
 ---
 
+## ROVER 
+
+Read-pair overlap considerate variant-calling software for PCR-based massively parallel sequencing datasets.
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/rover).
+
+    You can download the ROVER source repository using git with this command:
+
+    `git clone https://github.com/bjpop/rover` 
+
+#### Description 
+
+ROVER-PCR Variant Caller enables users to quickly and accurately identify
+genetic variants from PCR-targeted, overlapping paired-end MPS datasets. The
+open-source availability of the software and threshold tailorability enables
+broad access for a range of PCR-MPS users.
+
+This program is described in the paper [ROVER variant caller: read-pair overlap considerate variant-calling software
+   applied to PCR-based massively parallel sequencing datasets](http://www.scfbm.org/content/9/1/3), published in Source Code for Biology and Medicine.
+
+****
+
+## SLURM job script generator
+
+[An interactive job script generator for SLURM in a web page](/html/jobscript/slurm.html).
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/jobscript_generator).
+
+    You can download the source repository using git with this command:
+
+    `git clone https://github.com/bjpop/jobscript_generator` 
+
+#### Description 
+
+The [SLURM resource manager]("http://slurm.schedmd.com/") is a popular
+tool in high-performance computing. Users can describe their compute jobs
+in terms of the resources they need, such as walltime, number of cores,
+amount of RAM per core, and so on.
+
+The job script generator is a web page which translates the details of
+a compute job into a batch script for the SLURM system. The batch
+script can then be used to submit a job via the sbatch command.
+
+****
+
 ## Blip 
 
 A bytecode compiler for Python 3.
