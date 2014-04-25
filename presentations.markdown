@@ -2,6 +2,14 @@
 title: Presentations
 ---
 
+* [Implementing Python in Haskell, twice](/docs/ImplementPythonInHaskell.pdf). Presented at the Melbourne Haskell Users Group, Thursday 24th April 2014. 
+
+    Over the past couple of years I've developed an unusual hobby: implementing Python in Haskell.
+
+    The first iteration resulted in [berp](https://github.com/bjpop/berp), a Python-to-Haskell translator. The second iteration resulted in [blip](https://github.com/bjpop/blip), which compiles Python to bytecode, and is compatible with the standard Python implementation CPython.
+
+    In this talk I explain how I picked up this hobby, and where it might be going. I also talk about various Haskell features which underpin the two implementations.
+
 * [Functional Graphics in Python](/docs/functional_graphics_python.pdf). An advanced lecture in COMP10001 Foundations of Computing at The University of Melbourne, 2013.
 
     The conventional way to represent computer graphics is with a two-dimensional array of pixels. In these slides we illustrate an alternative approach using functions from continuous coordinates to pixel values. Apart from being a neat idea, this representation provides great expressiveness for image transformations, and allows us to do impressive things with only a small amount of code. In these slides we use Python, but the same idea can be applied in any language with higher-order functions. 
