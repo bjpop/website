@@ -3,6 +3,27 @@ title: Software
 software: True
 ---
 
+## Annokey 
+
+Gene-based search for key-terms in the NCBI gene database and associated PubMed abstracts.
+
+[Wesbsite](http://bjpop.github.io/annokey/)
+
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/annokey).
+
+    You can download the Annokey source repository using git with this command:
+
+    `git clone https://github.com/bjpop/annokey` 
+
+#### Description 
+
+Annokey is a command line tool for annotating gene lists with the results of a key-term search of the NCBI Gene database and linked PubMed article abstracts. Its purpose is to help users prioritise genes by relevance to a domain of interest, such as "breast cancer" or "DNA repair" etcetera. The user steers the search by specifying a ranked list of keywords and terms that are likely to be highly correlated with their domain of interest.
+
+****
+
 ## ROVER 
 
 Read-pair overlap considerate variant-calling software for PCR-based massively parallel sequencing datasets.
