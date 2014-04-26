@@ -23,16 +23,15 @@ academia: True
 * Funding body: Cancer Council Victoria
 * Period: 2014 - 2015
 * Value: $200,000 AUD
-* Collaborators: Dr Daniel Park (The University of Melbourne), Prof David Goldgar (University of Utah),
-Prof Melissa Southey (The University of Melbourne)
-* My Role: Chief Investigator
+* Chief Investigators: Dr Daniel Park, Prof David Goldgar, Dr Bernard Pope, Dr Tu Nguyen-Dumont, A/Prof Andrew Lonie
+* My Role: Chief Investigator (C)
 
 ### Massively parallel sequencing and PCR optimised for DNA-based diagnosis and discovery
 
 * Funding body: National Health and Medical Research Council (NHMRC, Australia)
 * Period: 2012 - 2014
 * Value: $196,544 AUD
-* Collaborators Dr Daniel Park (The University of Melbourne).
+* Chief Investigators: Dr Daniel Park and Dr Bernard Pope.
 * My Role: Chief Investigator (B)
 
 ### High Risk Genes for Lobular Breast Cancer
@@ -40,8 +39,7 @@ Prof Melissa Southey (The University of Melbourne)
 * Funding body: Cancer Australia
 * Period: 2013 - 2015
 * Value: $300,000 AUD
-* Collaborators: Prof Melissa Southey (The University of Melbourne), Prof David Goldgar
-          (University of Utah) et al.
+* Chief Investigators: Prof Melissa Southey, Prof David Goldgar, Dr Daniel Park, A/Prof Andrew Lonie, Prof Ingrid Winship, Dr Peter Simpson, and Prof Sunil Lakhani.
 * My Role: Associate Investigator
 
 ### Identifying key players in the spread of antimicrobial resistance.
@@ -49,7 +47,7 @@ Prof Melissa Southey (The University of Melbourne)
 * Funding body: National Health and Medical Research Council (NHMRC, Australia)
 * Preiod: 2013 - 2016
 * Value: $789,320 AUD
-* Collaborators: Dr Kathryn Holt, Dr Michael Inouye, Prof Justin Zobel (The University of Melbourne), Prof Ruth Hall (The University of Sydney).
+* Chief Investigators: Dr Kathryn Holt, Dr Michael Inouye, Prof Justin Zobel, Prof Ruth Hall.
 * My Role: Associate Investigator
 </div>
 

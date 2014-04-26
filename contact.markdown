@@ -13,6 +13,7 @@ contact: True
 <div class="pure-u-1-2">
 ## Post
 
+Dr Bernard Pope \
 Victorian Life Sciences Computation Initiative \
 The University of Melbourne \
 187 Grattan Street, Carlton, Victoria \

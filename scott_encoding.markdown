@@ -1,0 +1,143 @@
+---
+title: Scott Encoding
+---
+
+The purpose of the Scott encoding (SE) is to transform programs with algebraic 
+data types into pure lambda calculus (LC) terms. We have seen in the workshops that
+this is a simple and effective way to compile more full-featured languages into LC.
+
+The key idea in SE is to turn data constructors into functions which select from
+a set of alternatives, thus "encoding" the behaviour of case statements.
+ 
+Here is the general form of a case statement:
+
+    case e of
+       pat_1 -> body_1
+       ...  -> ...
+       pat_N -> body_N 
+
+e, body_1 ... body_N are all expressions, 
+and pat_1 ... pat_N are patterns.
+
+Roughly speaking we want to turn the case statement into a function application of
+the form:
+
+    e* body_1* ... body_N*
+
+where e* is the encoded form of e, and
+body_1* ... body_N* are encoded forms of body_1 ... body_N, (which also bind any
+variables which are mentioned in pat_1 ... pat_N).
+
+It is clear from the above that e* somehow must choose between the bodies, depending
+on which data constructor e* encodes.
+
+Lets consider an example. Suppose we have:
+
+    data Bool = True | False
+
+Case statements over booleans have this form:
+
+    case e of
+       True -> true_body
+       False -> false_body
+
+We want to transform the above case statement into:
+
+    e* true_body* false_body*
+
+So, if e* evaluates to the encoding of True, then it must choose true_body*, and if
+it evaluates to the encoding of False, it must choose false_body*.
+
+The "obvious" encoding of True is thus:
+
+    true = \t -> \f -> t
+
+and likewise for False:
+
+    false = \t -> \f -> f 
+
+The encoding requires a little bit more work to handle data constructors which
+have parameters.
+
+Consider the Maybe type:
+
+    data Maybe a = Nothing | Just a
+
+Case statements over Maybes have this form:
+
+    case e of
+       Nothing -> nothing_body
+       Just x -> just_body
+
+Note that Just has a parameter x, which _may_ be mentioned in the expression
+just_body.
+
+It is easy enough to encode Nothing:
+
+    nothing = \n -> \j -> n
+
+The encoding of Just must handle x:
+
+    just = \x -> \n -> \j -> j x
+
+which we could write:
+
+    just x = \n -> \j -> j x
+
+Note that the j stands for the just_body, and it is a function which is
+applied to x.
+
+Hopefully it is clear how to extend this to types with many data constructors,
+and constructors with multiple parameters.
+
+There are a couple of small points to consider to make this work for all
+(Haskell like) programs.
+
+First, languages like Haskell allow case expressions which do not 
+cover all possible data constructors of a type, and they allow catch-all
+cases:
+
+    data Wibble = Foo | Bar | Woz | Norbert 
+
+    case e of
+       Foo -> foo_body
+       Bar -> bar_body
+       _   -> some_body
+
+The underscore is a "wildcard pattern" which matches anything which is not 
+Foo or Bar. The SE requires that all cases are handled
+individually. The easiest way is to duplicate the wildcard case:
+
+    e* foo_body* bar_body* some_body* some_body*
+
+or even better:
+
+    let x = some_body* in e* foo_body* bar_body* x x
+
+Obviously this is not ideal for types which have very large numbers of
+data constructors. 
+
+Second, languages like Haskell allow nested patterns:
+
+    case e of
+       Just Foo -> just_foo_body
+       Just Bar -> just_bar_body
+       Just _   -> just_some_body
+       _ -> nothing_body 
+
+The SE doesn't handle nested patterns directly. However, a 
+work-around is to "flatten" the nested patterns:
+
+    case e of
+       Just x -> case x of
+                    Foo -> just_foo_body
+                    Bar -> just_bar_body
+                    _   -> just_some_body
+       _ -> nothing_body
+
+The flattened form can now be handled by the SE.
+
+In fact this flattening process is a standard part of implementing pattern
+matching, so most compilers do it anyway. The most common form of
+the flattening algorithm is by Phil Wadler (called the "pattern matching
+compiler" algorithm - look it up if you are curious).

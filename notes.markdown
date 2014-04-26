@@ -45,19 +45,19 @@ Tools for testing pseudo random number generators.
 
 ****
 
-### [Fixed points](/docs/fixed_points.txt)
+### [Fixed points](/fixed_points.html)
 
 Given a function f, if there exists a value x, such that x = f(x), then we say that x is a fixed point of f. A function may have zero fixed points, or it may have one, or many. In fact, a function can have infinitely many fixed points. These notes explore the idea of fixed points in the semantics of programming languages.
 
 ****
 
-### [The Scott Encoding of data types into the lambda calculus](/docs/scott_encoding.txt)
+### [The Scott Encoding of data types into the lambda calculus](/scott_encoding.html)
 
 The purpose of the Scott encoding (SE) is to transform programs with algebraic data types into pure lambda calculus (LC) terms. This is a simple and effective way to compile more full-featured languages into LC. The key idea in SE is to turn data constructors into functions which select from a set of alternatives, thus encoding the behaviour of case statements.
 
 ****
 
-### [The Pure Lambda Calculus](/docs/pure_lambda_calculus.txt)
+### [The Pure Lambda Calculus](/pure_lambda_calculus.html)
 
 Church's Lambda Calculus is one of the cornerstones of theoretical Computer Science. These notes describe the syntax and semantics of the Pure Lambda Calculus (the simplest version of the lambda calculus). They also define some of the key terms used in the field.
 
