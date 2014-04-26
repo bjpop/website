@@ -96,6 +96,15 @@ academia: True
 * Topics: Python Programming, Data Manipulation, Web Programming 
 * My Role: Lecturer 
 
+### Functional Programming
+
+* Institution: The University of Melbourne
+* Date: Semester 1 2008
+* Year Level: Honours and Masters 
+* Class Size: 12
+* Topics: Functional Programming, Type Systems, Semantics
+* My Role: Lecturer
+
 ### Algorithmic Problem Solving
 
 * Institution: The University of Melbourne
