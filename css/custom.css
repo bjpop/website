@@ -1,0 +1,12 @@
+body {
+    text-align: justify;
+}
+
+.gridbox{
+    padding: 2em;
+}
+
+.menu-center{
+   display: table;   /* Allow the centering to work */
+   margin: 0 auto;
+}

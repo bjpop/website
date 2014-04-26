@@ -1,0 +1,346 @@
+---
+title: Papers 
+papers: True
+---
+
+### ROVER variant caller: read-pair overlap considerate variant-calling software applied to PCR-based massively parallel sequencing datasets
+
+Authors: B. Pope, T. Nguyen-Dumont, F. Hammet and D. Park.
+
+Journal: [Source Code for Biology and Medicine, 2014](http://www.scfbm.org/content/9/1/3)
+
+Topics: Bioinformatics, Genomics, DNA Sequencing, Variant Calling
+
+
+#### Abstract 
+
+We recently described Hi-Plex, a highly multiplexed PCR-based target-enrichment system for massively parallel sequencing (MPS), which allows the uniform definition of library size so that subsequent paired-end sequencing can achieve complete overlap of read pairs. Variant calling from Hi-Plex-derived datasets can thus rely on the identification of variants appearing in both reads of read-pairs, permitting stringent filtering of sequencing chemistry-induced errors. These principles underly ROVER software (derived from Read Overlap PCR-MPS variant caller), which we have recently used to report the screening for genetic mutations in the breast cancer predisposition gene PALB2. Here, we describe the algorithms underlying ROVER and its usage.
+
+****
+
+### Hi-Plex for high-throughput mutation screening: application to the breast cancer susceptibility gene PALB2
+
+Authors: T. Nguyen-Dumont, Z.L. Teo, B.J. Pope, F. Hammet, M. Mahmoodi, H. Tsimiklis, N. Sabbaghian, M. Tischkowitz, W.D. Foulkes, Kathleen Cuningham Foundation Consortium for research into Familial Breast cancer (kConFab), G.G. Giles, J.L. Hopper, Australian Breast Cancer Family Registry, M.C. Southey, D.J. Park.
+
+Journal: [BMC Medical Genomics, 2013](http://www.biomedcentral.com/1755-8794/6/48)
+
+Topics: Bioinformatics, Genomics, DNA Sequencing, Breast Cancer, Multiplex PCR
+
+#### Abstract 
+
+Massively parallel sequencing (MPS) has revolutionised biomedical research and offers enormous capacity for clinical application. We previously reported Hi-Plex, a streamlined highly-multiplexed PCR-MPS approach, allowing a given library to be sequenced with both the Ion Torrent and TruSeq chemistries. Comparable sequencing efficiency was achieved using material derived from lymphoblastoid cell lines and formalin-fixed paraffin-embedded tumour. Here, we report high-throughput application of Hi-Plex by performing blinded mutation screening of the coding regions of the breast cancer susceptibility gene PALB2 on a set of 95 blood-derived DNA samples that had previously been screened using Sanger sequencing and high-resolution melting curve analysis (n = 90), or genotyped by Taqman probe-based assays (n = 5). Hi-Plex libraries were prepared simultaneously using relatively inexpensive, readily available reagents in a simple half-day protocol followed by MPS on a single MiSeq run. We observed that 99.93% of amplicons were represented at ≥10X coverage. All 56 previously identified variant calls were detected and no false positive calls were assigned. Four additional variant calls were made and confirmed upon re-analysis of previous data or subsequent Sanger sequencing. These results support Hi-Plex as a powerful approach for rapid, cost-effective and accurate high-throughput mutation screening. They further demonstrate that Hi-Plex methods are suitable for and can meet the demands of high-throughput genetic testing in research and clinical settings. 
+
+****
+
+### MYRF Is a Membrane-Associated Transcription Factor That Autoproteolytically Cleaves to Directly Activate Myelin Genes
+
+Authors: H. Bujalka, M. Koenning, S. Jackson, V.M. Perreau, B. Pope, C.M. Hay, S. Mitew, A.F. Hill, Q.R. Lu, M. Wegner, R. Srinivasan, J. Svaren, M. Willingham, B.A. Barres, B. Emery.
+
+Journal: [PLOS Biology, 2013](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001625). 
+
+Topics: Bioinformatics, DNA Sequencing, Neurobiology 
+
+#### Abstract
+
+The myelination of axons is a crucial step during vertebrate central nervous system (CNS) development, allowing for rapid and energy efficient saltatory conduction of nerve impulses. Accordingly, the differentiation of oligodendrocytes, the myelinating cells of the CNS, and their expression of myelin genes are under tight transcriptional control. We previously identified a putative transcription factor, Myelin Regulatory Factor (Myrf), as being vital for CNS myelination. Myrf is required for the generation of CNS myelination during development and also for its maintenance in the adult. It has been controversial, however, whether Myrf directly regulates transcription, with reports of a transmembrane domain and lack of nuclear localization. Here we show that Myrf is a membrane-associated transcription factor that undergoes an activating proteolytic cleavage to separate its transmembrane domain-containing C-terminal region from a nuclear-targeted N-terminal region. Unexpectedly, this cleavage event occurs via a protein domain related to the autoproteolytic intramolecular chaperone domain of the bacteriophage tail spike proteins, the first time this domain has been found to play a role in eukaryotic proteins. Using ChIP-Seq we show that the N-terminal cleavage product directly binds the enhancer regions of oligodendrocyte-specific and myelin genes. This binding occurs via a defined DNA-binding consensus sequence and strongly promotes the expression of target genes. These findings identify Myrf as a novel example of a membrane-associated transcription factor and provide a direct molecular mechanism for its regulation of oligodendrocyte differentiation and CNS myelination.
+
+****
+
+### Cross-platform compatibility of Hi-Plex, a streamlined approach for targeted massively parallel sequencing
+
+Authors: T. Nguyen-Dumont, B.J. Pope, F. Hammet, M. Mahmoodi, H. Tsimiklis, M.C. Southey, D.J. Park.
+
+Journal: [Analytical Biochemistry, 2013](http://www.ncbi.nlm.nih.gov/pubmed/23933242)
+
+Topics: Bioinformatics, Genomics, DNA Sequencing, Multiplex PCR
+
+#### Abstract
+
+While per-base sequencing costs have decreased in recent years, library preparation for targeted massively parallel sequencing remains constrained by high reagent cost, limited design flexibility and protocol complexity. To address these limitations, we previously developed Hi-Plex, a PCR-massively parallel sequencing strategy for screening panels of genomic target regions. Here, we demonstrate that Hi-Plex applied with hybrid adapters can generate a library suitable for sequencing with both the Ion Torrent and the TruSeq chemistries, and that adjusting primer concentrations improves coverage uniformity. These results expand Hi-Plex capabilities as an accurate, affordable, flexible and rapid approach for various genetic screening applications.
+
+****
+
+### A high-plex PCR approach for massively parallel sequencing
+
+Authors: T. Nguyen-Dumont, B.J. Pope, F Hammet, M.C. Southey, and D.J. Park.
+
+Journal: [BioTechniques, Vol. 55, No. 2, August 2013, pp. 69–74](http://www.biotechniques.com/BiotechniquesJournal/2013/August/A-high-plex-PCR-approach-for-massively-parallel-sequencing/biotechniques-345734.html)
+
+Topics: Bioinformatics, Genomics, DNA Sequencing, Multiplex PCR
+
+#### Abstract 
+
+Current methods for targeted massively parallel sequencing (MPS) have several drawbacks, including limited design flexibility, expense, and protocol complexity, which restrict their application to settings involving modest target size and requiring low cost and high throughput. To address this, we have developed Hi-Plex, a PCR-MPS strategy intended for high-throughput screening of multiple genomic target regions that integrates simple, automated primer design software to control product size. Featuring permissive thermocycling conditions and clamp bias reduction, our protocol is simple, cost- and time-effective, uses readily available reagents, does not require expensive instrumentation, and requires minimal optimization. In a 60-plex assay targeting the breast cancer predisposition genes PALB2 and XRCC2, we applied Hi-Plex to 100 ng LCL-derived DNA, and 100 ng and 25 ng FFPE tumor-derived DNA. Altogether, at least 86.94% of the human genome-mapped reads were on target, and 100% of targeted amplicons were represented within 25-fold of the mean. Using 25 ng FFPE-derived DNA, 95.14% of mapped reads were on-target and relative representation ranged from 10.1-fold lower to 5.8-fold higher than the mean. These results were obtained using only the initial automatically-designed primers present in equal concentration. Hi-Plex represents a powerful new approach for screening panels of genomic target regions.
+
+****
+
+### FAVR (Filtering and Annotation of Variants that are Rare): methods to facilitate the analysis of rare germline genetic variants from massively parallel sequencing datasets
+
+Authors: B.J. Pope, T. Nguyen-Dumont, F. Odefrey, R. Bell, S.V. Tavtigian, D.E. Goldgar, A. Lonie, M.C. Southey and D.J. Park.
+
+Journal: [BMC Bioinformatics, 25 February 2013, 14:65](http://www.biomedcentral.com/1471-2105/14/65/abstract).
+
+Topics: Bioinformatics, Genomics, DNA Sequencing, Variant Detection
+
+#### Abstract 
+
+FAVR is a suite of new methods designed to work with commonly used MPS analysis pipelines to assist in the resolution of some of the issues related to the analysis of the vast amount of resulting data, with a focus on relatively rare genetic variants. To the best of our knowledge, no equivalent method has previously been described. The most important and novel aspect of FAVR is the use of signatures in comparator sequence alignment files during variant filtering, and annotation of variants potentially shared between individuals. The FAVR methods use these signatures to facilitate filtering of (i) platform and/or mapping- specific artefacts, (ii) common genetic variants, and, where relevant, (iii) artefacts derived from imbalanced paired-end sequencing, as well as annotation of genetic variants based on evidence of co-occurrence in individuals. We applied conventional variant calling applied to whole-exome sequencing datasets, produced using both SOLiD and TruSeq chemistries, with or without downstream processing by FAVR methods. We demonstrate a 3-fold smaller rare single nucleotide variant shortlist with no detected reduction in sensitivity. This analysis included Sanger sequencing of rare variant signals not evident in dbSNP131, assessment of known variant signal preservation, and comparison of observed and expected rare variant numbers across a range of first cousin pairs. The principles described herein were applied in our recent publication identifying XRCC2 as a new breast cancer risk gene and have been made publically available as a suite of software tools.
+
+****
+
+### Bpipe: a tool for running and managing bioinformatics pipelines
+
+Authors: Simon P. Sadedin, Bernard Pope and Alicia Oshlack.
+
+Journal: [Bioinformatics, Volume 28, Issue 11, 2012 pages 1525-1526](http://bioinformatics.oxfordjournals.org/content/28/11/1525). 
+
+Topics: Bioinformatics, Pipelines, Workflows, Automation
+
+#### Abstract 
+
+Bpipe is a simple, dedicated programming language for defining and executing bioinformatics pipelines. It specializes in enabling users to turn existing pipelines based on shell scripts or command line tools into highly flexible, adaptable and maintainable workflows with a minimum of effort. Bpipe ensures that pipelines execute in a controlled and repeatable fashion and keeps audit trails and logs to ensure that experimental results are reproducible. Requiring only Java as a dependency, Bpipe is fully self-contained and cross-platform, making it very easy to adopt and deploy into existing environments.
+
+****
+
+### Rare Mutations in XRCC2 Increase the Risk of Breast Cancer
+
+Authors: D.J. Park, F. Lesueur, T. Nguyen-Dumont, M. Pertesi, F. Odefrey, F. Hammet, S.L. Neuhausen, E.M. John, I.L. Andrulis, M.B. Terry, M. Daly, S. Buys, F. Le Calvez-Kelm, A. Lonie, B.J. Pope, H. Tsimiklis, C. Voegele, F.M. Hilbers, N. Hoogerbrugge, A. Barroso, A. Osorio, the Breast Cancer Family Registry the Kathleen Cuningham Foundation Consortium for Research into Familial Breast Cancer G.G. Giles, P. Devilee, J. Benitez, J.L. Hopper, S.V. Tavtigian, D.E. Goldgar, M.C. Southey. 
+
+Journal: [American Journal of Human Genetics, Volume 90, Issue 4, 6 April 2012, Pages 734–739](http://www.sciencedirect.com/science/article/pii/S0002929712001450). 
+
+Topics: Breast Cancer, Bioinformatics, DNA Sequencing
+
+#### Abstract 
+
+An exome-sequencing study of families with multiple breast-cancer-affected individuals identified two families with XRCC2 mutations, one with a protein-truncating mutation and one with a probably deleterious missense mutation. We performed a population-based case-control mutation-screening study that identified six probably pathogenic coding variants in 1,308 cases with early-onset breast cancer and no variants in 1,120 controls (the severity grading was p < 0.02). We also performed additional mutation screening in 689 multiple-case families. We identified ten breast-cancer-affected families with protein-truncating or probably deleterious rare missense variants in XRCC2. Our identification of XRCC2 as a breast cancer susceptibility gene thus increases the proportion of breast cancers that are associated with homologous recombination-DNA-repair dysfunction and Fanconi anemia and could therefore benefit from specific targeted treatments such as PARP (poly ADP ribose polymerase) inhibitors. This study demonstrates the power of massively parallel sequencing for discovering susceptibility genes for common, complex diseases.
+
+****
+
+### Petascale computation performance of lightweight multiscale cardiac models using Hybrid Programming Models
+
+Authors: B.J. Pope, B.G. Fitch, M.C. Pitman, J.J. Rice, M. Reumann.  
+
+Conference: [IEEE Engingeering in Medicine and Biology Society, 2011, pages 433-6](http://www.ncbi.nlm.nih.gov/pubmed/22254341). 
+
+Topics: Cardiac Modelling, High Performance Computing, Hybrid Parallel Programming, Simulation
+
+#### Abstract
+
+Future multiscale and multiphysics models must use the power of high performance computing (HPC) systems to enable research into human disease, translational medical science, and treatment. Previously we showed that computationally efficient multiscale models will require the use of sophisticated hybrid programming models, mixing distributed message passing processes (e.g. the message passing interface (MPI)) with multithreading (e.g. OpenMP, POSIX pthreads). The objective of this work is to compare the performance of such hybrid programming models when applied to the simulation of a lightweight multiscale cardiac model. Our results show that the hybrid models do not perform favourably when compared to an implementation using only MPI which is in contrast to our results using complex physiological models. Thus, with regards to lightweight multiscale cardiac models, the user may not need to increase programming complexity by using a hybrid programming approach. However, considering that model complexity will increase as well as the HPC system size in both node count and number of cores per node, it is still foreseeable that we will achieve faster than real time multiscale cardiac simulations on these systems using hybrid programming models. 
+
+****
+
+### Performance of Hybrid Programming Models for Multiscale Cardiac Simulations: Preparing for Petascale Computation
+
+Authors: B.J. Pope, B.G. Fitch, M.C. Pitman, J.J. Rice, M. Reumann.
+
+Journal: [IEEE Transactions on Biomedical Engineering. Volume 58, Issue 10, October 2011](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5951744). 
+
+Topics: Cardiac Modelling, High Performance Computing, Hybrid Parallel Programming, Simulation
+
+#### Abstract
+
+Future multiscale and multiphysics models that support research into human disease, translational medical science, and treatment can utilize the power of high-performance computing (HPC) systems. We anticipate that computationally efficient multiscale models will require the use of sophisticated hybrid programming models, mixing distributed message-passing processes [e.g., the message-passing interface (MPI)] with multithreading (e.g., OpenMP, Pthreads). The objective of this study is to compare the performance of such hybrid programming models when applied to the simulation of a realistic physiological multiscale model of the heart. Our results show that the hybrid models perform favorably when compared to an implementation using only the MPI and, furthermore, that OpenMP in combination with the MPI provides a satisfactory compromise between performance and code complexity. Having the ability to use threads within MPI processes enables the sophisticated use of all processor cores for both computation and communication phases. Considering that HPC systems in 2012 will have two orders of magnitude more cores than what was used in this study, we believe that faster than real-time multiscale cardiac simulations can be achieved on these systems.
+
+****
+
+### High Performance Haskell with MPI
+
+Authors: Bernard Pope and Dmitry Astapov
+
+Paper: [The Monad Reader, Issue 19, October 2011](/docs/haskell-mpi.monad.reader.pdf)
+
+Topics: Distributed Parallel Programming, Functional Programming, High Performance Computing
+
+#### Abstract
+
+In this article, we give a brief overview of the Haskell-MPI library and show how it can be used to write distributed parallel programs. We use the trapezoid method for approximating definite integrals as a motivating example and compare the performance of an implementation using Haskell-MPI to three variations of the same algorithm: a sequential Haskell program, a multi-threaded Haskell program, and a C program also using MPI.
+
+****
+
+### Step inside the GHCi debugger
+
+Authors: Bernard Pope
+
+Paper: [The Monad Reader, Issue 10, April 2008](/docs/ghci-debug.monad.reader.pdf)
+
+Topics: Debugging, Functional Programming, Haskell
+
+#### Abstract
+
+Major releases of GHC are highly anticipated events, especially because of all the exciting new features they bring. The 6.8 series was a particularly impressive example, which came with lots of goodies, including a shiny new debugger. In this article we take the debugger out for a test run, and see what it can do.
+
+****
+
+### A Lightweight Interactive Debugger for Haskell
+
+Authors: Simon Marlow, Jose Iborra, Bernard Pope and Andy Gill. 
+
+Conference: [The Haskell Workshop, June 2007](/docs/ghci-debug.pdf)
+
+Topics: Debugging, Functional Programming, Haskell
+
+#### Abstract 
+
+This paper describes the design and construction of a Haskell source-level debugger built into the GHCi interactive environment. We have taken a pragmatic approach: the debugger is based on the traditional stop-examine-continue model of online debugging, which is simple and intuitive, but has traditionally been shunned in the context of Haskell because it exposes the lazy evaluation order. We argue that this drawback is not as severe as it may seem, and in some cases is an advantage. The design focuses on availability: our debugger is intended to work on all programs that can be compiled with GHC, and without requiring the programmer to jump through additional hoops to debug their program. The debugger has a novel approach for reconstructing the type of runtime values in a polymorphic context. Our implementation is light on complexity, and was integrated into GHC without significant upheaval.
+
+****
+
+### Getting a Fix from the Right Fold
+
+Authors: Bernard Pope    
+
+Paper: [The Monad Reader, Issue 6, January 2007](http://www.haskell.org/sitewiki/images/1/14/TMR-Issue6.pdf)
+
+
+Topics: Fixed Points, Folds, Functional Programming
+
+#### Abstract 
+
+What can you do with foldr? This is a seemingly innocent question that will confront most functional programmers at some point in their life. I was recently posed a folding challenge by a teaching colleague. The challenge was to write dropWhile using foldr. We gave the challenge to our first-year students, and awarded a small prize to the author of the first working solution. I have since passed the challenge on to other functional friends, and the results have been illuminating. That prompted me to write this article.
+
+****
+
+### Declarative Debugging with buddha
+
+Authors: Bernard Pope
+
+Conference: [Advanced Functional Programming, 5th International School, AFP 2004, volume 3622 of Lecture Notes in Computer Science, pages 331-357. Springer Verlag, September 2005](/docs/Afp.pdf).
+
+Topics: Debugging, Functional Programming, Program Transformation
+
+#### Abstract 
+
+Haskell is a very safe language, particularly because of its type system. However there will always be programs that do the wrong thing. Programmer fallibility, partial or incorrect specifications and typographic errors are but a few of the reasons that make bugs a fact of life. This paper is about the use and implementation of a debugger, called buddha, which helps Haskell programmers understand why their programs misbehave. Traditional debugging tools that examine the program execution step-by-step are not suitable for Haskell because of its unorthodox evaluation strategy. Instead, a different approach is taken which abstracts away the evaluation order of the program and focuses on its high-level logical meaning. This style of debugging is called Declarative Debugging, and it has its roots in the Logic Programming community. At the heart of the debugger is a tree which records information about the evaluation of the program in a manner which is easy to relate to the structure of the source code. It resembles a call graph annotated with the arguments and results of function applications, shown in their most evaluated form. Logical relationships between entities in the source are reflected in the links between nodes in the tree. An error diagnosis algorithm is applied to the tree in a top-down fashion in the search for causes of bugs.
+
+Slides for the talk are available: [Set 1](/docs/Afp.slides1.pdf), [Set 2](/docs/Afp.slides2.pdf) and [Set 3](/docs/Afp.slides3.pdf).
+
+****
+
+### Practical Aspects of Declarative Debugging in Haskell 98
+
+Authors: Bernard Pope and Lee Naish.
+
+Conference: [Principles and Practice of Declarative Programming, 2003](/docs/PopeNaishPPDP.pdf)
+
+Topics: Debugging, Functional Programming, Program Transformation
+
+#### Abstract
+
+Non-strict purely functional languages pose many challenges to the designers of debugging tools. Declarative debugging has long been considered a suitable candidate for the task due to its abstraction over the evaluation order of the program, although the provision of practical implementations has been lagging. In this paper we discuss the solutions used in our declarative debugger for Haskell to tackle the problems of printing values, memory usage and I/O. The debugger is based on program transformation, although much leverage is gained by interfacing with the runtime environment of the language implementation through a foreign function interface.
+
+****
+
+### A program transformation for debugging Haskell 98
+
+Authors: Bernard Pope and Lee Naish.
+
+Conference: [Australasian Computer Science Conference, 2003](/docs/acsc.pdf)
+
+Topics: Debugging, Functional Programming, Program Transformation
+
+We present a source-to-source transformation of Haskell 98 pro-grams for the purpose of debugging. The source code of a program is transformed into a new program which, when executed,computes the value of the original program and a high-level semantics for that computation. The semantics is given by a tree whose nodes represent function applications that were evaluated during execution. This tree is useful in situations where a high-level view of a computation is needed, such as declarative debugging. The main contribution of the paper is the treatment of higher-order functions, which have previously proven difficult to support in declarative debugging schemes.
+
+****
+
+### A program transformation for Declarative Debugging (draft)
+
+Authors: Bernard Pope and Lee Naish
+
+[Paper](/docs/pope.naish.apepm.pdf)
+
+Topics: Debugging, Functional Programming, Program Transformation
+
+#### Abstract 
+
+We present a declarative debugger for lazy functional programs, based primarily on program transformation. The debugger is designed to assist the detection and location of errors in programs which produce incorrect results for some or all of their inputs. We define the transformation over a core functional language, and pay close attention to the treatment of curried function applications. We consider the space complexity of the debugger, and sketch a method for improvement. We use Haskell as the target of the transformation, and consider extending the transformation to support the entire language.
+
+****
+
+### Reification in Haskell (draft)
+
+Authors: Bernard Pope and Lee Naish
+
+Workshop: [Implementation of Functional Languages, 2001](/docs/reify.pdf)
+
+Topics: Functional Programming, Meta Programming, Debugging
+
+#### Abstract
+
+In this paper we investigate a limited form of reification in Haskell. We incrementally develop a meta-representation with a view to expressing the lazy evaluation and cyclic sharing of first-order values. We implement most of our facility within Haskell for portability and make extensive use of Haskell's type classes. We show how this metarepresentation can be derived for algebraic data types, and illustrate its use through a generic printing facility and a re-evaluation scheme. We also briefly explore a means for converting meta-representations back into their object level values.
+
+[Slides](/docs/reify.talk.pdf)
+
+****
+
+### Specialisation of Higher-Order Functions for Debugging
+
+Authors: Bernard Pope and Lee Naish
+
+Workshop: [Workshop on Functional and Logic Programming, Kiel, Germany 2001](/docs/specialise.pdf)
+
+Topics: Programming Languages, Functional Programming, Debugging
+
+#### Abstract
+
+Because functions are abstract values without convenient print representations, implementing debuggers which support higher-order code is a challenge. We present an algorithm for statically specialising higher-order functions and encoding higher-order values to allow printing. We define our algorithm for a small functional language and discuss how it may be extended to support sophisticated features of modern functional programming languages. This research forms part of a project to build a declarative debugger for Haskell, based primarily on source-to-source transformation.
+
+[Slides](/docs/spec.talk.pdf)
+
+****
+
+### Buddha: A Declarative Debugger for Haskell
+
+Authors: Bernard Pope
+
+[Honours Thesis](/docs/BerniePope.Hons.Thesis.pdf)
+
+Topics: Debugging, Functional Programming, Program Transformation
+
+#### Abstract
+
+Due to their reliance on the execution order of programs, traditional debugging techniques are not well suited to locating the source of logical errors in programs written in lazy functional languages. We describe the implementation of a declarative debugger for the programming language Haskell, which assists the location of logical errors based on the declarative semantics of program definitions. The implementation is based on the Hugs interpreter, and both solidifies previous work in the field and extends it to incorporate features typical of many modern lazy functional languages.
+
+****
+
+### A tour of the Haskell Prelude
+
+Authors: Bernard Pope
+
+[Paper](/docs/haskell.tour.pdf)
+
+Topics: Haskell
+
+#### Abstract
+
+A guide to the functions, operators and classes of the Haskell 98 Prelude.
+
+This paper serves as a reference guide for the functions and types in the Haskell Prelude (the standard library which is implicitly imported into all Haskell modules). The intended audience is people who are starting to learn Haskell. It has proven particularly useful in teaching Haskell at university level, and a HTML version of the document is widely available on the Internet.
+
+****
+
+### Monadic Parsing: A Case Study
+
+Authors: B. Pope, M. Wielaard and S. Taylor. 
+
+[Paper](/docs/monad_parse.pdf)
+
+Topics: Parsing, Monads, Functional Programming
+
+#### Abstract
+
+One of the selling points for functional languages is the ease with which parsers for simple languages can be expressed. In this report we give an introduction to monadic and operator precedence parsing in functional languages, using the parsing of propositional logic formulas as an example.
+
+****
+
+### Haskell for Miranda Programmers
+
+Authors: Bernard Pope and Kevin Glynn. 
+
+[Paper](/docs/mira2hask.pdf)
+
+Topics: Functional Programming
+
+#### Abstract
+
+This document is designed to help programmers with a knowledge of Miranda move to Haskell as quickly and as painlessly as possible.
