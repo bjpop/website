@@ -243,13 +243,18 @@ academia: True
 I have peer reviewed papers for numerous conferences and journals. Here are some recent 
 ones:
 
-* Bioinformatics (Journal), 2014.
+* Bioinformatics (Journal) 2014.
 * FLOPS: International Symposium on Functional and Logic Programming 2014.
 * Haskell Symposium 2012.
-* European Symposium on Programming 2012.
-* Principles and Practice of Declarative Programming (PPDP), 2009. 
-* The 16th International Static Analysis Symposium (SAS), 2009.
-* Practical Aspects of Declarative Languages (PADL), 2007.
+* 21st European Symposium on Programming (ESOP) 2012.
+* Principles and Practice of Declarative Programming (PPDP) 2009. 
+* The 16th International Static Analysis Symposium (SAS) 2009.
+* Practical Aspects of Declarative Languages (PADL) 2007.
+* International Conference on Logic Programming (ICLP) 2006.
+* Programming Languages and Systems, 4th Asian Symposium (APLAS) 2006.
+* Practical Aspects of Declarative Langauges (PADL) 2005.
+* 13th European Symposium on Programming (ESOP) 2004.
+* Foundations of Software Technology and Theoretical Computer Science 2000.
 
 ### PhD examination
 
