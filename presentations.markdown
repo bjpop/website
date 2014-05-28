@@ -3,6 +3,34 @@ title: Presentations
 presentations: True
 ---
 
+## Functional graphics in Scala
+
+The Melbourne Scala Users Group, Monday 26th May 2014.
+
+[Slides](/docs/fungraph_scala.pdf)
+
+#### Abstract
+
+Computer graphics are typically represented using two-dimensional arrays of pixels. In this talk I will demonstrate an alternative, and perhaps surprising, representation based on functions:
+
+```
+   type Image[T] = (Double, Double) => T
+```
+
+We assume that images are defined (infinitely) over the two-dimensional real coordinate space, which avoids the need to worry about boundary conditions or discretisation.
+
+I will also show how this idea can be extended to animations, by making them functions over time:
+
+```
+   type Animation[T] = Double => Image[T]
+```
+
+In addition to showing some pretty pictures, I demonstrate that higher-order functions are a powerful tool for program abstraction.
+
+All the code for my talk is available on github: [https://github.com/bjpop/scala-fungraph](https://github.com/bjpop/scala-fungraph)
+
+****
+
 ## Implementing Python in Haskell, twice
 
 The Melbourne Haskell Users Group, Thursday 24th April 2014.
