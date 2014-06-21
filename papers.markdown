@@ -3,6 +3,20 @@ title: Papers
 papers: True
 ---
 
+### Rare mutations in RINT1 predispose carriers to breast and Lynch Syndrome-spectrum cancers
+
+Authors: Daniel J Park, Kayoko Tao, Florence Le Calvez-Kelm, Tu Nguyen-Dumont, Nivonirina Robinot, Fleur Hammet, Fabrice Odefrey, Helen Tsimiklis, Zhi L Teo, Louise B Thingholm, Erin L Young, Catherine Voegele, Andrew Lonie, Bernard J Pope, Terrell C Roane, Russell Bell, Hao Hu, Shankaracharya, Chad D Huff, Jonathan Ellis, Jun Li, Igor V Makunin, Esther M. John, Irene L. Andrulis, Mary Beth Terry, Mary Daly, Saundra S. Buys, Carrie Snyder, Henry T Lynch, Peter Devilee, Graham G. Giles, John L. Hopper, Bing-Jian Feng, Fabienne Lesueur, Sean Tavtigian, Melissa C. Southey and David E Goldgar.
+
+Journal: [Cancer Discovery, 2014](http://cancerdiscovery.aacrjournals.org/content/early/2014/05/02/2159-8290.CD-14-0212.abstract)
+
+Topics: Bioinformatics, Genomics, DNA Sequencing, Breast Cancer
+
+#### Abstract 
+
+Approximately half of the familial aggregation of breast cancer remains unexplained. A multiple-case breast cancer family exome sequencing study identified three likely pathogenic mutations in RINT1 (NM_021930.4) not present in public sequencing databases: RINT1 c.343C>T (p.Q115X), c.1132_1134del (p.M378del) and c.1207G>T (p.D403Y). Based on this finding, a population-based case-control mutation-screening study was conducted and identified 29 carriers of rare (MAF < 0.5%), likely pathogenic variants: 23 in 1,313 early-onset breast cancer cases and 6 in 1,123 frequency-matched controls (OR=3.24, 95%CI 1.29-8.17; p=0.013). RINT1 mutation screening of probands from 798 multiple-case breast cancer families identified 4 additional carriers of rare genetic variants. Analysis of the incidence of first primary cancers in families of women in RINT1-mutation carrying families estimated that carriers were at increased risks of Lynch syndrome-spectrum cancers (SIR 3.35, 95% CI 1.7-6.0; P=0.005), particularly for relatives diagnosed with cancer under age 60 years (SIR 10.9, 95%CI 4.7-21; P=0.0003).
+
+****
+
 ### ROVER variant caller: read-pair overlap considerate variant-calling software applied to PCR-based massively parallel sequencing datasets
 
 Authors: B. Pope, T. Nguyen-Dumont, F. Hammet and D. Park.
