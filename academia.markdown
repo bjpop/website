@@ -18,6 +18,14 @@ academia: True
 <div id="grants">
 # Grants
 
+### High risk genes for childhood cancer: using massively parallel sequencing to identify cancer susceptibility
+
+* Funding body: Cancer Australia
+* Period: 2014 - 2016 (2 years)
+* Value: $200,000 AUD
+* Chief Investigators: A/Prof John Heath, Prof Melissa Southey, Dr John Hopper, A/Prof Andrew Lonie, Dr Daniel Park, Dr Tu Nguyen-Dumont, Dr Gillian Dite, Dr Bernard Pope.
+* My Role: Chief Investigator (H)
+
 ### Mouse phenotype-driven breast cancer risk gene discovery 
 
 * Funding body: Cancer Council Victoria

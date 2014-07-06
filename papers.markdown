@@ -3,6 +3,24 @@ title: Papers
 papers: True
 ---
 
+### Annokey: an annotation tool based on key term search of the NCBI Entrez Gene database
+
+Authors: Daniel J Park, Tú Nguyen-Dumont, Sori Kang, Karin Verspoor and Bernard J Pope 
+
+Journal: [Source Code for Biology and Medicine, 2014](http://www.scfbm.org/content/9/1/15/abstract)
+
+Topics: Bioinformatics, Gene Annotation
+
+#### Abstract 
+
+The NCBI Entrez Gene and PubMed databases contain a wealth of high-quality information about genes for many different organisms. The NCBI Entrez online web-search interface is convenient for simple manual search for a small number of genes but impractical for the kinds of outputs seen in typical genomics projects.
+We have developed an efficient open source tool implemented in Python called Annokey, which annotates gene lists with the results of a keyword search of the NCBI Entrez Gene database and linked Pubmed article information. The user steers the search by specifying a ranked list of keywords (including multi-word phrases and regular expressions) that are correlated with their topic of interest. Rank information of matched terms allows the user to guide further investigation.
+We applied Annokey to the entire human Entrez Gene database using the key-term "DNA repair" and assessed its performance in identifying the 176 members of a published "gold standard" list of genes established to be involved in this pathway. For this test case we observed a sensitivity and specificity of 97 % and 96 %, respectively.
+Annokey facilitates the identification of genes related to an area of interest, a task which can be onerous if performed manually on a large number of genes. Annokey provides a way to capitalize on the high quality information provided by the Entrez Gene database allowing both scalability and compatibility with automated analysis pipelines, thus offering the potential to significantly enhance research productivity.
+
+
+****
+
 ### Rare mutations in RINT1 predispose carriers to breast and Lynch Syndrome-spectrum cancers
 
 Authors: Daniel J Park, Kayoko Tao, Florence Le Calvez-Kelm, Tu Nguyen-Dumont, Nivonirina Robinot, Fleur Hammet, Fabrice Odefrey, Helen Tsimiklis, Zhi L Teo, Louise B Thingholm, Erin L Young, Catherine Voegele, Andrew Lonie, Bernard J Pope, Terrell C Roane, Russell Bell, Hao Hu, Shankaracharya, Chad D Huff, Jonathan Ellis, Jun Li, Igor V Makunin, Esther M. John, Irene L. Andrulis, Mary Beth Terry, Mary Daly, Saundra S. Buys, Carrie Snyder, Henry T Lynch, Peter Devilee, Graham G. Giles, John L. Hopper, Bing-Jian Feng, Fabienne Lesueur, Sean Tavtigian, Melissa C. Southey and David E Goldgar.

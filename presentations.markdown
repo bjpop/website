@@ -3,6 +3,22 @@ title: Presentations
 presentations: True
 ---
 
+## Implementing Python in Haskell, twice
+
+The Melbourne Python Users Group, Monday 7th July 2014.
+
+[Slides](/docs/MPUG_python_haskell.pdf)
+
+#### Abstract
+
+Over the past couple of years I've developed an unusual hobby: implementing Python in Haskell.
+
+The first iteration resulted in [berp](https://github.com/bjpop/berp), a Python-to-Haskell translator. The second iteration resulted in [blip](https://github.com/bjpop/blip), which compiles Python to bytecode, and is compatible with the standard Python implementation CPython.
+
+Note: I've given a similar talk to the Haskell User's Group (see below). In this version of the talk the focus is oriented to a Python audience.
+
+****
+
 ## Functional graphics in Scala
 
 The Melbourne Scala Users Group, Monday 26th May 2014.
