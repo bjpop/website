@@ -3,11 +3,31 @@ title: Software
 software: True
 ---
 
+## Methpat 
+
+A program for summarising and visualising CpG methylation patterns.
+
+[Website](http://bjpop.github.io/methpat/)
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/methpat).
+
+    You can download the Methpat source repository using git with this command:
+
+    `git clone https://github.com/bjpop/methpat`
+
+#### Description 
+
+Methpat summarises the resultant DNA methylation pattern data from the output of [Bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/) methylation extractor. Information of the DNA methylation positions for each amplicon, DNA methylation patterns observed within each amplicon and their abundance counts are summarised into a tab delimited text file amenable for further downstream statistical analysis and visualization.
+
+****
+
 ## Annokey 
 
 Gene-based search for key-terms in the NCBI gene database and associated PubMed abstracts.
 
-[Wesbsite](http://bjpop.github.io/annokey/)
+[Website](http://bjpop.github.io/annokey/)
 
 
 #### Downloads

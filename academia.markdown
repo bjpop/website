@@ -7,6 +7,7 @@ academia: True
 <div class="pure-menu pure-menu-open pure-menu-horizontal">
 <ul>
 <li><a href="#grants">Grants</a></li>
+<li><a href="#internships">Internships</a></li>
 <li><a href="#awards">Awards</a></li>
 <li><a href="#teaching">Teaching</a></li>
 <li><a href="#supervision">Supervision</a></li>
@@ -59,6 +60,13 @@ academia: True
 * My Role: Associate Investigator
 </div>
 
+<div id="internships">
+# Internships
+
+* Microsoft Research Cambridge, UK. January – April 2007. Project: A breakpoint debugger for the Glasgow Haskell Compiler. Supervisor: Dr Simon Marlow.
+* Ludwig Institute for Cancer Research, Melbourne. Summer break 1995-96. Project: molecular dynamics simulation of
+trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr Herbert Treutlein.
+
 <div id="awards">
 # Awards and Scholarships
 
@@ -68,7 +76,8 @@ academia: True
 * Excellence in Tutoring Award, 2005, Department of Computer Science and Software Engineering, The University of Melbourne.
 * Gold Medal (coach), 2000, ACM International Collegiate Programming Contest, World Finals, Florida, USA.
 * Australian Government Department of Education, Science and Training - Australian Postgraduate Award, 2000-2003.
-* The Computer Science Department Certificate of Excellence, Artificial Intelligence, and Operating Systems, 1996, The University of Melbourne.
+* The Computer Science Department Certificate of Excellence, Artificial Intelligence, 1996, The University of Melbourne.
+* The Computer Science Department Certificate of Excellence, Operating Systems, 1996, The University of Melbourne.
 * Dean's Prize, 1994, Faculty of Science, The University of Melbourne.
 * Australian Students Prize for Excellence, 1993. National recognition of outstanding achievement in secondary education.
 * The Sutherland Award, 1993, The Australian Institute of Physics. For outstanding achievement in the VCE.
@@ -77,6 +86,15 @@ academia: True
 
 <div id="teaching">
 # Teaching
+
+### Foundations of Computing
+
+* Institution: The University of Melbourne
+* Date: Semester 2, 2014
+* Year Level: First Year Undergraduate
+* Class Size: 230 
+* Topics: Introduction to Programming in Python, Algorithms, Problem Solving, Introduction to Complexity
+* My Role: Lecturer and Coordinator
 
 ### Foundations of Computing
 
@@ -137,7 +155,7 @@ academia: True
 * Date: Semesters 1 and 2, 2000
 * Year Level: First Year Undergraduate
 * Class Size: 15
-* Topics: MUPHAS provided high achieving high school students an opportunity to undertake a first year university subject sequence (Computing Fundamentals A/B).  This was the first time the program was run in the department. The class size was fifteen students.  For an evaluation of the course see: Anne Venables, A Taste of Computer Science: A University Experience for Gifted Secondary Students, \emph{Australasian Journal of Gifted Education}, 10(2), 2001.
+* Topics: MUPHAS provided high achieving high school students an opportunity to undertake a first year university subject sequence (Computing Fundamentals A/B).  This was the first time the program was run in the department. The class size was fifteen students.  For an evaluation of the course see: Anne Venables, A Taste of Computer Science: A University Experience for Gifted Secondary Students, Australasian Journal of Gifted Education, 10(2), 2001.
 * My Role: Lecturer
 
 ### Computing Fundamentals B Advanced Stream
@@ -232,6 +250,10 @@ academia: True
 * Adrian Hecker, 2013-2014.
 * Luke Shillabeer, 2013-2014.
 
+### UROP students
+
+* Roger Li, 2014.
+
 ### Masters of Bioinformatics
 
 * With Kat Holt I co-supervised David Edwards, 2012, 2013.
@@ -251,10 +273,13 @@ academia: True
 I have peer reviewed papers for numerous conferences and journals. Here are some recent 
 ones:
 
+* PeerJ (Journal) 2014.
+* Science of Computer Programming (Journal) 2014.
 * Bioinformatics (Journal) 2014.
 * FLOPS: International Symposium on Functional and Logic Programming 2014.
 * Haskell Symposium 2012.
 * 21st European Symposium on Programming (ESOP) 2012.
+* Advances in Engineering Software (Journal) 2011.
 * Principles and Practice of Declarative Programming (PPDP) 2009. 
 * The 16th International Static Analysis Symposium (SAS) 2009.
 * Practical Aspects of Declarative Languages (PADL) 2007.

@@ -3,6 +3,20 @@ title: Papers
 papers: True
 ---
 
+### SRST2: Rapid genomic surveillance for public health and hospital microbiology labs
+
+Authors: Michael Inouye, Harriet Dashnow, Lesley-Ann Raven, Mark B Schultz, Bernard J Pope, Takehiro Tomita, Justin Zobel and Kathryn E Holt 
+
+Journal: [Genome Medicine, 2014](http://genomemedicine.com/content/6/11/90)
+
+Topics: Bioinformatics, Microbiology
+
+#### Abstract 
+
+Rapid molecular typing of bacterial pathogens is critical for public health epidemiology, surveillance and infection control, yet routine use of whole genome sequencing (WGS) for these purposes poses significant challenges. Here we present SRST2, a read mapping-based tool for fast and accurate detection of genes, alleles and multi-locus sequence types (MLST) from WGS data. Using >900 genomes from common pathogens, we show SRST2 is highly accurate and outperforms assembly-based methods in terms of both gene detection and allele assignment. We include validation of SRST2 within a public health laboratory, and demonstrate its use for microbial genome surveillance in the hospital setting. In the face of rising threats of antimicrobial resistance and emerging virulence among bacterial pathogens, SRST2 represents a powerful tool for rapidly extracting clinically useful information from raw WGS data.
+
+****
+
 ### Annokey: an annotation tool based on key term search of the NCBI Entrez Gene database
 
 Authors: Daniel J Park, Tú Nguyen-Dumont, Sori Kang, Karin Verspoor and Bernard J Pope 
@@ -17,7 +31,6 @@ The NCBI Entrez Gene and PubMed databases contain a wealth of high-quality infor
 We have developed an efficient open source tool implemented in Python called Annokey, which annotates gene lists with the results of a keyword search of the NCBI Entrez Gene database and linked Pubmed article information. The user steers the search by specifying a ranked list of keywords (including multi-word phrases and regular expressions) that are correlated with their topic of interest. Rank information of matched terms allows the user to guide further investigation.
 We applied Annokey to the entire human Entrez Gene database using the key-term "DNA repair" and assessed its performance in identifying the 176 members of a published "gold standard" list of genes established to be involved in this pathway. For this test case we observed a sensitivity and specificity of 97 % and 96 %, respectively.
 Annokey facilitates the identification of genes related to an area of interest, a task which can be onerous if performed manually on a large number of genes. Annokey provides a way to capitalize on the high quality information provided by the Entrez Gene database allowing both scalability and compatibility with automated analysis pipelines, thus offering the potential to significantly enhance research productivity.
-
 
 ****
 
@@ -139,6 +152,8 @@ Bpipe is a simple, dedicated programming language for defining and executing bio
 Authors: D.J. Park, F. Lesueur, T. Nguyen-Dumont, M. Pertesi, F. Odefrey, F. Hammet, S.L. Neuhausen, E.M. John, I.L. Andrulis, M.B. Terry, M. Daly, S. Buys, F. Le Calvez-Kelm, A. Lonie, B.J. Pope, H. Tsimiklis, C. Voegele, F.M. Hilbers, N. Hoogerbrugge, A. Barroso, A. Osorio, the Breast Cancer Family Registry the Kathleen Cuningham Foundation Consortium for Research into Familial Breast Cancer G.G. Giles, P. Devilee, J. Benitez, J.L. Hopper, S.V. Tavtigian, D.E. Goldgar, M.C. Southey. 
 
 Journal: [American Journal of Human Genetics, Volume 90, Issue 4, 6 April 2012, Pages 734–739](http://www.sciencedirect.com/science/article/pii/S0002929712001450). 
+
+Video about this work: [Visions: Breast Cancer Gene Discovery](http://www.youtube.com/watch?v=3kGsTCUOQss)
 
 Topics: Breast Cancer, Bioinformatics, DNA Sequencing
 
