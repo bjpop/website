@@ -3,6 +3,64 @@ title: Presentations
 presentations: True
 ---
 
+## Lindenmayer Systems 
+
+Foundations of Computing Advanced Lecture, The University of Melbourne, Friday 22 August 2014.
+
+[Slides](/docs/lsystem.pdf)
+
+#### Abstract
+
+These slides introduce the idea of turtle graphics in Python and show how they can be used to implement
+Lindenmayer Systems (term rewriting languages with interesting interpretations as graphics).
+
+****
+
+## Ray tracing in Python
+
+Foundations of Computing Advanced Lecture, The University of Melbourne, Friday 5 September 2014.
+
+[Slides](/docs/ray_tracing.pdf)
+
+#### Abstract
+
+These slides explain the central ideas behind the recursive ray-tracing algorithm and demonstrate how to implement 
+it in Python. A basic Phong Illumination model is used in the slides and program.
+
+[Code](https://github.com/bjpop/pyray)
+
+****
+
+## Computer games in Python 
+
+Foundations of Computing Advanced Lecture, The University of Melbourne, Friday 19 September 2014.
+
+[Slides](/docs/games_in_python.pdf)
+
+#### Abstract
+
+These slides show how to implement arcade games in Python using the [PyGame](www.pygame.org/) library.
+To demonstrate the main ideas of game programming in Python I wrote a simple asteroids game which
+is available in the repository linked below.
+
+[Code](https://github.com/bjpop/asteroids)
+
+****
+
+## How Python works 
+
+Foundations of Computing Advanced Lecture, The University of Melbourne, Friday 10 October 2014.
+
+[Slides](/docs/how_python_works.pdf)
+
+#### Abstract
+
+An overview of how Python works (CPython specifically). Covers syntax analysis (lexing and parsing), compilation to
+bytecode and program exeuction. The slides conclude with an example bytecode execution of a simple Python program. 
+
+****
+
+
 ## Implementing Python in Haskell, twice
 
 The Melbourne Python Users Group, Monday 7th July 2014.
