@@ -3,6 +3,14 @@ title: Notes
 notes: True
 ---
 
+### [Introduction to Unix](/docs/intro_to_unix.pdf)
+
+These notes were written to introduce new VLSCI users to the fundamental ideas of Unix. The notes cover
+essential concepts such as the shell, the filesystem and processes. Some of the details are VLSCI specific,
+but most of the material is applicable to any unix system (Linux, OS X, Solaris, etc).
+
+****
+
 ### [Melbourne Programming Languages Workshop 2013](/melbPL2013.html)
 
 To celebrate the presence of Phil Wadler, Gilad Bracha and Daniel Spiewak in Australia (to speak at the YOW! 2013 conference) we organised a local Programming Languages Research Workshop in Melbourne. We had a great turnout and a very impressive lineup of talks. 
