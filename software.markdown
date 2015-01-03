@@ -3,6 +3,33 @@ title: Software
 software: True
 ---
 
+## SRST2 
+
+Short Read Sequence Typing for Bacterial Pathogens.
+
+
+[Website](http://katholt.github.io/srst2/)
+
+#### Downloads
+
+* [Source repository on github](https://github.com/katholt/srst2).
+
+    You can download the SRST2 source repository using git with this command:
+
+    `git clone https://github.com/katholt/srst2`
+
+#### Description 
+
+This program is designed to take Illumina sequence data, a MLST (Multi-Locus Sequence Type) database and/or a database of gene sequences (e.g. resistance genes, virulence genes, etc) and report the presence of STs and/or reference genes.
+
+This is a collaboration with [Kat Holt](http://holtlab.net/), [Mike Inouye](http://www.inouyelab.org/home/people) and others.
+
+* [Paper](http://genomemedicine.com/content/6/11/90)
+* [Blog post from Kat Holt's lab](http://holtlab.net/tag/software/)
+* [Blog post on BioMed Central](http://blogs.biomedcentral.com/bmcblog/2014/12/18/srst2-a-new-tool-for-genomic-epidemiology/)
+
+****
+
 ## Methpat 
 
 A program for summarising and visualising CpG methylation patterns.
