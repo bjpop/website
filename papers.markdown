@@ -3,6 +3,35 @@ title: Papers
 papers: True
 ---
 
+### Mutation screening of PALB2 in clinically ascertained families from the Breast Cancer Family Registry
+
+Authors: Tú Nguyen-Dumont, Fleur Hammet, Maryam Mahmoodi, Helen Tsimiklis, Zhi L. Teo, Roger Li, Bernard J. Pope, Mary Beth Terry, Saundra S. Buys, Mary Daly, John L. Hopper, Ingrid Winship, David E. Goldgar, Daniel J. Park, Melissa C. Southey 
+
+Journal: [Breast Cancer Research and Treatment, 2015](http://link.springer.com/article/10.1007/s10549-014-3260-8)
+
+Topics: Breast Cancer, Bioinformatics, Genomics
+
+#### Abstract 
+
+Loss-of-function mutations in PALB2 are associated with an increased risk of breast cancer, with recent data showing that female breast cancer risks for PALB2 mutation carriers are comparable in magnitude to those for BRCA2 mutation carriers. This study applied targeted massively parallel sequencing to characterize the mutation spectrum of PALB2 in probands attending breast cancer genetics clinics in the USA. The coding regions and proximal intron–exon junctions of PALB2 were screened in probands not known to carry a mutation in BRCA1 or BCRA2 from 1,250 families enrolled through familial cancer clinics by the Breast Cancer Family Registry. Mutation screening was performed using Hi-Plex, an amplicon-based targeted massively parallel sequencing platform. Screening of PALB2 was successful in 1,240/1,250 probands and identified nine women with protein-truncating mutations (three nonsense mutations and five frameshift mutations). Four of the 33 missense variants were predicted to be deleterious to protein function by in silico analysis using two different programs. Analysis of tumors from carriers of truncating mutations revealed that the majority were high histological grade, invasive ductal carcinomas. Young onset was apparent in most families, with 19 breast cancers under 50 years of age, including eight under the age of 40 years. Our data demonstrate the utility of Hi-Plex in the context of high-throughput testing for rare genetic mutations and provide additional timely information about the nature and prevalence of PALB2 mutations, to enhance risk assessment and risk management of women at high risk of cancer attending clinical genetic services.
+
+
+****
+
+### Abridged adapter primers increase the target scope of Hi-Plex 
+
+Authors: Tú Nguyen-Dumont, Fleur Hammet, Maryam Mahmoodi, Bernard J. Pope, Graham G. Giles, John L. Hopper, Melissa C. Southey, and Daniel J. Park  
+
+Journal: [BioTechniques, 2015](http://www.biotechniques.com/BiotechniquesJournal/2015/January/Abridged-adapter-primers-increase-the-target-scope-of-Hi-Plex/biotechniques-356249.html)
+
+Topics: Multiplex PCR, DNA Sequencing
+
+#### Abstract 
+
+Previously, we reported Hi-Plex, an amplicon-based method for targeted massively parallel sequencing capable of generating 60 amplicons simultaneously. In further experiments, however, we found our approach did not scale to higher amplicon numbers. Here, we report a modification to the original Hi-Plex protocol that includes the use of abridged adapter oligonucleotides as universal primers (bridge primers) in the initial PCR mixture. Full-length adapter primers (indexing primers) are included only during latter stages of thermal cycling with concomitant application of elevated annealing temperatures. Using this approach, we demonstrate the application of Hi-Plex across a broad range of amplicon numbers (16-plex, 62-plex, 250-plex, and 1003-plex) while preserving the low amount (25 ng) of input DNA required.
+
+****
+
 ### SRST2: Rapid genomic surveillance for public health and hospital microbiology labs
 
 Authors: Michael Inouye, Harriet Dashnow, Lesley-Ann Raven, Mark B Schultz, Bernard J Pope, Takehiro Tomita, Justin Zobel and Kathryn E Holt 
