@@ -16,6 +16,10 @@ academia: True
 </div>
 </div>
 
+# Orcid
+
+My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
+
 <div id="grants">
 # Grants
 
@@ -249,6 +253,7 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 * Sori Kang, 2012-2013.
 * Adrian Hecker, 2013-2014.
 * Luke Shillabeer, 2013-2014.
+* Luke Zappia, 2014-2015. 
 
 ### UROP students
 
@@ -266,13 +271,14 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 ### Conference committees
 
 * Haskell Symposium, Canada, 2008.
-* eResearch Australasia, 2012, 2013, 2014.
+* eResearch Australasia, 2012, 2013, 2014, 2015.
 
 ### Paper reviews
 
 I have peer reviewed papers for numerous conferences and journals. Here are some recent 
 ones:
 
+* PLOS ONE 2015.
 * PeerJ (Journal) 2014.
 * Science of Computer Programming (Journal) 2014.
 * Bioinformatics (Journal) 2014.
@@ -280,8 +286,10 @@ ones:
 * Haskell Symposium 2012.
 * 21st European Symposium on Programming (ESOP) 2012.
 * Advances in Engineering Software (Journal) 2011.
+* ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation 2010.
 * Principles and Practice of Declarative Programming (PPDP) 2009. 
 * The 16th International Static Analysis Symposium (SAS) 2009.
+* Principles and Practice of Declarative Programming (PPDP) 2008. 
 * Practical Aspects of Declarative Languages (PADL) 2007.
 * International Conference on Logic Programming (ICLP) 2006.
 * Programming Languages and Systems, 4th Asian Symposium (APLAS) 2006.
