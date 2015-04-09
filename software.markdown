@@ -3,6 +3,29 @@ title: Software
 software: True
 ---
 
+## HiTIME
+
+High-resolution Twin-Ion Metabolic Extraction.
+
+[Website](https://github.com/bjpop/HiTIME)
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/HiTIME)
+
+    You can download the HiTIME source repository using git with this command:
+
+    `git clone https://github.com/bjpop/HiTIME`
+
+#### Description 
+
+HiTIME is a software tool for detecting twin ion signals in high resolution 
+liquid chromatography mass spectrometry (LCMS) data.
+
+This is a collaboration with Andrew Isaac, Michael Leeming, Richard O'Hair and William Alexander Donald.
+
+****
+
 ## SRST2 
 
 Short Read Sequence Typing for Bacterial Pathogens.
