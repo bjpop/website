@@ -3,6 +3,20 @@ title: Papers
 papers: True
 ---
 
+### High-Resolution Twin-Ion Metabolite Extraction (HiTIME) Mass Spectrometry: Nontargeted Detection of Unknown Drug Metabolites by Isotope Labeling, Liquid Chromatography Mass Spectrometry, and Automated High-Performance Computing 
+
+Authors: Michael G. Leeming, Andrew P. Isaac, Bernard J. Pope, Noel Cranswick, Christine E. Wright, James Ziogas, Richard A. J. O’Hair, and William A. Donald.
+
+Journal: [Analytical Chemistry, 2015](http://pubs.acs.org/doi/abs/10.1021/ac504767d)
+
+Topics: Mass Spectrometry, Bioinformatics
+
+#### Abstract 
+
+The metabolic fate of a compound can often determine the success of a new drug lead. Thus, significant effort is directed toward identifying the metabolites formed from a given molecule. Here, an automated and nontargeted procedure is introduced for detecting drug metabolites without authentic metabolite standards via the use of stable isotope labeling, liquid chromatography mass spectrometry (LC/MS), and high-performance computing. LC/MS of blood plasma extracts from rats that were administered a 1:1 mixture of acetaminophen (APAP) and 13C6-APAP resulted in mass spectra that contained “twin” ions for drug metabolites that were not detected in control spectra (i.e., no APAP administered). Because of the development of a program (high-resolution twin-ion metabolite extraction; HiTIME) that can identify twin-ions in high-resolution mass spectra without centroiding (i.e., reduction of mass spectral peaks to single data points), 9 doublets corresponding to APAP metabolites were identified. This is nearly twice that obtained by use of existing programs that make use of centroiding to reduce computational cost under these conditions with a quadrupole time-of-flight mass spectrometer. By a manual search for all reported APAP metabolite ions, no additional twin-ion signals were assigned. These data indicate that all the major metabolites of APAP and multiple low-abundance metabolites (e.g., acetaminophen hydroxy- and methoxysulfate) that are rarely reported were detected. This methodology can be used to detect drug metabolites without prior knowledge of their identity. HiTIME is freely available from [https://github.com/bjpop/HiTIME](https://github.com/bjpop/HiTIME).
+
+****
+
 ### Mutation screening of PALB2 in clinically ascertained families from the Breast Cancer Family Registry
 
 Authors: Tú Nguyen-Dumont, Fleur Hammet, Maryam Mahmoodi, Helen Tsimiklis, Zhi L. Teo, Roger Li, Bernard J. Pope, Mary Beth Terry, Saundra S. Buys, Mary Daly, John L. Hopper, Ingrid Winship, David E. Goldgar, Daniel J. Park, Melissa C. Southey 
