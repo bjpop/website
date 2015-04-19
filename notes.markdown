@@ -3,6 +3,12 @@ title: Notes
 notes: True
 ---
 
+### [Better Scientific Software](/better_scientific_software.html)
+
+
+
+****
+
 ### [Introduction to Unix](/docs/intro_to_unix.pdf)
 
 These notes were written to introduce new VLSCI users to the fundamental ideas of Unix. The notes cover
