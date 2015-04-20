@@ -80,7 +80,7 @@ When developing and testing your code consider using a sandboxing environment su
 ## Use and document exit status values
 
 It is quite common for scientific software to be used as part of a *pipeline* (or *workflow*), where the outputs of one computation are fed as inputs to another. Such pipelines can become large and complex and can run for hours or days on HPC systems, therefore the likelihood of failure is high. One of the worst things that can happen in a pipeline is for one stage to fail and produce partial or incorrect results but for subsequent stages to carry on oblivious to the error. This can result in data corruption or worse it can produce false results which go undetected. Most pipeline systems know very little about the programs they run, so they rely heavily on the exit status of each computation to decide what to do next. The Unix convention is that an exit status of zero means that the computation ran to completion successfully, and any other exit status means something exceptional happened. Therefore one of the worst sins you can commit in scientific programming is to return a misleading exit status code, especially so if you return zero when your program failed! 
-You should be careful to only use a zero exit status when your program has successfully run to completion. Furthermore you should use different exit status values for different kinds of errors and be sure to document what they mean.
+You should be careful to only use a zero exit status when your program has successfully run to completion. Furthermore you should use different exit status values for different kinds of errors and be sure to *document what they mean*.
 
 You can minimise the risk of false exit values by reducing the number of exit points in your program and by defining exit codes as constants in their own module. 
 
@@ -94,9 +94,36 @@ Consider the case of a missing file. What might the user need to know?
  * In which places did the program search when it tried to find the file?
  * How can the user influence the places that are searched? 
 
-A common cause of errors in HPC systems is resource exhaustion, such as running out of heap space, overflowing the call stack, or filling up the disk.
+Your program might be called from a pipeline or a shell script where its output, including errors, are mixed together from other programs. Therefore your error messages should include the name of your program to clearly identify the source of the error.
+
+Here is a template that caters for many kinds of errors in an informative way:
+
+```
+    program name ERROR: general description of error
+
+        What happened.
+
+        How the user could fix the problem.
+```
+
+for example, assuming the program is called `frobnicate`:
+
+```
+    frobnicate ERROR: could not find configuration file.
+
+        Tried to read configuration file /home/foo/frobnicate.config
+        File does not exist.
+
+        Create a configuration file called /home/foo/frobnicate.config
+        or specify an alternative path with --config <filename>
+```
+
+
+## Follow command line argument conventions
+
+## Input and output filenames should be parameters
+
 
 ## Avoid writing lots of little files
 
-## Follow command line argument conventions
 
