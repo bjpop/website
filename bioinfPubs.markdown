@@ -79,7 +79,7 @@ background-color:#EAF2D3;
 <td></td>
 </tr>
 <tr class="alt">
-<td>[Computers in Biology and Medicine](http://www.journals.elsevier.com/computers-in-biology-and-medicine/](http://www.journals.elsevier.com/computers-in-biology-and-medicine/)</td>
+<td>[Computers in Biology and Medicine](http://www.journals.elsevier.com/computers-in-biology-and-medicine/]</td>
 <td>1.089</td>
 <td>no</td>
 <td>general</td>
