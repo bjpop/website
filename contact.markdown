@@ -15,9 +15,11 @@ contact: True
 
 Dr Bernard Pope \
 Victorian Life Sciences Computation Initiative \
-The University of Melbourne \
-187 Grattan Street, Carlton, Victoria \
-Australia, 3010 \
+The University of Melbourne, Parkville Campus \
+LAB-14, 700 Swanston Street \
+Carlton, Melbourne \
+Victoria 3053 \
+Australia
 </div>
 
 </div>
