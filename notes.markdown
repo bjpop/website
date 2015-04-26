@@ -3,9 +3,9 @@ title: Notes
 notes: True
 ---
 
-### [Better Scientific Software](/better_scientific_software.html)
+### [Ten rules of etiquette for scientific code](/scientific_software_etiquette.html)
 
-
+Ten things to think about when writing scientific code to make it more usable and well mannered.
 
 ****
 
