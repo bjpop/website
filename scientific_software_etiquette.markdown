@@ -9,7 +9,7 @@ In 2013 Torsten Seemann wrote "[Ten recommendations for creating usable bioinfor
 A standard license provides minimum fuss for users and increases the chances that your software will be widely used. 
 The [Open Source Initiative](http://opensource.org/) provides a [good description](http://opensource.org/licenses) of the main open source options. 
 
-It is very common for research centers to install software on behalf of their users. Unsurprisingly such research centers (and their parent institutions) tend to be risk adverse when it comes to legal matters. A non-standard license is very likely to require [vetting by lawyers](http://dilbert.com/strip/2013-08-11), which can be a protracted exercise.
+It is very common for research centers to install software on behalf of their users. Unsurprisingly such research centers (and their parent institutions) tend to be risk averse when it comes to legal matters. A non-standard license is very likely to require [vetting by lawyers](http://dilbert.com/strip/2013-08-11), which can be a protracted exercise.
 
 Make your license easy to find. The license should be indicated prominently near the start of the user documentation. Refer to the license by its common name (e.g. the BSD 3-Clause License), and keep a copy of the license terms in a text file in the top directory of the source repository.
 
