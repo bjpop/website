@@ -3,6 +3,21 @@ title: Presentations
 presentations: True
 ---
 
+## Another look at declarative debugging for Haskell 
+
+VASET group, The University of Melbourne, Friday 30 October 2015.
+
+[Slides](/docs/dd_vaset.pdf)
+
+#### Abstract
+
+Despite rising notoriety, Haskell still lacks effective debugging support. A breakpoint debugger exists, but, as expected, it is difficult to use in the presence of lazy evaluation and higher-order functions. We have previously considered declarative debugging as a more suitable approach for Haskell, but a number of technical challenges remain unsolved. In this talk I will revisit the main ideas behind declarative debugging and outline a few interesting areas of potential research in the context of non-strict purely functional languages, namely:
+
+ - Generalising the structure of the debugging tree.
+ - Interleaving debugging and program execution to reduce memory consumption.
+
+****
+
 ## Lindenmayer Systems 
 
 Foundations of Computing Advanced Lecture, The University of Melbourne, Friday 22 August 2014.
