@@ -24,6 +24,8 @@ liquid chromatography mass spectrometry (LCMS) data.
 
 This is a collaboration with Andrew Isaac, Michael Leeming, Richard O'Hair and William Alexander Donald.
 
+This program is described in the paper [High-Resolution Twin-Ion Metabolite Extraction (HiTIME) Mass Spectrometry: Nontargeted Detection of Unknown Drug Metabolites by Isotope Labeling, Liquid Chromatography Mass Spectrometry, and Automated High-Performance Computing](http://pubs.acs.org/doi/abs/10.1021/ac504767d), published in Analytical Chemistry.
+
 ****
 
 ## SRST2 
@@ -71,6 +73,8 @@ A program for summarising and visualising CpG methylation patterns.
 
 Methpat summarises the resultant DNA methylation pattern data from the output of [Bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/) methylation extractor. Information of the DNA methylation positions for each amplicon, DNA methylation patterns observed within each amplicon and their abundance counts are summarised into a tab delimited text file amenable for further downstream statistical analysis and visualization.
 
+This program is described in the paper [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](http://www.gigasciencejournal.com/content/4/1/55), published in Gigascience.
+
 ****
 
 ## Annokey 
@@ -91,6 +95,8 @@ Gene-based search for key-terms in the NCBI gene database and associated PubMed 
 #### Description 
 
 Annokey is a command line tool for annotating gene lists with the results of a key-term search of the NCBI Gene database and linked PubMed article abstracts. Its purpose is to help users prioritise genes by relevance to a domain of interest, such as "breast cancer" or "DNA repair" etcetera. The user steers the search by specifying a ranked list of keywords and terms that are likely to be highly correlated with their domain of interest.
+
+This program is described in the paper [Annokey: an annotation tool based on key term search of the NCBI Entrez Gene database](http://scfbm.biomedcentral.com/articles/10.1186/1751-0473-9-15), published in Source Code for Biology and Medicine.
 
 ****
 
