@@ -23,6 +23,14 @@ My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 <div id="grants">
 # Grants
 
+### A functional assay to classify genetic variants in Lynch syndrome 
+
+* Funding body: National Health and Medical Research Council (NHMRC, Australia)
+* Period: 2016 - 2018 (2 years)
+* Value: $368,194.80 AUD
+* Chief Investigators: Dr Daniel Park, Dr Daniel Buchanan, Dr Bryony Thompson
+* My Role: Associate Investigator 
+
 ### High risk genes for childhood cancer: using massively parallel sequencing to identify cancer susceptibility
 
 * Funding body: Cancer Australia
