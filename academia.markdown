@@ -99,6 +99,15 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 <div id="teaching">
 # Teaching
 
+### Elements of Bioinformatics
+
+* Institution: The University of Melbourne
+* Date: Semester 1, 2016
+* Year Level: Masters 
+* Class Size: 30 
+* Topics: Bioinformatics, High-Throughput DNA sequencing, Systems Biology, Pathogenomics, Bioinformatics Databases, RNA Sequencing, Natural Language Processing, Structure Modelling and Visualisation, Protein Prediction, Cancer Genomics, and Clinical Genomics.
+* My Role: Lecturer and Coordinator
+
 ### Foundations of Computing
 
 * Institution: The University of Melbourne
@@ -262,10 +271,12 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 * Adrian Hecker, 2013-2014.
 * Luke Shillabeer, 2013-2014.
 * Luke Zappia, 2014-2015. 
+* Edmund Lau, 2016.
 
 ### UROP students
 
 * Roger Li, 2014.
+* Edmund Lau, 2015.
 
 ### Masters of Bioinformatics
 
@@ -286,6 +297,7 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 I have peer reviewed papers for numerous conferences and journals. Here are some recent 
 ones:
 
+* GigaScience 2016.
 * BMC Bioinformatics 2015.
 * PLOS ONE 2015.
 * PeerJ (Journal) 2014.

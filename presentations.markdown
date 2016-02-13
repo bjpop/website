@@ -3,6 +3,21 @@ title: Presentations
 presentations: True
 ---
 
+## Clinical Genomics: a Computational Perspective 
+
+[linux.conf.au](https://linux.conf.au/), Geelong, Monday 1 February 2016
+
+- [Slides](/docs/clinical_genomics_lca_2016.pdf)
+- [Video](https://www.youtube.com/watch?v=tGTVB-dqji4&feature=youtu.be)
+
+#### Abstract
+
+Low cost highly accurate DNA sequencing is quickly becoming an option for clinical diagnosis and treatment. In this
+talk I discuss the computational aspects of Clinical Genomics, based on recent experiences with the 
+[Melbourne Genomics Health Alliance](http://www.melbournegenomics.org.au/). This was an invited talk for the [Open Source and Bioinformatics](http://afrubin.github.io/miniconf/) miniconf, as part of the Linux Conference in Geelong 2016.
+
+****
+
 ## Another look at declarative debugging for Haskell 
 
 VASET group, The University of Melbourne, Friday 30 October 2015.
