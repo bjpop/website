@@ -3,6 +3,30 @@ title: Papers
 papers: True
 ---
 
+### MethPat: a tool for the analysis and visualisation of complex methylation patterns obtained by massively parallel sequencing 
+
+Authors: N Wong, B Pope, I Candiloro, D Korbie, M Trau, S Wong, T Mikeska, X Zhang, M Pitman, S Eggers, S Doyle and A Dobrovic
+
+Journal: [BMC Bioinformatics, 2016](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0950-8)
+
+Topics: DNA Methylation, Visualization
+
+#### Abstract 
+
+Background
+
+DNA methylation at a gene promoter region has the potential to regulate gene transcription. Patterns of methylation over multiple CpG sites in a region are often complex and cell type specific, with the region showing multiple allelic patterns in a sample. This complexity is commonly obscured when DNA methylation data is summarised as an average percentage value for each CpG site (or aggregated across CpG sites). True representation of methylation patterns can only be fully characterised by clonal analysis. Deep sequencing provides the ability to investigate clonal DNA methylation patterns in unprecedented detail and scale, enabling the proper characterisation of the heterogeneity of methylation patterns. However, the sheer amount and complexity of sequencing data requires new synoptic approaches to visualise the distribution of allelic patterns.
+
+Results
+
+We have developed a new analysis and visualisation software tool “Methpat”, that extracts and displays clonal DNA methylation patterns from massively parallel sequencing data aligned using Bismark. Methpat was used to analyse multiplex bisulfite amplicon sequencing on a range of CpG island targets across a panel of human cell lines and primary tissues. Methpat was able to represent the clonal diversity of epialleles analysed at specific gene promoter regions. We also used Methpat to describe epiallelic DNA methylation within the mitochondrial genome.
+
+Conclusions
+
+Methpat can summarise and visualise epiallelic DNA methylation results from targeted amplicon, massively parallel sequencing of bisulfite converted DNA in a compact and interpretable format. Unlike currently available tools, Methpat can visualise the diversity of epiallelic DNA methylation patterns in a sample.
+
+****
+
 ### Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat  
 
 Authors: Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, van Denderen BJ, Thompson EW, Eggers S, Doyle SR, Dobrovic A  

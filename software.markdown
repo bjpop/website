@@ -73,7 +73,7 @@ A program for summarising and visualising CpG methylation patterns.
 
 Methpat summarises the resultant DNA methylation pattern data from the output of [Bismark](http://www.bioinformatics.babraham.ac.uk/projects/bismark/) methylation extractor. Information of the DNA methylation positions for each amplicon, DNA methylation patterns observed within each amplicon and their abundance counts are summarised into a tab delimited text file amenable for further downstream statistical analysis and visualization.
 
-This program is described in the paper [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](http://www.gigasciencejournal.com/content/4/1/55), published in Gigascience.
+This program is described in the papers [MethPat: a tool for the analysis and visualisation of complex methylation patterns obtained by massively parallel sequencing](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0950-8) (BMC Bioinformatics), and [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](http://www.gigasciencejournal.com/content/4/1/55) (Gigascience).
 
 ****
 
