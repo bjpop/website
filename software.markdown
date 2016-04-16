@@ -3,6 +3,31 @@ title: Software
 software: True
 ---
 
+## UNDR ROVER 
+
+A fast and accurate variant caller for targeted DNA sequencing.
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/undr_rover).
+
+    You can download the UNDR ROVER source repository using git with this command:
+
+    `git clone https://github.com/bjpop/undr_rover` 
+
+#### Description 
+
+UNDR ROVER is an improved version of our ROVER variant calling tool for
+targeted DNA sequencing. It enables users to quickly and accurately identify
+genetic variants from PCR-targeted, overlapping paired-end MPS datasets. It
+calls the same variants as the ROVER tool but at a significantly reduced
+runtime. It achieves its higher performance by avoiding read alignment before
+variant calling, and can be applied directly to input FASTQ files.
+
+This program is described in the paper [UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing](http://www.biomedcentral.com/1471-2105/17/165), published in BMC Bioinformatics. 
+
+****
+
 ## HiTIME
 
 High-resolution Twin-Ion Metabolic Extraction.

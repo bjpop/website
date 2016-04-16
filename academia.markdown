@@ -294,9 +294,10 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 
 ### Paper reviews
 
-I have peer reviewed papers for numerous conferences and journals. Here are some recent 
+I have peer reviewed papers for numerous conferences, journals and publishers. Here are some recent 
 ones:
 
+* MIT Press 2016.
 * GigaScience 2016.
 * BMC Bioinformatics 2015.
 * PLOS ONE 2015.
