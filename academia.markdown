@@ -296,15 +296,16 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 
 Recent peer reviews:
 
+* BMC Genomics 2016.
 * National Health and Medical Research Council (NHMRC Australia) 2016.
 * BMC Bioinformatics 2016
 * MIT Press 2016.
 * GigaScience 2016.
 * BMC Bioinformatics 2015.
 * PLOS ONE 2015.
-* PeerJ (Journal) 2014.
-* Science of Computer Programming (Journal) 2014.
-* Bioinformatics (Journal) 2014.
+* PeerJ 2014.
+* Science of Computer Programming 2014.
+* Bioinformatics 2014.
 * FLOPS: International Symposium on Functional and Logic Programming 2014.
 * Haskell Symposium 2012.
 * 21st European Symposium on Programming (ESOP) 2012.

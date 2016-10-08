@@ -3,6 +3,20 @@ title: Papers
 papers: True
 ---
 
+### Fine resolution mapping of double-strand break sites for human ribosomal DNA units 
+
+Authors: Bernard J. Pope, Khalid Mahmood, Chol-hee Jung, Daniel J. Park 
+
+Journal: [Genomics Data, 2016](http://www.sciencedirect.com/science/article/pii/S221359601630109X)
+
+Topics: Double-strand breaks; Fragile sites; rDNA; Forum domains; HEK293T  
+
+#### Abstract 
+
+DNA breakage arises during a variety of biological processes, including transcription, replication and genome rearrangements. In the context of disease, extensive fragmentation of DNA has been described in cancer cells and during early stages of neurodegeneration. Stults et al. reported that human rDNA gene clusters are hotspots for recombination and that rDNA restructuring is among the most common chromosomal alterations in adult solid tumours. As such, analysis of rDNA regions is likely to have significant prognostic and predictive value, clinically. Tchurikov et al. have made major advances in this direction, reporting that sites of human genome double-strand breaks (DSBs) occur frequently at sites in rDNA that are tightly linked with active transcription - the authors used a RAFT (rapid amplification of forum termini) protocol that selects for blunt-ended sites. They reported the relative frequency of these rDNA DSBs within defined co-ordinate 'windows' of varying size and made these data (as well as the relevant 'raw' sequencing information) available to the public. Assay designs targeting rDNA DSB hotspots will benefit greatly from the publication of break sites at greater resolution. Here, we re-analyse public RAFT data and make available rDNA DSB co-ordinates to the single-nucleotide level.
+
+****
+
 ### UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing
 
 Authors: Daniel J. Park, Roger Li, Edmund Lau, Peter Georgeson, Tú Nguyen-Dumont and Bernard J. Pope 
