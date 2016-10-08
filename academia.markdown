@@ -263,7 +263,7 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 </div>
 
 <div id="supervision">
-# Supervision
+# Student Supervision
 
 ### VLSCI interns
 
@@ -290,13 +290,14 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 ### Conference committees
 
 * Haskell Symposium, Canada, 2008.
-* eResearch Australasia, 2012, 2013, 2014, 2015.
+* eResearch Australasia, 2012-2016.
 
-### Paper reviews
+### Reviews
 
-I have peer reviewed papers for numerous conferences, journals and publishers. Here are some recent 
-ones:
+Recent peer reviews:
 
+* National Health and Medical Research Council (NHMRC Australia) 2016.
+* BMC Bioinformatics 2016
 * MIT Press 2016.
 * GigaScience 2016.
 * BMC Bioinformatics 2015.
