@@ -3,6 +3,18 @@ title: Presentations
 presentations: True
 ---
 
+## Fuzz testing with American Fuzzy Lop (AFL) 
+
+VASET group, The University of Melbourne, Thursday 18 August 2016. Also given as a guest lecture in the University of Melbourne Masters subject Software Testing and Reliability (SWEN90006), 18 October 2016.
+
+[Slides](/docs/afl_fuzz.pdf)
+
+#### Abstract
+
+[American Fuzzy Lop (AFL)](http://lcamtuf.coredump.cx/afl/) is a fuzz testing tool that has helped detect an impressive set of bugs. It uses compile-time program instrumentation and simple run-time statistics to detect program inputs which trigger novel execution paths. An initial program input is supplied by the user, from which a stream of new cases are generated based on a carefully tuned "genetic" algorithm (author's terminology). In some cases AFL can synthesise complex input file structure from fairly distant starting points. A useful by-product of running AFL is a compact collection of synthetic test inputs which can be used for other testing regimes.  AFL's runtime overheads are very low, and, according to the author, real-word fuzzed programs can run at near-native speed.  In this talk I give an overview of AFL and attempt to explain some of its implementation details.
+
+****
+
 ## Clinical Genomics: a Computational Perspective 
 
 [linux.conf.au](https://linux.conf.au/), Geelong, Monday 1 February 2016
