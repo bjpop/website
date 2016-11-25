@@ -281,6 +281,37 @@ FAVR is a suite of new methods designed to work with commonly used MPS analysis 
 
 ****
 
+### Identification of new breast cancer predisposition genes via whole exome sequencing  
+
+Authors: MC Southey, DJ Park, F Lesueur, F Odefrey, T Nguyen-Dumont, F Hammet, SL Neuhausen, EM John, IL Andrulis, G Chenevix-Trench, L Baglietto, F Le Calvez-Kelm, M Pertesi, A Lonie, B Pope, O Sinilnikova, H Tsimiklis, MCCS, BCFR, kConFab, GG Giles, JL Hopper, SV Tavtigian and DE Goldgar  
+
+Journal: [Hereditary Cancer in Clinical Practice, 2012](http://hccpjournal.biomedcentral.com/articles/10.1186/1897-4287-10-S2-A40)
+
+Topics: Breast Cancer, Exome Sequencing, Inherited risk
+
+#### Abstract 
+
+The application of massively parallel sequencing (MPS) platforms has begun to revolutionize our understanding of the immense variation in the human genome and the complexity that can underlie genetic susceptibility to disease. The utility of exome capture MPS through the identification of genes for rare Mendelian disorders based on analysis of only a few individuals has been eloquently demonstrated. Common diseases such as breast cancer present substantially increased complexity in terms of locus, allelic and phenotypic heterogeneity, as well as complex relationships between genotype and phenotype (reduced penetrance, phenocopies etc.). With careful consideration of study design [1], thoughtful selection of families from our international resources (whole exome sequencing of two highly selected affected members of multiple-case breast cancer families), and a well-developed strategy (analytical pipeline) for distinguishing the few true breast cancer susceptibility genes from the many genes that have rare genetic variants that could plausibly alter protein function, we are advancing a large program of work aimed at identifying the majority of the “missing heritability” of breast cancer.
+
+
+****
+
+### Expanded genetic analysis of a PALB2 c.3113G>A mutation carrying multiple-case breast cancer family via exome sequencing  
+
+Authors: ZL Teo, DJ Park, F Odefrey, F Hammet, T Nguyen-Dumont, H Tsimiklis, BJ Pope, A Lonie, I Winship, GG Giles, JL Hopper, and MC Southey1, ABCFS  
+
+Journal: [Hereditary Cancer in Clinical Practice, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3327032/)
+
+Topics: Breast Cancer, Exome Sequencing, PALB2
+
+#### Abstract 
+
+PALB2 is a breast cancer (BC) susceptibility gene. Its product is the binding partner of BRCA1 and BRCA2 and is involved in DNA repair. Studies of multiple-case BC families have reported that truncating mono-allelic PALB2 mutations, on average, increase BC risk two to six fold.
+
+Whole exome capture followed by massively parallel sequencing was performed on four strategically selected affected females of this family. We have shortlisted 15 variants in this family predicted to be protein damaging by SIFT in genes with plausible relevance to cancer aetiology. Eight such variants are predicted to result in protein truncation or are variants predicted to have strong effects on splicing efficiency, one of which have been observed in key DNA repair genes. Six of the genes have roles in DNA repair, three in cell cycle checkpoint regulation, one controls telomerase activity and another has been reported to be a prostate cancer predisposition gene. Further analyses of these candidate BC predisposition genes will be presented.
+
+****
+
 ### Bpipe: a tool for running and managing bioinformatics pipelines
 
 Authors: Simon P. Sadedin, Bernard Pope and Alicia Oshlack.
