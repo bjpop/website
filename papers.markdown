@@ -3,6 +3,20 @@ title: Papers
 papers: True
 ---
 
+### Single nucleotide-level mapping of DNA double-strand breaks in human HEK293T cells 
+
+Authors: Bernard J. Pope, Khalid Mahmood, Chol-hee Jung, Peter Georgeson, Daniel J. Park 
+
+Journal: [Genomics Data, 2016](http://www.sciencedirect.com/science/article/pii/S2213596016301428)
+
+Topics: Double-strand breaks; Fragile sites; Human genome; Forum domains; HEK293T  
+
+#### Abstract 
+
+Constitutional biological processes involve the generation of DNA double-strand breaks (DSBs). The production of such breaks and their subsequent resolution are also highly relevant to neurodegenerative diseases and cancer, in which extensive DNA fragmentation has been described Stephens et al. (2011), Blondet et al. (2001) . Tchurikov et al. Tchurikov et al. (2011, 2013) have reported previously that frequent sites of DSBs occur in chromosomal domains involved in the co-ordinated expression of genes. This group report that hot spots of DSBs in human HEK293T cells often coincide with H3K4me3 marks, associated with active transcription Kravatsky et al. (2015) and that frequent sites of DNA double-strand breakage are likely to be relevant to cancer genomics Tchurikov et al. (2013, 2016) . Recently, they applied a RAFT (rapid amplification of forum termini) protocol that selects for blunt-ended DSB sites and mapped these to the human genome within defined co-ordinate ‘windows’. In this paper, we re-analyse public RAFT data to derive sites of DSBs at the single-nucleotide level across the built genome for human HEK293T cells (https://figshare.com/s/35220b2b79eaaaf64ed8). This refined mapping, combined with accessory ENCODE data tracks and ribosomal DNA-related sequence annotations, will likely be of value for the design of clinically relevant targeted assays such as those for cancer susceptibility, diagnosis, treatment-matching and prognostication.
+
+****
+
 ### Fine resolution mapping of double-strand break sites for human ribosomal DNA units 
 
 Authors: Bernard J. Pope, Khalid Mahmood, Chol-hee Jung, Daniel J. Park 
