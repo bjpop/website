@@ -23,12 +23,20 @@ My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 <div id="grants">
 # Grants
 
+### Expanding diagnostic approaches for Lynch syndrome  
+
+* Funding body: National Health and Medical Research Council (NHMRC, Australia)
+* Period: 2017 - 2019 (3 years)
+* Value: $1,269,355 AUD
+* Chief Investigators: Daniel Buchanan, Ingrid Winship, Amanda Spurdle, Aung Ko Win, Bernard Pope, Christophe Rosty, Finlay Macrae
+* My Role: Chief Investigator (E)
+
 ### A functional assay to classify genetic variants in Lynch syndrome 
 
 * Funding body: National Health and Medical Research Council (NHMRC, Australia)
 * Period: 2016 - 2018 (2 years)
 * Value: $368,194.80 AUD
-* Chief Investigators: Dr Daniel Park, Dr Daniel Buchanan, Dr Bryony Thompson
+* Chief Investigators: Daniel Park, Daniel Buchanan, Bryony Thompson
 * My Role: Associate Investigator 
 
 ### High risk genes for childhood cancer: using massively parallel sequencing to identify cancer susceptibility
@@ -36,7 +44,7 @@ My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 * Funding body: Cancer Australia
 * Period: 2014 - 2016 (2 years)
 * Value: $200,000 AUD
-* Chief Investigators: A/Prof John Heath, Prof Melissa Southey, Dr John Hopper, A/Prof Andrew Lonie, Dr Daniel Park, Dr Tu Nguyen-Dumont, Dr Gillian Dite, Dr Bernard Pope.
+* Chief Investigators: John Heath, Melissa Southey, John Hopper, Andrew Lonie, Daniel Park, Tu Nguyen-Dumont, Gillian Dite, Bernard Pope.
 * My Role: Chief Investigator (H)
 
 ### Mouse phenotype-driven breast cancer risk gene discovery 
@@ -44,7 +52,7 @@ My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 * Funding body: Cancer Council Victoria
 * Period: 2014 - 2015
 * Value: $200,000 AUD
-* Chief Investigators: Dr Daniel Park, Prof David Goldgar, Dr Bernard Pope, Dr Tu Nguyen-Dumont, A/Prof Andrew Lonie
+* Chief Investigators: Daniel Park, David Goldgar, Bernard Pope, Tu Nguyen-Dumont, Andrew Lonie
 * My Role: Chief Investigator (C)
 
 ### Massively parallel sequencing and PCR optimised for DNA-based diagnosis and discovery
@@ -52,7 +60,7 @@ My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 * Funding body: National Health and Medical Research Council (NHMRC, Australia)
 * Period: 2012 - 2014
 * Value: $196,544 AUD
-* Chief Investigators: Dr Daniel Park and Dr Bernard Pope.
+* Chief Investigators: Daniel Park and Bernard Pope.
 * My Role: Chief Investigator (B)
 
 ### High Risk Genes for Lobular Breast Cancer
@@ -60,7 +68,7 @@ My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 * Funding body: Cancer Australia
 * Period: 2013 - 2015
 * Value: $300,000 AUD
-* Chief Investigators: Prof Melissa Southey, Prof David Goldgar, Dr Daniel Park, A/Prof Andrew Lonie, Prof Ingrid Winship, Dr Peter Simpson, and Prof Sunil Lakhani.
+* Chief Investigators: Melissa Southey, David Goldgar, Daniel Park, Andrew Lonie, Ingrid Winship, Peter Simpson, Sunil Lakhani.
 * My Role: Associate Investigator
 
 ### Identifying key players in the spread of antimicrobial resistance.
@@ -68,7 +76,7 @@ My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 * Funding body: National Health and Medical Research Council (NHMRC, Australia)
 * Preiod: 2013 - 2016
 * Value: $789,320 AUD
-* Chief Investigators: Dr Kathryn Holt, Dr Michael Inouye, Prof Justin Zobel, Prof Ruth Hall.
+* Chief Investigators: Kathryn Holt, Michael Inouye, Justin Zobel, Ruth Hall.
 * My Role: Associate Investigator
 </div>
 
