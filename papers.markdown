@@ -3,6 +3,20 @@ title: Papers
 papers: True
 ---
 
+### Mutation screening of ACKR3 and COPS8 in kidney cancer cases from the CONFIRM study 
+
+Authors: Maryam Mahmoodi, Tu Nguyen-Dumont, Fleur Hammet, Bernard J. Pope, Daniel J. Park, Melissa C. Southey, John M. Darlow, Fiona Bruinsma, Ingrid Winship
+
+Journal: [Familial Cancer, 2017](http://link.springer.com/article/10.1007/s10689-016-9961-x)
+
+Topics: Kidney cancer, ACKR3, COPS8, Mutation screening, Massively parallel sequencing, Hi-Plex  
+
+#### Abstract 
+
+An apparently balanced t(2;3)(q37.3;q13.2) translocation that appears to segregate with renal cell carcinoma (RCC) has indicated potential areas to search for the elusive genetic basis of clear cell RCC. We applied Hi-Plex targeted sequencing to analyse germline DNA from 479 individuals affected with clear cell RCC for this breakpoint translocation and genetic variants in neighbouring genes on chromosome 2, ACKR3 and COPS8. While only synonymous variants were found in COPS8, one of the missense variants in ACKR3:c.892C>T, observed in 4/479 individuals screened (0.8%), was predicted likely to damage ACKR3 function. Identification of causal genes for RCC has potential clinical utility, where risk assessment and risk management can offer better outcomes, with surveillance for at-risk relatives and nephron sparing surgery through earlier intervention.
+
+****
+
 ### Single nucleotide-level mapping of DNA double-strand breaks in human HEK293T cells 
 
 Authors: Bernard J. Pope, Khalid Mahmood, Chol-hee Jung, Peter Georgeson, Daniel J. Park 

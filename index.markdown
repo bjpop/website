@@ -16,14 +16,7 @@ home: True
 
 ## About me 
 
-I am Lead Bioinformatician (Cancer Genomics and Clinical Genomics) at [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/) (formerly called VLSCI), a high-performance computing facility for life sciences at the [University of Melbourne](http://www.unimelb.edu.au/), Australia. I am also an Honorary Fellow of [Computing and Information Systems](http://www.cis.unimelb.edu.au) at the same institution.
-
-My interests in computing are many and varied, but my recent focus has been:
-
-   * Bioinformatics and computational biology.
-   * Programming language implementation and theory.
-
-I am enthusiastic about education and have extensive experience teaching computer science at university level.
+I am Lead Bioinformatician (Cancer Genomics and Clinical Genomics) at [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/) (formerly called VLSCI), a high-performance computing facility for life sciences at the [University of Melbourne](http://www.unimelb.edu.au/), Australia. I am also an Honorary Fellow of [Computing and Information Systems](http://www.cis.unimelb.edu.au) at the same institution. In addition to research, I am enthusiastic about education and have extensive experience teaching at the university level.
 
 </div>
 </div>
