@@ -117,6 +117,15 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 ### Elements of Bioinformatics
 
 * Institution: The University of Melbourne
+* Date: Semester 1, 2017
+* Year Level: Masters 
+* Class Size: 24 
+* Topics: Bioinformatics, High-Throughput DNA sequencing, Systems Biology, Pathogenomics, Bioinformatics Databases, RNA Sequencing, Natural Language Processing, Structure Modelling and Visualisation, Protein Prediction, Cancer Genomics, and Clinical Genomics.
+* My Role: Lecturer and Coordinator
+
+### Elements of Bioinformatics
+
+* Institution: The University of Melbourne
 * Date: Semester 1, 2016
 * Year Level: Masters 
 * Class Size: 30 
@@ -311,6 +320,11 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 
 Recent peer reviews:
 
+* National Health and Medical Research Council (NHMRC Australia) 2017.
+* Briefings in Bioinformatics 2017.
+* BMC Bioinformatics 2017.
+* Bioinformatics 2017.
+* Briefings in Bioinformatics 2017.
 * BMC Genomics 2016.
 * National Health and Medical Research Council (NHMRC Australia) 2016.
 * BMC Bioinformatics 2016

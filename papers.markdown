@@ -3,6 +3,30 @@ title: Papers
 papers: True
 ---
 
+### Variant effect prediction tools assessed using independent, functional assay-based datasets: implications for discovery and diagnostics  
+
+Authors: Khalid Mahmood, Chol-hee Jung, Gayle Philip, Peter Georgeson, Jessica Chung, Bernard J. Pope and Daniel J. Park  
+
+Journal: [Human Genomics, 2017](https://humgenomics.biomedcentral.com/articles/10.1186/s40246-017-0104-8)
+
+Topics: Variant effect prediction, functional datasets, benchmarking, mutation assessment, pathogenicity prediction, protein function, functional assays, genomic screening  
+
+#### Abstract 
+
+Background
+
+Genetic variant effect prediction algorithms are used extensively in clinical genomics and research to determine the likely consequences of amino acid substitutions on protein function. It is vital that we better understand their accuracies and limitations because published performance metrics are confounded by serious problems of circularity and error propagation. Here, we derive three independent, functionally determined human mutation datasets, UniFun, BRCA1-DMS and TP53-TA, and employ them, alongside previously described datasets, to assess the pre-eminent variant effect prediction tools.
+
+Results
+
+Apparent accuracies of variant effect prediction tools were influenced significantly by the benchmarking dataset. Benchmarking with the assay-determined datasets UniFun and BRCA1-DMS yielded areas under the receiver operating characteristic curves in the modest ranges of 0.52 to 0.63 and 0.54 to 0.75, respectively, considerably lower than observed for other, potentially more conflicted datasets.
+
+Conclusions
+
+These results raise concerns about how such algorithms should be employed, particularly in a clinical setting. Contemporary variant effect prediction tools are unlikely to be as accurate at the general prediction of functional impacts on proteins as reported prior. Use of functional assay-based datasets that avoid prior dependencies promises to be valuable for the ongoing development and accurate benchmarking of such tools.
+
+****
+
 ### Mutation screening of ACKR3 and COPS8 in kidney cancer cases from the CONFIRM study 
 
 Authors: Maryam Mahmoodi, Tu Nguyen-Dumont, Fleur Hammet, Bernard J. Pope, Daniel J. Park, Melissa C. Southey, John M. Darlow, Fiona Bruinsma, Ingrid Winship
