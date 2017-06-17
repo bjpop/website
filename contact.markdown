@@ -16,7 +16,7 @@ bjpope@unimelb.edu.au
 Dr Bernard Pope \
 Melbourne Bioinformatics \
 The University of Melbourne, Parkville Campus \
-LAB-14, 700 Swanston Street \
+187 Grattan Street \
 Carlton, Melbourne \
 Victoria 3053 \
 Australia

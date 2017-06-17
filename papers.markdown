@@ -3,6 +3,34 @@ title: Papers
 papers: True
 ---
 
+### Somatic mutations of the coding microsatellites within the beta-2-microglobulin gene in mismatch repair-deficient colorectal cancers and adenomas  
+
+Authors: Mark Clendenning, Alvin Huang, Harindra Jayasekara, Marie Lorans, Susan Preston, Neil O’Callaghan, Bernard J. Pope, Finlay A. Macrae, Ingrid M. Winship, Roger L. Milne, Graham G. Giles, Dallas R. English, John L. Hopper, Aung K. Win, Mark A. Jenkins, Melissa C. Southey, Christophe Rosty, Daniel D. Buchanan  
+
+Journal: [Familial Cancer, 2017](https://link.springer.com/article/10.1007/s10689-017-0013-y)
+
+Topics: beta-2-microglobulin (B2M), colorectal cancer, mismatch repair deficiency, microsatellite instability, lynch syndrome,  MLH1 methylation   
+
+#### Abstract 
+
+In colorectal cancers (CRCs) with tumour mismatch repair (MMR) deficiency, genes involved in the host immune response that contain microsatellites in their coding regions, including beta-2-microglobulin (B2M), can acquire mutations that may alter the immune response, tumour progression and prognosis. We screened the coding microsatellites within B2M for somatic mutations in MMR-deficient CRCs and adenomas to determine associations with tumour subtypes, clinicopathological features and survival. Incident MMR-deficient CRCs from Australasian Colorectal Cancer Family Registry (ACCFR) and the Melbourne Collaborative Cohort Study participants (n = 144) and 63 adenomas from 41 MMR gene mutation carriers from the ACCFR were screened for somatic mutations within five coding microsatellites of B2M. Hazard ratios (HR) and 95% confidence intervals (CI) for overall survival by B2M mutation status were estimated using Cox regression, adjusting for age at CRC diagnosis, sex, AJCC stage and grade. B2M mutations occurred in 30 (20.8%) of the 144 MMR-deficient CRCs (29% of the MLH1-methylated, 17% of the Lynch syndrome and 9% of the suspected Lynch CRCs). No B2M mutations were identified in the 63 adenomas tested. B2M mutations differed by site, stage, grade and lymphocytic infiltration although none reached statistical significance (p > 0.05). The HR for overall survival for B2M mutated CRC was 0.65 (95% CI 0.29–1.48) compared with B2M wild-type. We observed differences in B2M mutation status in MMR-deficient CRC by tumour subtypes, site, stage, grade, immune infiltrate and for overall survival that warrant further investigation in larger studies before B2M mutation status can be considered to have clinical utility.
+
+****
+
+### Four simple recommendations to encourage best practices in research software 
+
+Authors: Rafael C. Jiménez, Mateusz Kuzak, Monther Alhamdoosh, Michelle Barker, Bérénice Batut, Mikael Borg, Salvador Capella-Gutierrez, Neil Chue Hong, Martin Cook, Manuel Corpas, Madison Flannery, Leyla Garcia, Josep Ll. Gelpí, Simon Gladman, Carole Goble, Montserrat González Ferreiro, Alejandra Gonzalez-Beltran, Philippa C. Griffin, Björn Grüning, Jonas Hagberg, Petr Holub, Rob Hooft, Jon Ison, Daniel S. Katz, Brane Leskošek, Federico López Gómez, Luis J. Oliveira, David Mellor, Rowland Mosbergen, Nicola Mulder, Yasset Perez-Riverol, Robert Pergl, Horst Pichler, Bernard Pope, Ferran Sanz, Maria V. Schneider, Victoria Stodden, Radosław Suchecki, Radka Svobodová Vařeková, Harry-Anton Talvik, Ilian Todorov, Andrew Treloar, Sonika Tyagi, Maarten van Gompel, Daniel Vaughan, Allegra Via, Xiaochuan Wang, Nathan S. Watson-Haigh, Steve Crouch
+
+Journal: [F1000 Research, 2017](https://f1000research.com/articles/6-876/v1)
+
+Topics: Research software, best practices
+
+#### Abstract 
+
+Scientific research relies on computer software, yet software is not always developed following practices that ensure its quality and sustainability. This manuscript does not aim to propose new software development best practices, but rather to provide simple recommendations that encourage the adoption of existing best practices. Software development best practices promote better quality software, and better quality software improves the reproducibility and reusability of research. These recommendations are designed around Open Source values, and provide practical suggestions that contribute to making research software and its source code more discoverable, reusable and transparent. This manuscript is aimed at developers, but also at organisations, projects, journals and funders that can increase the quality and sustainability of research software by encouraging the adoption of these recommendations.
+
+****
+
 ### Variant effect prediction tools assessed using independent, functional assay-based datasets: implications for discovery and diagnostics  
 
 Authors: Khalid Mahmood, Chol-hee Jung, Gayle Philip, Peter Georgeson, Jessica Chung, Bernard J. Pope and Daniel J. Park  
