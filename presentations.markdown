@@ -1,7 +1,36 @@
 ---
-title: Presentations
+title: Presentations and Posters
 presentations: True
 ---
+
+## Characterisation of Mismatch Repair variants submitted to the International Mismatch Repair Consortium (IMRC)
+
+Jeanette Reece, Daniel Buchanan, John-Paul Plazzer, Khalid Mahmood, Bernard Pope, Mark Clendenning, Grant Lee, Aung Win, Allyson Templeton, Robert Haile, Gabriela Moslein, Finlay Macrae, Mark Jenkins
+
+The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), 7th Biennial Meeting, Florence, Italy, 2017. Poster. 
+
+****
+
+## Whole genome sequencing as a diagnostic tool for Lynch syndrome
+
+B Pope, M Clendenning, K Mahmood, C Rosty, R Walters, A Win, J Hopper, M Southey, F Macrae, I Winship, M Jenkins, A Spurdle, D Buchanan. 
+
+The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), 7th Biennial Meeting, Florence, Italy, 2017 (selected for oral presentation). 
+
+[Slides](/docs/WGS_Lynch_Syndrome_Pope_2017.pdf)
+
+#### Abstract
+
+Background: A high proportion of patients with tumours that have mismatch repair (MMR) deficiency are categorised as having "Lynch-like syndrome" (LLS) because standard screening approaches have been unable to identify a causative germline MMR gene mutation or somatic MLH1 methylation. The aim of this study was to investigate the application of whole genome sequencing (WGS) to identify novel germline causes, including structural variation, of tumour MMR-deficiency and Lynch syndrome.
+
+Methods: We performed WGS on 16 LLS patients (including 2 relative pairs), in whom no MMR mutation had been found after Sanger sequencing and MLPA testing, who were selected for family history of cancer and/or young age at diagnosis. Two previously identified mutation carriers (MSH2 exon 6 deletion and MSH2 intron 1 c.212-478T>G mutation) were also sequenced as positive controls. Single nucleotide variants (SNVs) and short insertions and deletions (INDELS) were called using the GATK Best Practices Pipeline and annotated using the Ensembl, SnpEff and CADD Variant Effect Predictor tools. Structural variants (SVs) were detected using four tools: DELLY, LUMPY, Socrates and GRIDSS, prioritising high- confidence SV calls by applying quality filters and concordance between tools. Gene variants were prioritised based on occurrence in the MMR genes (Tier 1) and then other DNA repair genes (Tier II: including MUTYH, POLE, EXO1).
+
+Results: SV analysis identified a 47.7MB inversion including exons 1-7 of MSH2 in a mother-daughter pair, both with MSH2-deficient colorectal cancers (CRCs). Validation by PCR-based assay confirmed the inversion and identified a further 3 carriers, 2 of whom had CRC. Additional candidate SVs identified included an intronic deletion in MSH2 in a woman with the endometrial cancer and an inversion in MUTYH gene in a man with MLH1/PMS2-deficient CRC. After filtering and annotation, we obtained a list of 9631 SNVs/INDELs across all samples. The top candidate likely pathogenic SNVs identified were in EXO1, LIG1, MUTYH and POLE including the POLE p.Arg680Cys SNV which showed evidence of segregation with CRC and polyp affected relatives.
+
+Conclusions: WGS can identify people with Lynch syndrome among those with LLS. It also has the potential to identify novel susceptibility genes and mutations outside the current gene screening paradigm and, therefore, enables stratification of people
+with LLS and their families into different risk categories for more optimal clinical management.
+
+****
 
 ## Fuzz testing with American Fuzzy Lop (AFL) 
 
@@ -30,6 +59,44 @@ talk I discuss the computational aspects of Clinical Genomics, based on recent e
 
 ****
 
+## OptimusPrime: Multiplex Primer Design Tool for Hi-Plex Sequencing
+
+E Lau, D Park, B Pope.
+
+Australasian Genomic Technologies Association (AGTA), Annual Conference, Auckland, New Zealand, 2016.
+
+- [Poster](/docs/hiplex_AGTA_poster_2016.pdf)
+
+#### Abstract
+
+The advent of Massively Parallel Sequencing (MPS) has dramatically reduced the cost and increased the throughput of DNA sequencing. A number of methods have been  developed that target specified genomic regions for MPS. However, these, variously, are compromised by issues of relative expense, accuracy, requirement for specialist  equipment and the cumbersome nature of protocols. In this work we present Hi-Plex, a novel MPS platform, and multiplex Polymerase Chain Reaction (PCR) primer design software to meet the challenges the platform presents.
+
+****
+
+## Navigating the Research Data Life Cycle
+
+P Griffin, R Appels, D Bulach, K Dudley, G Keeble-Gagnere, A Pask, B Pope, U Roessner, T Seemann, D Bolser, J Khadake, S Lewis, S Orchard, S Tyagi, A Lonie, MV Schneider.
+
+The Australian Bioinformatics and Computational Biology Society (AB3ACBS) Conference, Queensland, Australia, 2016. Poster.
+
+****
+
+## RNASEL, a modifier of breast cancer risk in BRCA1 and BRCA2 carriers?  
+
+T Nguyen-Dumont, A Roberge, D Park, M Kapuscinski, Z Teo, F Hammet, M Mahmoodi, H Tsimiklis, B Pope, A Lonie, K Mahmood, kConFab, ABCFR, J Hopper, G Giles, M Southey. 
+
+6th International Symposium on Hereditary Breast and Ovarian Cancer, Montreal, Canada, 2016. Poster. 
+
+****
+
+## Whole-genome analysis of paediatric cancer from cases with a family cancer history: early insights from Victoria, Australia. 
+
+T Nguyen-Dumont, B Feng, H Tsimiklis, D Amor, E Algar, E Milne, L Spector, J Ng, A Lonie, D Park, B Pope, E Smibert, G Dite, M Southey, J Heath, J Hopper.
+
+American Society of Human Genetics (ASHG) annual meeting, Vancouver, Canada 2016. Poster.
+
+****
+
 ## Another look at declarative debugging for Haskell 
 
 VASET group, The University of Melbourne, Friday 30 October 2015.
@@ -45,6 +112,14 @@ Despite rising notoriety, Haskell still lacks effective debugging support. A bre
 
 ****
 
+## Mutation screening of RNASEL, a candidate breast cancer susceptibility gene identified via whole-exome sequencing.
+
+A Roberge, T Nguyen-Dumont, D Park, M Kapuscinski, F Hammet, M Mahmoodi, H Tsimiklis, B Pope, A Lonie, K Mahmood, kConFab, ABCFS, J Hopper, M Southey.
+
+Familial Aspects of Cancer, Kingscliff, NSW, Australia, 2015. Poster.
+
+****
+
 ## Lindenmayer Systems 
 
 Foundations of Computing Advanced Lecture, The University of Melbourne, Friday 22 August 2014.
@@ -55,6 +130,46 @@ Foundations of Computing Advanced Lecture, The University of Melbourne, Friday 2
 
 These slides introduce the idea of turtle graphics in Python and show how they can be used to implement
 Lindenmayer Systems (term rewriting languages with interesting interpretations as graphics).
+
+****
+
+## Visualizing and analyzing heterogeneous DNA methylation patterns by massively parallel sequencing using methpat. 
+
+N Wong, I Candiloro, B Pope, D Korbie, M Trau, S Wong, T Mikeska, X Zhang, M Pitman, A Dobrovic. 
+
+Australian Bioinformatics Conference (ABiC), Melbourne, Australia, 2014. Poster.
+
+****
+
+## Introducing RedDog, a mapping-based genome comparison pipeline for bacterial high-throughput sequence data.
+
+D Edwards, B Pope, and K Holt. 
+
+Lorne Infection and Immunity Conference, Victoria, Australia, 2014. Poster.
+
+****
+
+## Hi-Plex: a flexible, streamlined and cost-effective approach to targeted massively parallel sequencing.
+
+T Nguyen-Dumont, B Pope, F Hammet, M Mahmoodi, H Tsimiklis, M Southey, D Park.
+
+American Society of Human Genetics (ASHG) annual meeting, San Diego, CA, USA 2014. Poster.
+
+****
+
+## Hi-Plex: a flexible streamlined and cost-effective approach to targeted massively parallel sequencing.
+
+T Nguyen-Dumont, B Pope, F Hammet, M Mahmoodi, H Tsimiklis, M Southey.
+
+10th Australasian Mutation Detection meeting, Whitsundays, QLD, Australia, 2014. Poster.
+
+****
+
+## ALLOCATE: sorting ovarian cancer patients into treatment arms based on molecular and genetic make up of their tumours. 
+
+O Kondrashova, S Lunke, L Melishkin, C Scott, B Tran, D Bowtell, O McNally, M Wakefield, C Sloggett, B Pope, C Anderson, G Taylor, P Waring. 
+
+Lorne Cancer Conference, Victoria, Australia, 2014.
 
 ****
 
@@ -163,6 +278,46 @@ In this talk I explain how I picked up this hobby, and where it might be going. 
 
 ****
 
+## Rubra - flexible distributed pipelines. 
+
+C Sloggett, M Wakefield, G Philip, B Pope. 
+
+Bioinformatics Open Source Conference (BOSC), Berlin, Germany, 2013. Poster.
+
+****
+
+## Automating Pipelines for Variant Detection. 
+
+C Sloggett, G Philip, B Pope. 
+
+Lorne Genome Conference, Victoria, Australia, 2013. Poster.
+
+****
+
+## Hi-Plex: a PCR-based approach for simple, rapid and cost-effective massively parallel sequencing library building.
+
+T Nguyen-Dumont, B Pope, F Hammet, M Southey, D Park.
+
+Familial Aspects of Cancer, Kingscliff, NSW, Australia, 2013. Poster.
+
+****
+
+## FAVR (Filtering and Annotation of Variants that are Rare): methods to facilitate the analysis of new germline genetics variants from SOLiD and Illumina datasets. 
+
+T Nguyen-Dumont, B Pope, F Odefrey, R Bell, S Tavtigian, A Lonie, M Southey, D Park.
+
+European Society of Human Genetics annual meeting, Paris, France, 2013. Poster.
+
+****
+
+## A single-tube high-plex PCR approach for targeted massively parallel sequencing applied to FFPE-tumour derived material. 
+
+T Nguyen-Dumont, B Pope, F Hammet, M Southey, D Park. 
+
+American Society of Human Genetics (ASHG) annual meeting, Boston, MA, USA, 2013. Poster.
+
+****
+
 ## Functional Graphics in Python
 
 An advanced lecture in COMP10001 Foundations of Computing at The University of Melbourne, 2013.
@@ -172,6 +327,38 @@ An advanced lecture in COMP10001 Foundations of Computing at The University of M
 #### Abstract
 
 The conventional way to represent computer graphics is with a two-dimensional array of pixels. In these slides we illustrate an alternative approach using functions from continuous coordinates to pixel values. Apart from being a neat idea, this representation provides great expressiveness for image transformations, and allows us to do impressive things with only a small amount of code. In these slides we use Python, but the same idea can be applied in any language with higher-order functions. 
+
+****
+
+## FAVR (Filtering and Annotation of Variants that are rare): methods to facilitate the analysis of rare germline genetic variants from SOLiD and Illumina datasets. 
+
+T Nguyen-Dumont, B Pope, F Odefrey, A Lonie, M Southey, D Park. 
+
+Familial Aspects of Cancer, Kingscliff, NSW, Australia, 2012. Poster.
+
+****
+
+## Early insights from whole-exome analysis of early-onset, multiple-case breast cancer pedigrees. 
+
+T Nguyen-Dumont, D Park, F Odefrey, F Hammet, Z Teo, BCFR, BRCAX Consortium, D Goldgar D, S Tavtigian S, B Pope, A Lonie, M Southey. 
+
+Combined American Society of Human Genetics, International Congress of Human Genetics meetings, Montreal, Canada, 2011. Poster.
+
+****
+
+## Identification of new breast cancer predisposition genes via whole-exome sequencing. 
+
+M Southey, D Park D, F Lesueur, F Odefrey, T Nguyen-Dumont, F Hammet, D Neuhausen, L Baglietto, A Lonie, B Pope, O Sinilnikova, H Tsimiklis, MCCS, BCFR, kConFab, G Giles, J Hopper, S Tavtigian, D Goldgar. 
+
+Familial Aspects of Cancer, Kingscliff, NSW, Australia, 2011. Poster.
+
+****
+
+## Precision Medicine: Dawn of Supercomputing in omics Research.
+
+M Reumann, K Holt, M Inouye, T Stinear, B Goudey, G Abraham, Q Wang, F Shi, A Kowalczyk, A Pearce, A Isaac, B Pope, H Butzkueven, J Wagner, S Moore, M Downton, P Church, S Turner, J Field, M Southey, D Bowtell, D Schmidt, E Makalic, J Zobel, J Hopper, S Petrovski, T O’Brien. 
+
+5th eResearch Australasia Conference (eResearch), Melbourne, Australia, 2011.
 
 ****
 
@@ -326,3 +513,21 @@ The Melbourne Functional Programming Union, Friday 3 October 2008.
 #### Abstract
 
 Continuations are a method of reifying the evaluation context of a term within some computation. Intuitively, the continuation describes what may become of the value of the term in the overall computation. In this sense, a continuation provides a concrete representation of program control, and allows it to be manipulated. This "purely functional" account of program control has many useful results, such as: the extension of denotational semantics from the lambda calculus to (constructs from) conventional imperative languages, such as jumps; techniques for compiling high-level languages to machine code; and first class control operators, such as exception handlers. In recent times, more refined versions of continuations have emerged, such as the delimited continuations (or subcontinuations), which reify only a part of the evaluation context of a term. This talk covers: the continuation passing style (CPS); the history of continuations; some interesting applications of continuations; the use of continuations in the "direct style" of programming via primitives such as call/cc of Scheme; and connections to logic.
+
+****
+
+## Reification in Haskell
+
+B Pope and L Naish. 
+
+Implementation of Functional Languages (IFL), 13th International Workshop, Stockholm, Sweden, 2001 (oral presentation). 
+
+****
+
+## Specialisation of Higher-Order Functions for Debugging. 
+
+B Pope and L Naish. 
+
+Workshop on Functional and Logic Programming, Kiel, Germany, 2001 (oral presentation).
+
+****
