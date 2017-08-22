@@ -289,6 +289,20 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 <div id="supervision">
 # Student Supervision
 
+### PhD students 
+
+* David Edwards, 2017- (co-supervised with Kat Holt).
+* Medha Suman, 2016- (supervising committee with Melissa Southey, Ingrid Winship, Roger Milne, Eric Joo, Tu Nguyen-Dumont, Sheree Bowen).
+
+### Masters of Bioinformatics
+
+* David Edwards, 2012, 2013 (co-supervised with Kat Holt).
+* Jia An Yu, 2017 (co-supervised with Paul James and Lavinia Gordon).
+
+### Honours
+
+* Thomas Green, 2017 (co-supervised with Daniel Park).
+
 ### VLSCI interns
 
 * Sori Kang, 2012-2013.
@@ -296,15 +310,13 @@ trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr H
 * Luke Shillabeer, 2013-2014.
 * Luke Zappia, 2014-2015. 
 * Edmund Lau, 2016.
+* James Chan, 2016-2017.
+* Jamin Wu, 2017.
 
 ### UROP students
 
 * Roger Li, 2014.
 * Edmund Lau, 2015.
-
-### Masters of Bioinformatics
-
-* With Kat Holt I co-supervised David Edwards, 2012, 2013.
 
 </div>
 

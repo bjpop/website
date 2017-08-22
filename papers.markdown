@@ -3,6 +3,18 @@ title: Papers
 papers: True
 ---
 
+### A novel Drosophila injury model reveals severed axons are cleared through a Draper/MMP-1 signaling cascade 
+
+Authors: Maria D Purice, Arpita Ray, Eva Jolanda Münzel, Bernard J Pope, Daniel J Park, Sean D Speese, Mary A Logan 
+
+Journal: [eLIFE, 2017](https://elifesciences.org/articles/23611)
+
+#### Abstract 
+
+Neural injury triggers swift responses from glia, including glial migration and phagocytic clearance of damaged neurons. The transcriptional programs governing these complex innate glial immune responses are still unclear. Here, we describe a novel injury assay in adult Drosophila that elicits widespread glial responses in the ventral nerve cord (VNC). We profiled injury-induced changes in VNC gene expression by RNA sequencing (RNA-seq) and found that responsive genes fall into diverse signaling classes. One factor, matrix metalloproteinase-1 (MMP-1), is induced in Drosophila ensheathing glia responding to severed axons. Interestingly, glial induction of MMP-1 requires the highly conserved engulfment receptor Draper, as well as AP-1 and STAT92E. In MMP-1 depleted flies, glia do not properly infiltrate neuropil regions after axotomy and, as a consequence, fail to clear degenerating axonal debris. This work identifies Draper-dependent activation of MMP-1 as a novel cascade required for proper glial clearance of severed axons.
+
+****
+
 ### Somatic mutations of the coding microsatellites within the beta-2-microglobulin gene in mismatch repair-deficient colorectal cancers and adenomas  
 
 Authors: Mark Clendenning, Alvin Huang, Harindra Jayasekara, Marie Lorans, Susan Preston, Neil O’Callaghan, Bernard J. Pope, Finlay A. Macrae, Ingrid M. Winship, Roger L. Milne, Graham G. Giles, Dallas R. English, John L. Hopper, Aung K. Win, Mark A. Jenkins, Melissa C. Southey, Christophe Rosty, Daniel D. Buchanan  
