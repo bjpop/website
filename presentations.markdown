@@ -3,11 +3,56 @@ title: Presentations and Posters
 presentations: True
 ---
 
+## Colorectal cancer susceptibility genes: findings from whole exome, genome and targeted sequencing of multiple-case families 
+
+Bernard Pope, Khalid Mahmood, Mark Clendenning, Christophe Rosty, Marie Lorans, Harindra Jayasekara, Neil O’Callaghan, Susan Preston, Daniel J. Park, Fleur Hammet, Tu Nguyen-Dumont, Ashton Connor, Steven Gallinger, David Duggan, Graham Casey, Stephen N. Thibodeau, John L. Hopper, Melissa C. Southey, Aung K. Win, Finlay A. Macrae, Ingrid M. Winship, Mark A. Jenkins, Bernard Pope, Daniel D. Buchanan for the Australasian Colorectal Cancer Family Registry.
+
+Familial Aspects of Cancer Research Practice, Kingscliff, Australia, 2017.
+
+[Slides](/docs/FAC_2017.pdf)
+
+#### Abstract
+
+Only a small proportion of the heritable risk for colorectal cancer (CRC) can be attributed to mutations within known CRC-associated genes, suggesting that additional CRC-predisposition genes are yet to be discovered. The aim of this study is to develop a mutational landscape of CRC predisposition from a family based cohort using a mixture of whole genome, exome and targeted sequencing. 200 CRC-affected individuals were selected for whole genome and exome sequencing from 100 Australasian Colorectal Cancer Family Registry (ACCFR) families (criteria: Familial Colorectal Cancer Type X (FCCTX), multiple-case families not meeting clinical criteria or had Oligopolyposis). Another set of 830 early-onset CRC cases from ACCFR were screened using multiplexed PCR-based target-enrichment (Hi-Plex).
+
+Software pipelines were developed to identify variants from all sequencing platforms (available from https://github.com/khalidm). Variant calls were filtered on quality metrics such as depth of coverage and genotype qualities. Individual variants were prioritized as being likely pathogenic based on the criteria: (1) rare variants (ExAC MAF < 0.05%), (2) variants annotated as being protein truncating (stop gained, frameshifts and splice sites), (3) non-synonymous mutations with predicted impact on protein function derived from CADD score > 20 or REVEL score > 0.5. Gene level prioritization was performed by comparing frequencies of likely pathogenic variants observed in cases compared to the general population described in ExAC.  
+
+Sequencing analysis has identified 3 likely pathogenic FAN1 variants in 4 multi-case CRC families. The variant (FAN1:p.Arg952*) was found in 4 individuals from a family (3 CRC and 1 bone marrow cancer case). We have identified additional likely pathogenic variants in NTHL1, POLE and POLD1 genes using the WGS/WES and Hi-Plex data from these cohorts. We will also present novel likely pathogenic variants and genes as well as a complete landscape of likely pathogenic variants and genes across the cohorts. These data suggests that WES/WGS and targeted sequencing together are important tools for studying the underlying genetic causes for CRC-predisposition.
+
+
+****
+
+## The Genetics of Colonic Polyposis Study: identifying the genetic basis of unexplained colonic polyposis
+
+Sharelle Joseland, Mark Clendenning, Bernard J. Pope, Khalid Mahmood, Julie Arnold, Sonja Woodall, Marie Lorans, Neil O’Callaghan, Susan Preston, Chloe Wheatland, Kevin Sweet, Kara Semotiuk, Melissa C. Southey, Aung Ko Win, Mark A. Jenkins, Christophe Rosty, Finlay A. Macrae, Ingrid M. Winship, Susan Parry, Daniel D. Buchanan and FCCs
+
+Familial Aspects of Cancer Research Practice, Kingscliff, Australia, 2017. Poster.
+
+****
+
+## Hi-Plex Origin for the high-throughput screening of disease genes
+
+Thomas Green, Fleur Hammet, Khalid Mahmood, Tu Nguyen-Dumont, Melissa Southey, Bernard Pope and Daniel Park
+
+Familial Aspects of Cancer Research Practice, Kingscliff, Australia, 2017. Poster.
+
+****
+
 ## Characterisation of Mismatch Repair variants submitted to the International Mismatch Repair Consortium (IMRC)
 
 Jeanette Reece, Daniel Buchanan, John-Paul Plazzer, Khalid Mahmood, Bernard Pope, Mark Clendenning, Grant Lee, Aung Win, Allyson Templeton, Robert Haile, Gabriela Moslein, Finlay Macrae, Mark Jenkins
 
 The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), 7th Biennial Meeting, Florence, Italy, 2017. Poster. 
+
+****
+
+## A registry of Australian Genomics bioinformatics pipelines incorporating a structured representation and interactive visualisation
+
+Mailie Gall, Bernard Pope, John Pearson and Natalie Thorne
+
+Australian Genomics National Conference, Brisbane, Australia, 2017.
+
+[Poster](/docs/AGHA_2017_poster.pptx)
 
 ****
 

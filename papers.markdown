@@ -3,6 +3,21 @@ title: Papers
 papers: True
 ---
 
+### Best practice data life cycle approaches for the life sciences 
+
+Authors: Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, Andrew Pask, Bernard Pope, Ute Roessner, Keith Russell, Torsten Seemann, Andrew Treloar, Sonika Tyagi, Jeffrey H. Christiansen, Saravanan Dayalan, Simon Gladman, Sandra B. Hangartner, Helen L. Hayden, William W.H. Ho, Gabriel Keeble-Gagnère, Pasi K. Korhonen, Peter Neish, Priscilla R. Prestes, Mark F. Richardson, Nathan S. Watson-Haigh, Kelly L. Wyres, Neil D. Young, Maria Victoria Schneider
+
+Journal: [F1000 Research, 2017](https://f1000research.com/articles/6-1618/v1)
+
+#### Abstract 
+
+Throughout history, the life sciences have been revolutionised by technological advances; in our era this is manifested by advances in instrumentation for data generation, and consequently researchers now routinely handle large amounts of heterogeneous data in digital formats. The simultaneous transitions towards biology as a data science and towards a ‘life cycle’ view of research data pose new challenges. Researchers face a bewildering landscape of data management requirements, recommendations and regulations, without necessarily being able to access data management training or possessing a clear understanding of practical approaches that can assist in data management in their particular research domain.
+
+Here we provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis. We discuss the different stages of the data life cycle and provide practical suggestions for useful tools and resources to improve data management practices.
+
+
+****
+
 ### A novel Drosophila injury model reveals severed axons are cleared through a Draper/MMP-1 signaling cascade 
 
 Authors: Maria D Purice, Arpita Ray, Eva Jolanda Münzel, Bernard J Pope, Daniel J Park, Sean D Speese, Mary A Logan 
