@@ -9,7 +9,7 @@ Bernard Pope, Khalid Mahmood, Mark Clendenning, Christophe Rosty, Marie Lorans, 
 
 Familial Aspects of Cancer Research Practice, Kingscliff, Australia, 2017.
 
-[Slides](/docs/FAC_2017.pdf)
+[Slides](/docs/FAC_2017.pptx)
 
 #### Abstract
 
