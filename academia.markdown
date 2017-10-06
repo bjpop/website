@@ -6,6 +6,7 @@ academia: True
 <div class="menu-center">
 <div class="pure-menu pure-menu-open pure-menu-horizontal">
 <ul>
+<li><a href="#fellowship">Fellowship</a></li>
 <li><a href="#grants">Grants</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#awards">Awards</a></li>
@@ -20,8 +21,17 @@ academia: True
 
 My Orcid is [0000-0002-4840-1095](http://orcid.org/0000-0002-4840-1095).
 
+<div id="fellowship">
+# Fellowship
+
+I am funded by a [Victorian Health and Medical Research Fellowship](http://www.premier.vic.gov.au/new-fellowships-to-boost-health-and-medical-research/), an initiative of the Victorian Government’s [Healthier Lives, Stronger Economy: Victoria’s Health and Medical Research Strategy 2016-2020](https://www2.health.vic.gov.au/about/health-strategies/health-and-medical-research-strategy).
+
+* Period: 2017 - 2020 (4 years)
+* Value: $800,000 AUD
+* Project: Translating genomics-driven bioinformatics into improved prevention and treatment of colorectal cancer 
+
 <div id="grants">
-# Grants
+# Grants 
 
 ### Expanding diagnostic approaches for Lynch syndrome  
 
