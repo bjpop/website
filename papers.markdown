@@ -3,6 +3,19 @@ title: Papers
 papers: True
 ---
 
+### Targeted massively parallel sequencing characterises the mutation spectrum of PALB2 in breast and ovarian cancer cases from Poland and Ukraine  
+
+Authors: Aleksander Myszka, Tu Nguyen-Dumont, Pawel Karpinski, Maria M. Sasiadek, Hayane Akopyan, Fleur Hammet, Helen Tsimiklis, Daniel J. Park, Bernard J. Pope, Ryszard Slezak, Nataliya Kitsera, Aleksandra Siekierzynska, Melissa C. Southey  
+
+Journal: [Familial Cancer, 2017](https://link.springer.com/article/10.1007/s10689-017-0050-6)
+
+#### Abstract 
+
+Loss-of-function germline mutations in the PALB2 gene are associated with an increase of breast cancer risk. The purpose of this study was to characterise the spectrum of PALB2 mutations in women affected with breast or ovarian cancer from South-West Poland and West Ukraine. We applied Hi-Plex, an amplicon-based enrichment method for targeted massively parallel sequencing, to screen the coding exons and proximal intron–exon junctions of PALB2 in germline DNA from unrelated women affected with breast cancer (n = 338) and ovarian cancer (n = 89) from Poland (n = 304) and Ukraine (n = 123). These women were at high-risk of carrying a genetic predisposition to breast and/or ovarian cancer due to a family history and/or early-onset disease. Targeted-sequencing identified two frameshift deletions: PALB2:c.509_510del; p.R170Ifs in three women affected with breast cancer and PALB2:c.172_175del;p.Q60Rfs in one woman affected with ovarian cancer. A number of other previously described missense (some predicted to be damaging by PolyPhen-2 and CADD) and synonymous mutations were also identified in this population. This study is consistent with previous reports that PALB2:c.509_510del and PALB2:c.172_175del are recurrent mutations associated with breast cancer predisposition in Polish women with a family history of the disease. Our study contributes to the accumulating evidence indicating that PALB2 should be included in genetic testing for breast cancer susceptibility in these populations to enhance risk assessment and management of women at high-risk of developing breast cancer. This data could also contribute to ongoing work that is assessing the possible association between ovarian cancer risk and PALB2 mutations for which there is currently no evidence.
+
+
+****
+
 ### Best practice data life cycle approaches for the life sciences 
 
 Authors: Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, Andrew Pask, Bernard Pope, Ute Roessner, Keith Russell, Torsten Seemann, Andrew Treloar, Sonika Tyagi, Jeffrey H. Christiansen, Saravanan Dayalan, Simon Gladman, Sandra B. Hangartner, Helen L. Hayden, William W.H. Ho, Gabriel Keeble-Gagnère, Pasi K. Korhonen, Peter Neish, Priscilla R. Prestes, Mark F. Richardson, Nathan S. Watson-Haigh, Kelly L. Wyres, Neil D. Young, Maria Victoria Schneider
