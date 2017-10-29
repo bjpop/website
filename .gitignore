@@ -1,9 +1,1 @@
-_cache
-_site
-*~
-*.hi
-*.o
-Website
-.DS_Store
-.cabal-sandbox/
-cabal.sandbox.config
+*.pyc
