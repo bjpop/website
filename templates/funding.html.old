@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}Funding{% endblock %}
+{% set active_page = "funding" %}
+{% block content %}
+{{ super () }}
+
+<h1 class="display-4 my-5">Research Funding</h1>
+
+{% for funding in contents %}
+
+  <div class="card my-5">
+    <h4 class="card-header">{{ funding.title }}</h4>
+    <div class="card-body">
+      <div class="row">
+	<div class="col-2"><b>Source</b></div>
+	<div class="col-10">{{ funding.source }}</div>
+      </div>
+      <div class="row">
+        <div class="col-2"><b>Type</b></div>
+	<div class="col-10">{{ funding.type }}</div>
+      </div>
+      <div class="row">
+        <div class="col-2"><b>Investigators</b></div>
+	<div class="col-10">{{ funding.investigators}}</div>
+      </div>
+      <div class="row">
+        <div class="col-2"><b>Start year</b></div>
+	<div class="col-10">{{ funding.start_year }}</div>
+      </div>
+      <div class="row">
+        <div class="col-2"><b>Duration</b></div>
+	<div class="col-10">{{ funding.duration}}</div>
+      </div>
+      <div class="row">
+        <div class="col-2"><b>Amount</b></div>
+	<div class="col-10">{{ funding.amount}}</div>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+
+{% endblock %}

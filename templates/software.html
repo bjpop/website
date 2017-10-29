@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Software{% endblock %}
+{% set active_page = "software" %}
+{% block content %}
+{{ super () }}
+
+<h1 class="display-4 my-5">Software</h1>
+
+<p>GitHub: <a href="https://github.com/bjpop">github.com/bjpop</a></p>
+
+{% for project in contents %}
+
+  <div class="card my-5">
+    <h4 class="card-header">{{ project.name }}</h4>
+      <div class="card-body">
+         <table class="table">
+           <tbody>
+             <tr>
+               <th scope="row">Summary</th>
+               <td>{{ project.summary}}</td>
+             </tr>
+             <tr>
+               <th scope="row">Repository</th>
+               <td><a href="{{ project.repository }}">{{ project.repository }}</a></td>
+             </tr>
+             <tr>
+               <th scope="row">Description</th>
+               <td>{{ project.description }}</td>
+             </tr>
+	     {% if project.publication %}
+             <tr>
+               <th scope="row">Publication</th>
+               <td>{{ project.publication }}</td>
+             </tr>
+	     {% endif %}
+           </tbody>
+         </table>
+      </div>
+  </div>
+{% endfor %}
+
+{% endblock %}

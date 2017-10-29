@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Contact{% endblock %}
+{% set active_page = "contact" %}
+{% block content %}
+{{ super () }}
+
+<div class="card my-5">
+  <h4 class="card-header">Contact</h4>
+  <div class="card-body">
+    <p class="card-text">
+          <address>
+          Ph: +61 3 8344 0434<br>
+          Email: <a href="mailto:bjpope@unimelb.edu.au">Dr Bernard Pope</a><br>
+          <a href="https://www.melbournebioinformatics.org.au/">Melbourne Bioinformatics</a><br>
+          187 Grattan Street<br>
+          Carlton, VIC 3000
+          Australia
+          </address>
+    </p>
+  </div>
+</div>
+
+{% endblock %}
