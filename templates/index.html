@@ -4,81 +4,88 @@
 {% block content %}
 {{ super () }}
 
-          <div class="jumbotron jumbotron-fluid">
-            <div class="container">
-              <h1 class="display-3">Bernie Pope</h1>
-              <p class="lead">Computer scientist and bioinformatician</p>
-            </div>
-          </div>
-
 <div class="media">
-  <img class="align-self-start mr-3 rounded img-thumbnail"" src="assets/img/bernie_pope_bw.jpg" alt="Photo of Bernie">
+  <img class="align-self-start" src="{{ contents.photo }}" alt="photo" style="height:268px">
   <div class="media-body">
-    <h5 class="mt-0">Overview</h5>
-      <p>I am a <a href="http://www.biomedvic.org.au/fellowships/">Victorian Health and Medical Research Fellow</a> and Human Genomics Lead at <a href="https://www.melbournebioinformatics.org.au/">Melbourne Bioinformatics</a>, a high-performance computing center for life sciences at <a href="http://www.unimelb.edu.au/">The University of Melbourne</a>, Australia. My research focuses on applying computational techniques to biological questions, especially related to <a href="https://www.melbournebioinformatics.org.au/project/human-genomics/">Human Genomics and Cancer</a>. In addition to research, I am enthusiastic about education and have extensive experience teaching at the university level.</p>
-              <h5>Key research areas</h5>
-              <ul>
-                <li>Identifying novel genetic risk factors for CRC.</li>
-		<li>Improving our understanding of major CRC-related diseases, such as 
-		<span data-toggle="popover" title="Lynch Syndrome" data-content="Individuals who carry a high-risk mutation in one of the DNA mismatch repair genes, increasing their risk of developing certain cancers, including CRC."><mark>Lynch Syndrome</mark></span>
-		and
-		<span data-toggle="popover" title="Serrated Polyposis Syndrome" data-content="Individuals who have multiple serrated polyps in their colon, which increases their risk of developing CRC."><mark>Serrated Polyposis Syndrome</mark></span></li>
-                <li>Identifying biomarkers of risk and poor prognosis in CRC.</li>
-              </ul>
+     <div class="jumbotron" style="border-radius:0px">
+        <h1 class="display-3">{{ contents.name }}</h1>
+        <p class="lead">{{ contents.position }}</p>
+    </div>
   </div>
 </div>
 
+<div class="row">
 
-	  <h3 class="my-3"><span class="badge badge-secondary">News</span></h3>
+  <div class="col-8">
+    <h3 class="my-3">Overview</h5>
+    {{ contents.overview }} 
+  </div>
 
-          <div class="card-deck my-5">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Conference presentations</h4>
-                  <p class="card-text">
-                  We have recently presented our work at:
-                  <ul>
-                      <li>The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), biennial meeting in Florence, Italy. July, 2017.</li>
-                      <li>Familial Aspects of Cancer 2017, Kingscliff, Australia. August, 2017</li>
-                      <li>The Colon CFR meeting, Hawaii, USA. September, 2017.</li>
-                  </ul>
-                  </p>
-                </div>
-		<div class="card-footer">
-			<small class="text-muted"><a href="publications.html#presentations">View all presentations</a></small>
-		</div>
-              </div>
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Recent publications</h4>
-                  <p class="card-text">
-                  Our latest publications: 
-                  <ul>
-                      <li><em>Somatic mutations of the coding microsatellites within the beta-2-microglobulin gene in mismatch repair-deficient colorectal cancers and adenomas. </em><a href="https://link.springer.com/article/10.1007/s10689-017-0013-y">Familial Cancer, 2017</a></li>
-                      <li><em>Risk of colorectal cancer for carriers of a germline mutation in POLE or POLD1. </em>Genetics in Medicine, 2017</li>
-                      <li><em>Tumor testing to identify lynch syndrome in two Australian colorectal cancer cohorts </em>Journal of Gastroenterology and Hepatology, 2017</li>
-                  </ul>
-                  </p>
-                </div>
-		<div class="card-footer">
-			<small class="text-muted"><a href="publications.html">View all publications</a></small>
-		</div>
-              </div>
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Activities</h4>
-                  <p class="card-text">
-                  Our latest activities: 
-                  <ul>
-                      <li>Key activity 1, January 2017.</li>
-                      <li>Something else happened. March, 2017.</li>
-                      <li>We did some more stuff. October, 2017.</li>
-                  </ul>
-                  </p>
-                </div>
-		<div class="card-footer">
-			<small class="text-muted"><a href="projects.html">View all projects</a></small>
-		</div>
-              </div>
-          </div>
+  <div class="col-4">
+    <h3 class="my-3">Key research areas</h3>
+      <ul>
+        {% for item in contents.research %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+  </div>
+</div>
+
+<h3 class="my-3">News</span></h3>
+
+<div class="card-deck my-3">
+
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">Conference presentations</h4>
+      <p class="card-text">
+        We have recently presented our work at:
+        <ul>
+          <li>The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), biennial meeting in Florence, Italy. July, 2017.</li>
+          <li>Familial Aspects of Cancer 2017, Kingscliff, Australia. August, 2017</li>
+          <li>The Colon CFR meeting, Hawaii, USA. September, 2017.</li>
+        </ul>
+      </p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted"><a href="publications.html#presentations">View all presentations</a></small>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">Recent publications</h4>
+      <p class="card-text">
+        Our latest publications: 
+        <ul>
+          <li><em>Somatic mutations of the coding microsatellites within the beta-2-microglobulin gene in mismatch repair-deficient colorectal cancers and adenomas. </em><a href="https://link.springer.com/article/10.1007/s10689-017-0013-y">Familial Cancer, 2017</a></li>
+          <li><em>Risk of colorectal cancer for carriers of a germline mutation in POLE or POLD1. </em>Genetics in Medicine, 2017</li>
+          <li><em>Tumor testing to identify lynch syndrome in two Australian colorectal cancer cohorts </em>Journal of Gastroenterology and Hepatology, 2017</li>
+        </ul>
+      </p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted"><a href="publications.html">View all publications</a></small>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">Activities</h4>
+        <p class="card-text">
+        Our latest activities: 
+        <ul>
+          <li>Key activity 1, January 2017.</li>
+          <li>Something else happened. March, 2017.</li>
+          <li>We did some more stuff. October, 2017.</li>
+        </ul>
+        </p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted"><a href="projects.html">View all projects</a></small>
+    </div>
+  </div>
+
+</div>
+
 {% endblock %}

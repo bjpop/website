@@ -1,0 +1,9 @@
+name: Bernie Pope
+position: Computer scientist and bioinformatician
+photo: assets/img/bernie_pope_bw.jpg
+overview: |
+    <p>I am a <a href="http://www.biomedvic.org.au/fellowships/">Victorian Health and Medical Research Fellow</a> and Human Genomics Lead at <a href="https://www.melbournebioinformatics.org.au/">Melbourne Bioinformatics</a>, a high-performance computing center for life sciences at <a href="http://www.unimelb.edu.au/">The University of Melbourne</a>, Australia. My research focuses on applying computational techniques to biological questions, especially related to <a href="https://www.melbournebioinformatics.org.au/project/human-genomics/">Human Genomics and Cancer</a>. In addition to research, I am enthusiastic about education and have extensive experience teaching at the university level.</p>
+research:
+  - Bioinformatics
+  - Genomics
+  - Cancer
