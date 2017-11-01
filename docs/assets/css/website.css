@@ -1,6 +1,11 @@
 .jumbotron {
     background: #d4e1f7;
 }
+
+.card-header {
+    background-color: #d4e1f7;
+}
+
 /*
 .jumbotron {
     background: #a6badb;
