@@ -24,6 +24,8 @@ DEFAULT_VERBOSE = False
 DEFAULT_TEMPLATES_DIR = 'templates' 
 DEFAULT_OUTPUT_DIR = 'docs' 
 PROGRAM_NAME = "website"
+# Number of latest publications to show on index.html
+MAX_LATEST_PUBLICATIONS = 3
 
 
 try:
@@ -99,31 +101,61 @@ def init_jinja(options):
         autoescape=False,
         loader=FileSystemLoader(options.templates),
         trim_blocks=True)
+
  
-def render_page(options, jinja_env, template, contents_filename=None):
-    if contents_filename is not None:
-        contents_path = os.path.join(options.templates, contents_filename)
-        with open(contents_path) as contents_file:
-            contents = yaml.load(contents_file)
-    else:
-        contents = {}
-    html = jinja_env.get_template(template).render(contents=contents)
-    output_filename = os.path.join(options.outdir, template)
-    with open(output_filename, 'w') as output_file:
-        output_file.write(html)
+def latest_publications(publication_list):
+    # we assume the publication list is kept in date sorted order in the YAML file
+    # so we don't need to sort it here
+    return publication_list[:MAX_LATEST_PUBLICATIONS]
 
 
 def render_pages(options, jinja_env):
-    templates = [
-            ("index.html", "index.yaml"),
-            ("funding.html", "funding.yaml"),
-            ("contact.html", "contact.yaml"),
-            ("publications.html", "publications.yaml"),
-            ("software.html", "software.yaml"),
-            ]
-    for template, contents in templates:
-        render_page(options, jinja_env, template, contents)
+    index_template = Template("index.html")
+    index_template.add_content("contents", options.templates, "index.yaml")
+    index_template.add_content("publications", options.templates, "publications.yaml", latest_publications)
+    index_template.render_page(jinja_env, options.outdir)
 
+    funding_template = Template("funding.html")
+    funding_template.add_content("contents", options.templates, "funding.yaml")
+    funding_template.render_page(jinja_env, options.outdir)
+
+    contact_template = Template("contact.html")
+    contact_template.add_content("contents", options.templates, "contact.yaml")
+    contact_template.render_page(jinja_env, options.outdir)
+
+    publications_template = Template("publications.html")
+    publications_template.add_content("contents", options.templates, "publications.yaml")
+    publications_template.render_page(jinja_env, options.outdir)
+
+    software_template = Template("software.html")
+    software_template.add_content("contents", options.templates, "software.yaml")
+    software_template.render_page(jinja_env, options.outdir)
+
+
+def identity(x):
+    return x
+
+class Template(object):
+
+    def __init__(self, html_filename):
+        self.html_filename = html_filename
+        self.contents = {}
+
+    # transform is a function applied to the YAML contents after it has
+    # been read from file. It allows you to do some post processing of
+    # the yaml contents before using it as an input to jinja
+    def add_content(self, name, template_dir, yaml_filename, transform=identity):
+        contents_path = os.path.join(template_dir, yaml_filename)
+        with open(contents_path) as contents_file:
+            yaml_contents = yaml.load(contents_file)
+            self.contents[name] = transform(yaml_contents)
+
+    def render_page(self, jinja_env, outdir):
+        jinja_template = jinja_env.get_template(self.html_filename)
+        rendered_html = jinja_template.render(**self.contents)
+        output_filename = os.path.join(outdir, self.html_filename)
+        with open(output_filename, 'w') as output_file:
+            output_file.write(rendered_html)
 
 def make_output_dir(options):
     if not os.path.exists(options.outdir):

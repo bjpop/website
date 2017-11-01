@@ -1,110 +1,4 @@
 - abstract: |
-    Scientific research relies on computer software, yet software is not always developed following practices that ensure its quality and sustainability. This manuscript does not aim to propose new software development best practices, but rather to provide simple recommendations that encourage the adoption of existing best practices. Software development best practices promote better quality software, and better quality software improves the reproducibility and reusability of research. These recommendations are designed around Open Source values, and provide practical suggestions that contribute to making research software and its source code more discoverable, reusable and transparent. This manuscript is aimed at developers, but also at organisations, projects, journals and funders that can increase the quality and sustainability of research software by encouraging the adoption of these recommendations.
-  authors:
-  - Rafael C. Jiménez
-  - Mateusz Kuzak
-  - Monther Alhamdoosh
-  - Michelle Barker
-  - Bérénice Batut
-  - Mikael Borg
-  - Salvador Capella-Gutierrez
-  - Neil Chue Hong
-  - Martin Cook
-  - Manuel Corpas
-  - Madison Flannery
-  - Leyla Garcia
-  - Josep Ll. Gelpí
-  - Simon Gladman
-  - Carole Goble
-  - Montserrat González Ferreiro
-  - Alejandra Gonzalez-Beltran
-  - Philippa C. Griffin
-  - Björn Grüning
-  - Jonas Hagberg
-  - Petr Holub
-  - Rob Hooft
-  - Jon Ison
-  - Daniel S. Katz
-  - Brane Leskošek
-  - Federico López Gómez
-  - Luis J. Oliveira
-  - David Mellor
-  - Rowland Mosbergen
-  - Nicola Mulder
-  - Yasset Perez-Riverol
-  - Robert Pergl
-  - Horst Pichler
-  - Bernard Pope
-  - Ferran Sanz
-  - Maria V. Schneider
-  - Victoria Stodden
-  - Radosław Suchecki
-  - Radka Svobodová Vařeková
-  - Harry-Anton Talvik
-  - Ilian Todorov
-  - Andrew Treloar
-  - Sonika Tyagi
-  - Maarten van Gompel
-  - Daniel Vaughan
-  - Allegra Via
-  - Xiaochuan Wang
-  - Nathan S. Watson-Haigh
-  - Steve Crouch
-  date: 
-  doi: 10.12688/f1000research.11407.1
-  issue: 6
-  journal: F1000 Research
-  keywords: FAIR; Open Science; Open Source; best practices; code; guidelines; quality; recommendations; software; sustainability 
-  pages: 
-  pmid: 28751965
-  title: Four simple recommendations to encourage best practices in research software
-  type: Journal Article
-  url: 'http://dx.doi.org/10.12688/f1000research.11407.1'
-  volume: 13
-  year: '2017'
-- abstract: |
-      <p>Throughout history, the life sciences have been revolutionised by technological advances; in our era this is manifested by advances in instrumentation for data generation, and consequently researchers now routinely handle large amounts of heterogeneous data in digital formats. The simultaneous transitions towards biology as a data science and towards a ‘life cycle’ view of research data pose new challenges. Researchers face a bewildering landscape of data management requirements, recommendations and regulations, without necessarily being able to access data management training or possessing a clear understanding of practical approaches that can assist in data management in their particular research domain.</p><p>Here we provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis. We discuss the different stages of the data life cycle and provide practical suggestions for useful tools and resources to improve data management practices.</p>
-  authors:
-  - Griffin PC
-  - Khadake J
-  - LeMay KS
-  - Lewis SE
-  - Orchard S
-  - Pask A
-  - Pope B
-  - Roessner U
-  - Russell K
-  - Seemann T
-  - Treloar A
-  - Tyagi S
-  - Christiansen JH
-  - Dayalan S
-  - Gladman S
-  - Hangartner SB
-  - Hayden HL
-  - Ho WWH
-  - Keeble-Gagnère G
-  - Korhonen PK
-  - Neish P
-  - Prestes PR
-  - Richardson MF
-  - Watson-Haigh NS
-  - Wyres KL
-  - Young ND
-  - Schneider MV
-  date: 
-  doi: 10.12688/f1000research.12344.1
-  issue: ''
-  journal: F1000 Research
-  keywords: 
-  pages: 
-  pmid: 
-  title: Best practice data life cycle approaches for the life sciences  
-  type: Journal Article
-  url: 'http://dx.doi.org/10.12688/f1000research.12344.1'
-  volume: 
-  year: '2017'
-- abstract: |
       Loss-of-function germline mutations in the PALB2 gene are associated with an increase of breast cancer risk. The purpose of this study was to characterise the spectrum of PALB2 mutations in women affected with breast or ovarian cancer from South-West Poland and West Ukraine. We applied Hi-Plex, an amplicon-based enrichment method for targeted massively parallel sequencing, to screen the coding exons and proximal intron–exon junctions of PALB2 in germline DNA from unrelated women affected with breast cancer (n = 338) and ovarian cancer (n = 89) from Poland (n = 304) and Ukraine (n = 123). These women were at high-risk of carrying a genetic predisposition to breast and/or ovarian cancer due to a family history and/or early-onset disease. Targeted-sequencing identified two frameshift deletions: PALB2:c.509_510del; p.R170Ifs in three women affected with breast cancer and PALB2:c.172_175del;p.Q60Rfs in one woman affected with ovarian cancer. A number of other previously described missense (some predicted to be damaging by PolyPhen-2 and CADD) and synonymous mutations were also identified in this population. This study is consistent with previous reports that PALB2:c.509_510del and PALB2:c.172_175del are recurrent mutations associated with breast cancer predisposition in Polish women with a family history of the disease. Our study contributes to the accumulating evidence indicating that PALB2 should be included in genetic testing for breast cancer susceptibility in these populations to enhance risk assessment and management of women at high-risk of developing breast cancer. This data could also contribute to ongoing work that is assessing the possible association between ovarian cancer risk and PALB2 mutations for which there is currently no evidence.
   authors:
   - Myszka A
@@ -212,6 +106,112 @@
   type: Journal Article
   url: http://dx.doi.org/10.1007/s10689-017-0013-y
   volume: ''
+  year: '2017'
+- abstract: |
+    Scientific research relies on computer software, yet software is not always developed following practices that ensure its quality and sustainability. This manuscript does not aim to propose new software development best practices, but rather to provide simple recommendations that encourage the adoption of existing best practices. Software development best practices promote better quality software, and better quality software improves the reproducibility and reusability of research. These recommendations are designed around Open Source values, and provide practical suggestions that contribute to making research software and its source code more discoverable, reusable and transparent. This manuscript is aimed at developers, but also at organisations, projects, journals and funders that can increase the quality and sustainability of research software by encouraging the adoption of these recommendations.
+  authors:
+  - Rafael C. Jiménez
+  - Mateusz Kuzak
+  - Monther Alhamdoosh
+  - Michelle Barker
+  - Bérénice Batut
+  - Mikael Borg
+  - Salvador Capella-Gutierrez
+  - Neil Chue Hong
+  - Martin Cook
+  - Manuel Corpas
+  - Madison Flannery
+  - Leyla Garcia
+  - Josep Ll. Gelpí
+  - Simon Gladman
+  - Carole Goble
+  - Montserrat González Ferreiro
+  - Alejandra Gonzalez-Beltran
+  - Philippa C. Griffin
+  - Björn Grüning
+  - Jonas Hagberg
+  - Petr Holub
+  - Rob Hooft
+  - Jon Ison
+  - Daniel S. Katz
+  - Brane Leskošek
+  - Federico López Gómez
+  - Luis J. Oliveira
+  - David Mellor
+  - Rowland Mosbergen
+  - Nicola Mulder
+  - Yasset Perez-Riverol
+  - Robert Pergl
+  - Horst Pichler
+  - Bernard Pope
+  - Ferran Sanz
+  - Maria V. Schneider
+  - Victoria Stodden
+  - Radosław Suchecki
+  - Radka Svobodová Vařeková
+  - Harry-Anton Talvik
+  - Ilian Todorov
+  - Andrew Treloar
+  - Sonika Tyagi
+  - Maarten van Gompel
+  - Daniel Vaughan
+  - Allegra Via
+  - Xiaochuan Wang
+  - Nathan S. Watson-Haigh
+  - Steve Crouch
+  date: 
+  doi: 10.12688/f1000research.11407.1
+  issue: 6
+  journal: F1000 Research
+  keywords: FAIR; Open Science; Open Source; best practices; code; guidelines; quality; recommendations; software; sustainability 
+  pages: 
+  pmid: 28751965
+  title: Four simple recommendations to encourage best practices in research software
+  type: Journal Article
+  url: 'http://dx.doi.org/10.12688/f1000research.11407.1'
+  volume: 13
+  year: '2017'
+- abstract: |
+      <p>Throughout history, the life sciences have been revolutionised by technological advances; in our era this is manifested by advances in instrumentation for data generation, and consequently researchers now routinely handle large amounts of heterogeneous data in digital formats. The simultaneous transitions towards biology as a data science and towards a ‘life cycle’ view of research data pose new challenges. Researchers face a bewildering landscape of data management requirements, recommendations and regulations, without necessarily being able to access data management training or possessing a clear understanding of practical approaches that can assist in data management in their particular research domain.</p><p>Here we provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis. We discuss the different stages of the data life cycle and provide practical suggestions for useful tools and resources to improve data management practices.</p>
+  authors:
+  - Griffin PC
+  - Khadake J
+  - LeMay KS
+  - Lewis SE
+  - Orchard S
+  - Pask A
+  - Pope B
+  - Roessner U
+  - Russell K
+  - Seemann T
+  - Treloar A
+  - Tyagi S
+  - Christiansen JH
+  - Dayalan S
+  - Gladman S
+  - Hangartner SB
+  - Hayden HL
+  - Ho WWH
+  - Keeble-Gagnère G
+  - Korhonen PK
+  - Neish P
+  - Prestes PR
+  - Richardson MF
+  - Watson-Haigh NS
+  - Wyres KL
+  - Young ND
+  - Schneider MV
+  date: 
+  doi: 10.12688/f1000research.12344.1
+  issue: ''
+  journal: F1000 Research
+  keywords: 
+  pages: 
+  pmid: 
+  title: Best practice data life cycle approaches for the life sciences  
+  type: Journal Article
+  url: 'http://dx.doi.org/10.12688/f1000research.12344.1'
+  volume: 
   year: '2017'
 - abstract: 'BACKGROUND: Genetic variant effect prediction algorithms are used extensively
     in clinical genomics and research to determine the likely consequences of amino
