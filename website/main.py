@@ -28,6 +28,8 @@ PROGRAM_NAME = "website"
 MAX_LATEST_PUBLICATIONS = 3
 # Number of latest presentations to show on index.html
 MAX_LATEST_PRESENTATIONS = 3
+# Number of latest activities to show on index.html
+MAX_LATEST_ACTIVITIES = 3
 
 
 try:
@@ -109,24 +111,14 @@ def init_jinja(options):
         trim_blocks=True)
 
  
-def latest_publications(publication_list):
-    # we assume the publication list is kept in date sorted order in the YAML file
-    # so we don't need to sort it here
-    return publication_list[:MAX_LATEST_PUBLICATIONS]
-
-def latest_presentations(presentation_list):
-    # we assume the presentation list is kept in date sorted order in the YAML file
-    # so we don't need to sort it here
-    return presentation_list[:MAX_LATEST_PRESENTATIONS]
-
-
 def render_pages(options, jinja_env):
     logging.debug("rendering pages using templates from %s...", options.templates)
 
     Template("index.html") \
         .add_content("contents", options.templates, "index.yaml") \
-        .add_content("publications", options.templates, "publications.yaml", latest_publications) \
-        .add_content("presentations", options.templates, "presentations.yaml", latest_presentations) \
+        .add_content("publications", options.templates, "publications.yaml", lambda xs: xs[:MAX_LATEST_PUBLICATIONS]) \
+        .add_content("presentations", options.templates, "presentations.yaml", lambda xs: xs[:MAX_LATEST_PRESENTATIONS]) \
+        .add_content("activities", options.templates, "activities.yaml", lambda xs: xs[:MAX_LATEST_ACTIVITIES]) \
         .render_page(jinja_env, options.outdir)
 
     Template("funding.html") \
@@ -151,6 +143,10 @@ def render_pages(options, jinja_env):
 
     Template("teaching.html") \
         .add_content("contents", options.templates, "teaching.yaml") \
+        .render_page(jinja_env, options.outdir)
+
+    Template("activities.html") \
+        .add_content("contents", options.templates, "activities.yaml") \
         .render_page(jinja_env, options.outdir)
 
     logging.debug("rendering pages: done")
