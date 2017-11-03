@@ -8,6 +8,14 @@
     - Semester 1 2016 (30 students)
     - Semester 1 2017 (24 students)
 -
+  name: Introduction to Business Problems 
+  institution: The University of Melbourne 
+  level: Masters (in Business Analytics)
+  role: Invited Lecturer 
+  topics: Introduction to Python programming
+  periods:
+    - Semester 1 2017 (45 students)
+-
   name: Foundations of Computing 
   institution: The University of Melbourne 
   level: First year undergraduate 
@@ -68,3 +76,75 @@
   topics: Introduction to Programming in C, Algorithms, Problem Solving, Introduction to Complexity  
   periods:
     - Semester 2 1999 (20 students)
+-
+  name: Introduction to Programmming 
+  institution: The University of Melbourne 
+  level: First Year Undergraduate  
+  role: Tutor 
+  topics: Introduction to Programming in C, Algorithms, Problem Solving, Introduction to Complexity 
+  periods:
+    - "2000 - 2006" 
+-
+  name:  Algorithmic Problem Solving (Advanced Stream)
+  institution: The University of Melbourne 
+  level: First Year Undergraduate
+  role: Tutor 
+  topics: Introduction to Programming in Haskell, Algorithms, Problem Solving, Introduction to Complexity 
+  periods:
+    - "2000 - 2006" 
+-
+  name: Languages and Machines 
+  institution: The University of Melbourne 
+  level: Second Year Undergraduate
+  role: Senior Tutor
+  topics: Formal Languages, State Machines  
+  periods:
+    - "1996 - 2000" 
+-
+  name: Computing Fundamentals B 
+  institution: The University of Melbourne 
+  level: First Year Undergraduate
+  role: Laboratory Demonstrator, Tutor, Senior Tutor 
+  topics: Introduction to Programming in C, Algorithms, Problem Solving, Introduction to Complexity  
+  periods:
+    - "1996 - 2000" 
+-
+  name: Computing Fundamentals A 
+  institution: The University of Melbourne 
+  level: First Year Undergraduate
+  role: Laboratory Demonstrator, Tutor, Senior Tutor 
+  topics: Introduction to Programming in Miranda/Haskell, Algorithms, Problem Solving, Introduction to Complexity  
+  periods:
+    - "1996 - 2000" 
+-
+  name: Computer Graphics
+  institution: The University of Melbourne 
+  level: Third Year Undergraduate
+  role: Head Tutor, Senior Tutor 
+  topics: Computer Graphics, Image Processing  
+  periods:
+    - "1997 - 2000" 
+-
+  name: Artificial Intelligence 
+  institution: The University of Melbourne 
+  level: Third Year Undergraduate
+  role: Senior Tutor 
+  topics: Artificial Intelligence, Search Algorithms, Logic Programming, Deduction 
+  periods:
+    - "1997 - 2000" 
+-
+  name: Professional Issues in Computing 
+  institution: The University of Melbourne 
+  level: Third Year Undergraduate
+  role: Tutor 
+  topics: Morals, Ethics, Professionalism, Society  
+  periods:
+    - 1998 
+-
+  name: Logic and Computation 
+  institution: The University of Melbourne 
+  level: Second Year Undergraduate
+  role: Head Tutor 
+  topics: Predicate Logic, Propositional Logic, Proof, Logic Programming  
+  periods:
+    - "1998 - 2000"
