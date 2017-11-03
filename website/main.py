@@ -83,20 +83,24 @@ def init_logging(log_filename):
     command line from sys.argv
 
     Arguments:
-        log_filename: either None, if logging is not required, or the
+        log_filename: either None to log to stderr, or the
             string name of the log file to write to
     Result:
         None
     '''
-    if log_filename is not None:
+    if log_filename is None:
+        logging.basicConfig(
+            level=logging.DEBUG,
+            format='%(asctime)s %(levelname)s - %(message)s',
+            datefmt='%m-%d-%Y %H:%M:%S')
+    else:
         logging.basicConfig(filename=log_filename,
             level=logging.DEBUG,
             filemode='w',
             format='%(asctime)s %(levelname)s - %(message)s',
             datefmt='%m-%d-%Y %H:%M:%S')
-        logging.info('program started')
-        logging.info('command line: {0}'.format(' '.join(sys.argv)))
 
+    logging.info('starting: %s', ' '.join(sys.argv))
 
 def init_jinja(options):
     return Environment(
@@ -117,6 +121,8 @@ def latest_presentations(presentation_list):
 
 
 def render_pages(options, jinja_env):
+    logging.debug("rendering pages using templates from %s...", options.templates)
+
     index_template = Template("index.html")
     index_template.add_content("contents", options.templates, "index.yaml")
     index_template.add_content("publications", options.templates, "publications.yaml", latest_publications)
@@ -147,6 +153,7 @@ def render_pages(options, jinja_env):
     teaching_template.add_content("contents", options.templates, "teaching.yaml")
     teaching_template.render_page(jinja_env, options.outdir)
 
+    logging.debug("rendering pages: done")
 
 def identity(x):
     return x
@@ -174,8 +181,12 @@ class Template(object):
             output_file.write(rendered_html)
 
 def make_output_dir(options):
+    logging.debug("creating output dir: %s...", options.outdir)
+
     if not os.path.exists(options.outdir):
         os.makedirs(options.outdir)
+
+    logging.debug("creating output dir: %s: done", options.outdir)
 
 
 def main():
@@ -185,6 +196,8 @@ def main():
     jinja_env = init_jinja(options)
     make_output_dir(options)
     render_pages(options, jinja_env)
+
+    logging.info("done: open %s/index.html to see generated website", options.outdir)
 
 
 # If this script is run from the command line then call the main function.
