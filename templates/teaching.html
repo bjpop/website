@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Teaching{% endblock %}
+{% set active_page = "teaching" %}
+{% block content %}
+{{ super () }}
+
+<h1 class="display-4 my-5">Teaching</h1>
+
+{% for item in contents %}
+
+  <div class="card my-5">
+    <h4 class="card-header">{{ item.name }}</h4>
+    <div class="card-body">
+      <dl class="row">
+	<dt class="col-sm-2">Institution</dt>
+	<dd class="col-sm-10">{{ item.institution }}</dd>
+
+        <dt class="col-sm-2">Level</dt>
+	<dd class="col-sm-10">{{ item.level }}</dd>
+
+        <dt class="col-sm-2">My Role</dt>
+	<dd class="col-sm-10">{{ item.role }}</dd>
+
+        <dt class="col-sm-2">Topics</dt>
+	<dd class="col-sm-10">{{ item.topics }}</dd>
+
+        <dt class="col-sm-2">Periods</dt>
+	<ul>
+	{% for period in item.periods %}
+	    <li>{{ period }}</li>
+	{% endfor %}
+	</ul>
+      </dl>
+    </div>
+  </div>
+
+{% endfor %}
+
+{% endblock %}
