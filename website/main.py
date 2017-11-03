@@ -143,6 +143,10 @@ def render_pages(options, jinja_env):
     software_template.add_content("contents", options.templates, "software.yaml")
     software_template.render_page(jinja_env, options.outdir)
 
+    teaching_template = Template("teaching.html")
+    teaching_template.add_content("contents", options.templates, "teaching.yaml")
+    teaching_template.render_page(jinja_env, options.outdir)
+
 
 def identity(x):
     return x

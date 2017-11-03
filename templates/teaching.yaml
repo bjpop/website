@@ -1,0 +1,70 @@
+-
+  name: Elements of Bioinformatics 
+  institution: The University of Melbourne 
+  level: Masters
+  role: Lecturer and Coordinator
+  topics: Bioinformatics, High-Throughput DNA sequencing, Systems Biology, Pathogenomics, Bioinformatics Databases, RNA Sequencing, Natural Language Processing, Structure Modelling and Visualisation, Protein Prediction, Cancer Genomics, and Clinical Genomics 
+  periods:
+    - Semester 1 2016 (30 students)
+    - Semester 1 2017 (24 students)
+-
+  name: Foundations of Computing 
+  institution: The University of Melbourne 
+  level: First year undergraduate 
+  role: Lecturer and Coordinator
+  topics: Introduction to Programming in Python, Algorithms, Problem Solving, Introduction to Complexity  
+  periods:
+    - Semester 2 2012 (70 students)
+    - Semester 2 2013 (130 students)
+    - Semester 2 2014 (230 students)
+-
+  name: People, Data, and the Web 
+  institution: The University of Melbourne 
+  level: First year undergraduate 
+  role: Lecturer
+  topics: Python Programming, Data Manipulation, Web Programming 
+  periods:
+    - Semester 1 2008 
+    - Semester 1 2009 
+-
+  name: Functional Programming 
+  institution: The University of Melbourne 
+  level: Honours and Masters 
+  role: Lecturer and Coordinator
+  topics: Functional Programming, Type Systems, Semantics 
+  periods:
+    - Semester 1 2008 (12 students)
+-
+  name: Algorithmic Problem Solving 
+  institution: The University of Melbourne 
+  level: First Year Undergraduate  
+  role: Lecturer and Coordinator
+  topics: Introduction to Programming in C, Algorithms, Problem Solving, Introduction to Complexity 
+  periods:
+    - 2007 (160 students)
+    - 2008 (165 students)
+-
+  name: Software Engineering Principles and Tools 
+  institution: The University of Melbourne 
+  level: Second Year Undergraduate  
+  role: Lecturer and Coordinator
+  topics: Software Development Tools, Revision Control, Shell Scripting  
+  periods:
+    - 2007 (44 students)
+    - 2008 (40 students)
+-
+  name: Melbourne University Program for High Achieving Students (MUPHAS) 
+  institution: The University of Melbourne 
+  level: First Year Undergraduate  
+  role: Lecturer and Coordinator
+  topics: "MUPHAS provided high achieving high school students an opportunity to undertake a first year university subject sequence (Computing Fundamentals A/B). This was the first time the program was run in the department. The class size was fifteen students. For an evaluation of the course see: Anne Venables, A Taste of Computer Science: A University Experience for Gifted Secondary Students, Australasian Journal of Gifted Education, 10(2), 2001."
+  periods:
+    - Semesters 1 and 2 2000 (15 students)
+-
+  name: Computing Fundamentals B Advanced Stream 
+  institution: The University of Melbourne 
+  level: First Year Undergraduate  
+  role: Lecturer and Coordinator
+  topics: Introduction to Programming in C, Algorithms, Problem Solving, Introduction to Complexity  
+  periods:
+    - Semester 2 1999 (20 students)
