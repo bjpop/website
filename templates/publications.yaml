@@ -1,4 +1,31 @@
 - abstract: |
+   Background: Germline mutations in the exonuclease domains of the POLE and POLD1 genes are associated with an as yet unquantified increased risk of colorectal cancer (CRC). Methods: We identified families with POLE or POLD1 variants by searching PubMed for relevant studies prior to October 2016 and by genotyping 669 population-based CRC cases diagnosed <60 years of age from the Australasian Colorectal Cancer Family Registry. We estimated the age-specific cumulative risks (penetrance) using a modified segregation analysis. Results: We observed 67 CRCs (mean age at diagnosis=50.2 (standard deviation [SD]=13.8) years) among 364 first- and second- degree relatives from 41 POLE families and 6 CRCs (mean age at diagnosis=39.7 (SD=6.83) years) among 69 relatives from 9 POLD1 families. We estimated risks of CRC to age 70 years (95% confidence interval [CI]) for males and females, respectively, to be: 40%(26%–57%) and 32%(20%–47%) for POLE mutation carriers; and 63%(15%–99%) and 52%(11%–99%) for POLD1 mutation carriers. Conclusion: CRC risks for POLE mutation carriers are sufficiently high warranting consideration of annual colonoscopy screening and management guidelines comparable to Lynch syndrome. Refinement of estimates of CRC risk for POLD1 carriers is needed, however, clinical management recommendations could follow those suggested for POLE carriers.
+  authors:
+  - Buchanan D
+  - Stewart J
+  - Clendenning M
+  - Rosty C
+  - Mahmood K
+  - Pope B
+  - Jenkins M
+  - Hopper J
+  - Southey M
+  - Macrae F
+  - Winship M
+  - Win A
+  date: Nov 09, 2017
+  doi: 10.1038/gim.2017.185
+  issue: ''
+  journal: Genetics in Medicine 
+  keywords: 
+  pages: 
+  pmid:  
+  title: Risk of colorectal cancer for carriers of a germline mutation in POLE or POLD1
+  type: Journal Article
+  url: http://dx.doi.org/10.1038/gim.2017.185
+  volume: 
+  year: '2017'
+- abstract: |
       Loss-of-function germline mutations in the PALB2 gene are associated with an increase of breast cancer risk. The purpose of this study was to characterise the spectrum of PALB2 mutations in women affected with breast or ovarian cancer from South-West Poland and West Ukraine. We applied Hi-Plex, an amplicon-based enrichment method for targeted massively parallel sequencing, to screen the coding exons and proximal intron–exon junctions of PALB2 in germline DNA from unrelated women affected with breast cancer (n = 338) and ovarian cancer (n = 89) from Poland (n = 304) and Ukraine (n = 123). These women were at high-risk of carrying a genetic predisposition to breast and/or ovarian cancer due to a family history and/or early-onset disease. Targeted-sequencing identified two frameshift deletions: PALB2:c.509_510del; p.R170Ifs in three women affected with breast cancer and PALB2:c.172_175del;p.Q60Rfs in one woman affected with ovarian cancer. A number of other previously described missense (some predicted to be damaging by PolyPhen-2 and CADD) and synonymous mutations were also identified in this population. This study is consistent with previous reports that PALB2:c.509_510del and PALB2:c.172_175del are recurrent mutations associated with breast cancer predisposition in Polish women with a family history of the disease. Our study contributes to the accumulating evidence indicating that PALB2 should be included in genetic testing for breast cancer susceptibility in these populations to enhance risk assessment and management of women at high-risk of developing breast cancer. This data could also contribute to ongoing work that is assessing the possible association between ovarian cancer risk and PALB2 mutations for which there is currently no evidence.
   authors:
   - Myszka A
