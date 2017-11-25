@@ -1,9 +1,313 @@
 - title: "Colorectal cancer susceptibility genes: findings from whole genome, exome and targeted sequencing of early onset and multiple-case families"
-  venue: Familial Aspects of Cancer 2017, Kingscliff, Australia 
-  speaker: Bernie Pope
-  date: 1 September 2017 
+  event: "Familial Aspects of Cancer: Research and Practice"
+  location: Kingscliff, Australia 
+  authors:
+    - Bernard Pope
+    - Khalid Mahmood
+    - Mark Clendenning
+    - Christophe Rosty
+    - Marie Lorans
+    - Harindra Jayasekara
+    - Neil O’Callaghan
+    - Susan Preston
+    - Daniel J. Park
+    - Fleur Hammet
+    - Tu Nguyen-Dumont
+    - Ashton Connor
+    - Steven Gallinger
+    - David Duggan
+    - Graham Casey
+    - Stephen N. Thibodeau
+    - John L. Hopper
+    - Melissa C. Southey
+    - Aung K. Win
+    - Finlay A. Macrae
+    - Ingrid M. Winship
+    - Mark A. Jenkins
+    - Daniel D. Buchanan for the Australasian Colorectal Cancer Family Registry
+  date: 1 September, 2017 
+  kind: Oral presentation
+
+- title: "The Genetics of Colonic Polyposis Study: identifying the genetic basis of unexplained colonic polyposis"
+  event: "Familial Aspects of Cancer: Research and Practice" 
+  location: Kingscliff, Australia
+  authors: [Sharelle Joseland, Mark Clendenning, Bernard J. Pope, Khalid Mahmood, Julie Arnold, Sonja Woodall, Marie Lorans, Neil O’Callaghan, Susan Preston, Chloe Wheatland, Kevin Sweet, Kara Semotiuk, Melissa C. Southey, Aung Ko Win, Mark A. Jenkins, Christophe Rosty, Finlay A. Macrae, Ingrid M. Winship, Susan Parry, Daniel D. Buchanan and FCCs]
+  date: 29 August - 1 September, 2017 
+  kind: Poster
+
+- title: Hi-Plex Origin for the high-throughput screening of disease genes 
+  event: "Familial Aspects of Cancer: Research and Practice" 
+  location: Kingscliff, Australia
+  authors: [Thomas Green, Fleur Hammet, Khalid Mahmood, Tu Nguyen-Dumont, Melissa Southey, Bernard Pope, Daniel Park]  
+  date: 29 August - 1 September, 2017 
+  kind: Poster
+
+- title: A registry of Australian Genomics bioinformatics pipelines incorporating a structured representation and interactive visualisation 
+  event: Australian Genomics National Conference  
+  location: Brisbane, Australia
+  authors: [Mailie Gall, Bernard Pope, John Pearson, Natalie Thorne]  
+  date: 4 August 2017  
+  kind: Poster
+  media:
+     - url: assets/files/AGHA_2017_poster.pdf 
+       title: PDF poster 
+
+- title: Scientists encode GIF into DNA 
+  event: ABC Radio National Interview
+  date: 13 July 2017
+  kind: Interview
+  media:
+    - url: http://www.abc.net.au/radionational/programs/drive/dna-data-storage/8706456
+      title: Link to ABC Radio National interview recording
+
+- title: "Characterisation of Mismatch Repair variants submitted to the International Mismatch Repair Consortium (IMRC)" 
+  event: The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), biennial meeting 
+  location: Florence, Italy 
+  authors: [Jeanette Reece, Daniel Buchanan, John-Paul Plazzer, Khalid Mahmood, Bernard Pope, Mark Clendenning, Grant Lee, Aung Win, Allyson Templeton, Robert Haile, Gabriela Moslein, Finlay Macrae, Mark Jenkins]  
+  date: 6 - 8 July, 2017  
+  kind: Poster
 
 - title: Whole genome sequencing as a diagnostic tool for Lynch Syndrome
-  venue: The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), biennial meeting in Florence, Italy
-  speaker: Bernie Pope
-  date: 6 July 2017 
+  event: The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), biennial meeting
+  location: Florence, Italy
+  authors:
+    - B Pope
+    - M Clendenning
+    - K Mahmood
+    - C Rosty
+    - R Walters
+    - A Win
+    - J Hopper
+    - M Southey
+    - F Macrae
+    - I Winship
+    - M Jenkins
+    - A Spurdle
+    - D Buchanan
+  date: 6 July, 2017 
+  kind: Oral presentation
+
+- title: Fuzz testing with American Fuzzy Lop (AFL) 
+  event: VASET Group, The University of Melbourne  
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 18 August 2016
+  kind: Oral presentation 
+  media:
+    - url: assets/files/afl_fuzz.pdf
+      title: PDF slides 
+  abstract: |
+    <a href="http://lcamtuf.coredump.cx/afl/">American Fuzzy Lop (AFL)</a> is a fuzz testing tool that has helped detect an impressive set of bugs. It uses compile-time program instrumentation and simple run-time statistics to detect program inputs which trigger novel execution paths. An initial program input is supplied by the user, from which a stream of new cases are generated based on a carefully tuned "genetic" algorithm (author's terminology). In some cases AFL can synthesise complex input file structure from fairly distant starting points. A useful by-product of running AFL is a compact collection of synthetic test inputs which can be used for other testing regimes.  AFL's runtime overheads are very low, and, according to the author, real-word fuzzed programs can run at near-native speed.  In this talk I give an overview of AFL and attempt to explain some of its implementation details.
+
+- title: "Clinical Genomics: a Computational Perspective"
+  event: Linux Conference Australia  
+  location: Geelong, Australia 
+  authors: [Bernard Pope]
+  date:  1 February 2016
+  kind: Oral presentation 
+  media:
+    - url: assets/files/clinical_genomics_lca_2016.pdf
+      title: PDF slides 
+    - url: https://www.youtube.com/watch?v=tGTVB-dqji4&feature=youtu.be
+      title: YouTube video
+  abstract: |
+    Low cost highly accurate DNA sequencing is quickly becoming an option for clinical diagnosis and treatment. In this talk I discuss the computational aspects of Clinical Genomics, based on recent experiences with the Melbourne Genomics Health Alliance. This was an invited talk for the Open Source and Bioinformatics miniconf, as part of the Linux Conference in Geelong 2016.  
+
+- title: "OptimusPrime: Multiplex Primer Design Tool for Hi-Plex Sequencing"
+  event: Australasian Genomic Technologies Association (AGTA), Annual Conference  
+  location: Auckland, New Zealand 
+  authors: [Edmund Lau, Daniel Park, Bernard Pope]
+  date: 9 - 12 October, 2016 
+  kind: Poster 
+  media:
+    - url: assets/files/hiplex_AGTA_poster_2016.pdf
+      title: PDF poster 
+  abstract: |
+    The advent of Massively Parallel Sequencing (MPS) has dramatically reduced the cost and increased the throughput of DNA sequencing. A number of methods have been  developed that target specified genomic regions for MPS. However, these, variously, are compromised by issues of relative expense, accuracy, requirement for specialist  equipment and the cumbersome nature of protocols. In this work we present Hi-Plex, a novel MPS platform, and multiplex Polymerase Chain Reaction (PCR) primer design software to meet the challenges the platform presents.
+
+- title: "Navigating the Research Data Life Cycle"
+  event: The Australian Bioinformatics and Computational Biology Society (AB3ACBS) Conference 
+  location: Brisbane, Australia 
+  authors: [P Griffin, R Appels, D Bulach, K Dudley, G Keeble-Gagnere, A Pask, B Pope, U Roessner, T Seemann, D Bolser, J Khadake, S Lewis, S Orchard, S Tyagi, A Lonie, MV Schneider]
+  date: 31 October - 2 November, 2016 
+  kind: Poster 
+
+- title: "Whole-genome analysis of paediatric cancer from cases with a family cancer history: early insights from Victoria, Australia"
+  event: American Society of Human Genetics (ASHG) annual meeting  
+  location: Vancouver, Canada  
+  authors: [T Nguyen-Dumont, B Feng, H Tsimiklis, D Amor, E Algar, E Milne, L Spector, J Ng, A Lonie, D Park, B Pope, E Smibert, G Dite, M Southey, J Heath, J Hopper]
+  date: 18 - 22 October, 2016  
+  kind: Poster 
+
+- title: "RNASEL, a modifier of breast cancer risk in BRCA1 and BRCA2 carriers?" 
+  event: 6th International Symposium on Hereditary Breast and Ovarian Cancer 
+  location: Montreal, Canada  
+  authors: [T Nguyen-Dumont, A Roberge, D Park, M Kapuscinski, Z Teo, F Hammet, M Mahmoodi, H Tsimiklis, B Pope, A Lonie, K Mahmood, kConFab, ABCFR, J Hopper, G Giles, M Southey]
+  date: 10 – 13 May, 2016  
+  kind: Poster 
+
+- title: Another look at declarative debugging for Haskell 
+  event: VASET Group, The University of Melbourne  
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 30 October 2015  
+  kind: Oral presentation 
+  media:
+    - url: assets/files/dd_vaset.pdf
+      title: PDF slides
+  abstract: |
+    Despite rising notoriety, Haskell still lacks effective debugging support. A breakpoint debugger exists, but, as expected, it is difficult to use in the presence of lazy evaluation and higher-order functions. We have previously considered declarative debugging as a more suitable approach for Haskell, but a number of technical challenges remain unsolved. In this talk I will revisit the main ideas behind declarative debugging and outline a few interesting areas of potential research in the context of non-strict purely functional languages, namely: generalising the structure of the debugging tree; interleaving debugging and program execution to reduce memory consumption.  
+
+- title: "Mutation screening of RNASEL, a candidate breast cancer susceptibility gene identified via whole-exome sequencing" 
+  event: "Familial Aspects of Cancer: Research and Practice"
+  location: Kingscliff, Australia
+  authors: [A Roberge, T Nguyen-Dumont, D Park, M Kapuscinski, F Hammet, M Mahmoodi, H Tsimiklis, B Pope, A Lonie, K Mahmood, kConFab, ABCFS, J Hopper, M Southey] 
+  date: 25 - 28 August, 2015 
+  kind: Poster 
+
+- title: Lindenmayer Systems 
+  event: Foundations of Computing Advanced Lecture, The University of Melbourne 
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 22 August, 2014  
+  kind: Lecture 
+  media:
+    - url: assets/files/lsystem.pdf
+      title: PDF slides
+  abstract: |
+    These slides introduce the idea of turtle graphics in Python and show how they can be used to implement Lindenmayer Systems (term rewriting languages with interesting interpretations as graphics).
+
+- title: Visualizing and analyzing heterogeneous DNA methylation patterns by massively parallel sequencing using methpat 
+  event: Australian Bioinformatics Conference (ABiC)  
+  location: Melbourne, Australia 
+  authors: [N Wong, I Candiloro, B Pope, D Korbie, M Trau, S Wong, T Mikeska, X Zhang, M Pitman, A Dobrovic]
+  date: 4 June, 2014  
+  kind: Poster 
+
+- title: Introducing RedDog, a mapping-based genome comparison pipeline for bacterial high-throughput sequence data
+  event: Lorne Infection and Immunity Conference 
+  location: Lorne, Australia 
+  authors: [David Edwards, Bernard Pope, Kat Holt]
+  date: 19 - 21 February, 2014  
+  kind: Poster 
+
+- title: "Hi-Plex: a flexible, streamlined and cost-effective approach to targeted massively parallel sequencing"
+  event: American Society of Human Genetics (ASHG) annual meeting 
+  location: San Diego, USA
+  authors: [T Nguyen-Dumont, B Pope, F Hammet, M Mahmoodi, H Tsimiklis, M Southey, D Park]
+  date: 18 - 22 October, 2014 
+  kind: Poster 
+
+- title: "Hi-Plex: a flexible, streamlined and cost-effective approach to targeted massively parallel sequencing"
+  event: 10th Australasian Mutation Detection meeting 
+  location: Daydream Island, Australia 
+  authors: [T Nguyen-Dumont, B Pope, F Hammet, M Mahmoodi, H Tsimiklis, M Southey]  
+  date: 1 - 4 September, 2014  
+  kind: Poster 
+
+- title: "ALLOCATE: sorting ovarian cancer patients into treatment arms based on molecular and genetic make up of their tumours"
+  event: Lorne Cancer Conference 
+  location: Lorne, Australia 
+  authors: [O Kondrashova, S Lunke, L Melishkin, C Scott, B Tran, D Bowtell, O McNally, M Wakefield, C Sloggett, B Pope, C Anderson, G Taylor, P Waring]
+  date: 13 - 15 February, 2014  
+  kind: Poster 
+
+- title: How Python Works 
+  event: Foundations of Computing Advanced Lecture, The University of Melbourne 
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 10 October, 2014  
+  kind: Lecture 
+  media:
+    - url: assets/files/how_python_works.pdf
+      title: PDF slides
+  abstract: |
+    An overview of how Python works (CPython specifically). Covers syntax analysis (lexing and parsing), compilation to bytecode and program exeuction. The slides conclude with an example bytecode execution of a simple Python program.
+
+- title: Computer games in Python 
+  event: Foundations of Computing Advanced Lecture, The University of Melbourne 
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 19 September, 2014 
+  kind: Lecture 
+  media:
+    - url: assets/files/games_in_python.pdf
+      title: PDF slides
+    - url: https://github.com/bjpop/asteroids
+      title: Code example on GitHub
+  abstract: |
+    These slides show how to implement arcade games in Python using the [PyGame](www.pygame.org/) library.  To demonstrate the main ideas of game programming in Python I wrote a simple asteroids game which is available in the linked code repository.
+
+- title: Ray tracing in Python 
+  event: Foundations of Computing Advanced Lecture, The University of Melbourne 
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 5 September, 2014 
+  kind: Lecture 
+  media:
+    - url: assets/files/ray_tracing.pdf
+      title: PDF slides
+    - url: https://github.com/bjpop/pyray
+      title: Code example on GitHub
+  abstract: |
+    These slides explain the central ideas behind the recursive ray-tracing algorithm and demonstrate how to implement it in Python. A basic Phong Illumination model is used in the slides and program.
+
+- title: Implementing Python in Haskell, twice
+  event: The Melbourne Python Users Group  
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 7 July, 2014  
+  kind: Oral presentation 
+  media:
+    - url: assets/files/MPUG_python_haskell.pdf
+      title: PDF slides
+    - url: https://github.com/bjpop/blip
+      title: Code repository for Blip
+    - url: https://github.com/bjpop/berp
+      title: Code repository for Berp 
+  abstract: |
+    Over the past couple of years I've developed an unusual hobby: implementing Python in Haskell.  The first iteration resulted in berp, a Python-to-Haskell translator. The second iteration resulted in blip, which compiles Python to bytecode, and is compatible with the standard Python implementation CPython. Note: I've given a similar talk to the Haskell User's Group (see below). In this version of the talk the focus is oriented to a Python audience.
+
+- title: Functional graphics in Scala 
+  event: The Melbourne Scala Users Group  
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 26 May, 2014  
+  kind: Oral presentation 
+  media:
+    - url: assets/files/fungraph_scala.pdf
+      title: PDF slides
+    - url: https://github.com/bjpop/scala-fungraph 
+      title: Example code repository 
+  abstract: |
+    Computer graphics are typically represented using two-dimensional arrays of pixels. In this talk I will demonstrate an alternative, and perhaps surprising, representation based on functions. We assume that images are defined (infinitely) over the two-dimensional real coordinate space, which avoids the need to worry about boundary conditions or discretisation. I will also show how this idea can be extended to animations, by making them functions over time. In addition to showing some pretty pictures, I demonstrate that higher-order functions are a powerful tool for program abstraction.
+
+- title: Implementing Python in Haskell, twice 
+  event: The Melbourne Haskell Users Group  
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 24 April, 2014  
+  kind: Oral presentation 
+  media:
+    - url: assets/files/ImplementPythonInHaskell.pdf
+      title: PDF slides
+    - url: https://github.com/bjpop/blip
+      title: Code repository for Blip
+    - url: https://github.com/bjpop/berp
+      title: Code repository for Berp 
+  abstract: |
+    Over the past couple of years I've developed an unusual hobby: implementing Python in Haskell.  The first iteration resulted in berp, a Python-to-Haskell translator. The second iteration resulted in blip, which compiles Python to bytecode, and is compatible with the standard Python implementation CPython.  In this talk I explain how I picked up this hobby, and where it might be going. I also talk about various Haskell features which underpin the two implementations.
+
+- title: "Rubra - flexible distributed pipelines"
+  event: Bioinformatics Open Source Conference (BOSC)  
+  location: Berlin, Germany 
+  authors: [C Sloggett, M Wakefield, G Philip, B Pope]
+  date: 19 July, 2013
+  kind: Poster 
+
+- title: Automating Pipelines for Variant Detection 
+  event: Lorne Genome Conference  
+  location: Lorne, Australia 
+  authors: [C Sloggett, G Philip, B Pope]
+  date: 17 - 19 February, 2013
+  kind: Poster 
