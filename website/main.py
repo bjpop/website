@@ -115,7 +115,7 @@ def render_pages(options, jinja_env):
     logging.debug("rendering pages using templates from %s...", options.templates)
 
     Template("index.html") \
-        .add_content("contents", options.templates, "index.yaml") \
+        .add_content("contents", options.templates, "biography.yaml") \
         .add_content("publications", options.templates, "publications.yaml", lambda xs: xs[:MAX_LATEST_PUBLICATIONS]) \
         .add_content("presentations", options.templates, "presentations.yaml", lambda xs: xs[:MAX_LATEST_PRESENTATIONS]) \
         .add_content("activities", options.templates, "activities.yaml", lambda xs: xs[:MAX_LATEST_ACTIVITIES]) \

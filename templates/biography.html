@@ -6,4 +6,46 @@
 
 <h1 class="display-4 my-5">Biography</h1>
 
+<h3 class="my-3">Overview</h3>
+
+{{ contents.overview }}
+
+{{ contents.career }}
+
+<h3 class="my-3">Selected projects</h3>
+
+<ul>
+  {% for item in contents.projects %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+
+<h3 class="my-3">Affiliations</h3>
+  <ul>
+    {% for item in contents.affiliations %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+<h3 class="my-3">Awards</h3>
+  <ul>
+    {% for item in contents.awards %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+<h3 class="my-3">Internships</h3>
+  <ul>
+    {% for item in contents.internships %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+<h3 class="my-3">Personal</h3>
+  <ul>
+    {% for item in contents.personal %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
 {% endblock %}
