@@ -13,7 +13,7 @@
   <ul style="list-style-type:none">
     <li>
       <details>
-        <summary>{{ paper.title }}</a>, {{ paper.journal }}, {{ paper.year }}.</summary>
+        <summary>{{ paper.title }}</a>, {% if paper.journal %} {{ paper.journal }}, {% endif %} {{ paper.year }}.</summary>
         <div class="card card-body my-3">
           <dl class="row">
             {% if paper.authors %}
