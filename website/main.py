@@ -90,17 +90,19 @@ def init_logging(log_filename):
     Result:
         None
     '''
+    format  = '%(asctime)s %(levelname)s - %(message)s'
+    datefmt = '%m-%d-%Y %H:%M:%S'
     if log_filename is None:
         logging.basicConfig(
             level=logging.DEBUG,
-            format='%(asctime)s %(levelname)s - %(message)s',
-            datefmt='%m-%d-%Y %H:%M:%S')
+            format=format,
+            datefmt=datefmt)
     else:
         logging.basicConfig(filename=log_filename,
             level=logging.DEBUG,
             filemode='w',
-            format='%(asctime)s %(levelname)s - %(message)s',
-            datefmt='%m-%d-%Y %H:%M:%S')
+            format=format,
+            datefmt=datefmt)
 
     logging.info('starting: %s', ' '.join(sys.argv))
 
@@ -182,12 +184,9 @@ class Template(object):
             output_file.write(rendered_html)
 
 def make_output_dir(options):
-    logging.debug("creating output dir: %s...", options.outdir)
-
     if not os.path.exists(options.outdir):
+        logging.debug("creating output dir: %s: done", options.outdir)
         os.makedirs(options.outdir)
-
-    logging.debug("creating output dir: %s: done", options.outdir)
 
 
 def main():
@@ -197,7 +196,6 @@ def main():
     jinja_env = init_jinja(options)
     make_output_dir(options)
     render_pages(options, jinja_env)
-
     logging.info("done: open %s/index.html to see generated website", options.outdir)
 
 
