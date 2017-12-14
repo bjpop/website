@@ -1,0 +1,58 @@
+present:
+
+    - name: David Edwards
+      description: PhD student, co-supervised with A/Prof Kat Holt.
+      date: July 2017 onwards
+
+    - name: Medha Suman
+      description: PhD student, I am a member of her PhD Committee. Medha is supervised by Prof Melissa Southey, Dr Eric Joo and Dr Tu Nguyen-Dumont.
+      date: November 2016 onwards
+
+    - name: Jia An Yu
+      description: Masters of Science (Bioinformatics) student, co-supervised with A/Prof Paul James and Dr Lavinia Gordon.
+      date: July 2017 onwards
+
+    - name: James Chan
+      description: Summer student, co-supervised with A/Prof Dan Buchanan.
+      date: December 2017 - February 2018
+
+past:
+    - name: Thomas Green
+      description: Honours student (Pathology), co-supervised with A/Prof Daniel Park.
+      date: 2017
+
+    - name: James Chan 
+      description: VLSCI intern, co-supervised with A/Prof Daniel Park.
+      date: 2016 - 2017 
+
+    - name: Edmund Lau
+      description: VLSCI intern, co-supervised with A/Prof Daniel Park and Dr Tu Nguyen-Dumont.
+      date: 2016
+
+    - name: Edmund Lau
+      description: UROP student, co-supervised with A/Prof Daniel Park and Dr Tu Nguyen-Dumont.
+      date: 2016
+
+    - name: Luke Zappia 
+      description: VLSCI intern, co-supervised with Dr Andrew Isaac.
+      date: 2014 - 2015
+
+    - name: Roger Li
+      description: VLSCI intern, co-supervised with A/Prof Daniel Park.
+      date: 2014
+     
+    - name: Adrian Hecker 
+      description: VLSCI intern, co-supervised with A/Prof Kat Holt and A/Prof Mike Inouye.
+      date: 2013 - 2014
+
+    - name: Luke Shillabeer
+      description: VLSCI intern, co-supervised with A/Prof Daniel Park and Dr Tu Nguyen-Dumont.
+      date: 2013 - 2014
+
+    - name: David Edwards 
+      description: Masters of Science (Bioinformatics) student, co-supervised with A/Prof Kat Holt.
+      date: 2012 - 2013
+
+    - name: Sori Kang
+      description: VLSCI intern, co-supervised with A/Prof Daniel Park and Dr Tu Nguyen-Dumont.
+      date: 2012 - 2013

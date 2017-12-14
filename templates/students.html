@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Students{% endblock %}
+{% set active_page = "students" %}
+{% block content %}
+{{ super () }}
+
+<h1 class="display-4 my-5">Students</h1>
+
+<h3 class="my-3">Present</h3>
+
+<ul>
+  {% for student in contents.present %}
+    <li>{{ student.name }}: {{ student.description }} {{ student.date }}. </li>
+  {% endfor %}
+</ul>
+
+<h3 class="my-3">Past</h3>
+
+<ul>
+  {% for student in contents.past %}
+    <li>{{ student.name }}: {{ student.description }} {{ student.date }}. </li>
+  {% endfor %}
+</ul>
+
+{% endblock %}
