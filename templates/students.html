@@ -10,7 +10,7 @@
 
 <ul>
   {% for student in contents.present %}
-    <li>{{ student.name }}: {{ student.description }} {{ student.date }}. </li>
+    <li>{{ student.name }}: {{ student.description }}, {{ student.date }}. </li>
   {% endfor %}
 </ul>
 
@@ -18,7 +18,7 @@
 
 <ul>
   {% for student in contents.past %}
-    <li>{{ student.name }}: {{ student.description }} {{ student.date }}. </li>
+    <li>{{ student.name }}: {{ student.description }}, {{ student.date }}. </li>
   {% endfor %}
 </ul>
 
