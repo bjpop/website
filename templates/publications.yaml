@@ -1,4 +1,19 @@
 - abstract: |
+    Hi-Plex is a suite of methods to enable simple, accurate, and cost-effective highly multiplex PCR-based targeted sequencing (Nguyen-Dumont et al., Biotechniques 58:33-36, 2015). At its core is the principle of using gene-specific primers (GSPs) to "seed" (or target) the reaction and universal primers to "drive" the majority of the reaction. In this manner, effects on amplification efficiencies across the target amplicons can, to a large extent, be restricted to early seeding cycles. Product sizes are defined within a relatively narrow range to enable high-specificity size selection, replication uniformity across target sites (including in the context of fragmented input DNA such as that derived from fixed tumor specimens (Nguyen-Dumont et al., Biotechniques 55:69-74, 2013; Nguyen-Dumont et al., Anal Biochem 470:48-51, 2015), and application of high-specificity genetic variant calling algorithms (Pope et al., Source Code Biol Med 9:3, 2014; Park et al., BMC Bioinformatics 17:165, 2016). Hi-Plex offers a streamlined workflow that is suitable for testing large numbers of specimens without the need for automation.
+  authors: [Pope B, Hammet, Nguyen-Dumont, Park D]
+  date:  
+  doi: 10.1007/978-1-4939-7514-3_5 
+  issue: ''
+  journal: Methods in Molecular Biology
+  keywords: 
+  pages: "53–70"
+  pmid: 29224068 
+  title: Hi-Plex for Simple, Accurate, and Cost-Effective Amplicon-based Targeted DNA Sequencing
+  type: Book Chapter 
+  url: http://dx.doi.org/10.1007/978-1-4939-7514-3_5
+  volume: 1712 
+  year: '2018'
+- abstract: |
    Background: Germline mutations in the exonuclease domains of the POLE and POLD1 genes are associated with an as yet unquantified increased risk of colorectal cancer (CRC). Methods: We identified families with POLE or POLD1 variants by searching PubMed for relevant studies prior to October 2016 and by genotyping 669 population-based CRC cases diagnosed <60 years of age from the Australasian Colorectal Cancer Family Registry. We estimated the age-specific cumulative risks (penetrance) using a modified segregation analysis. Results: We observed 67 CRCs (mean age at diagnosis=50.2 (standard deviation [SD]=13.8) years) among 364 first- and second- degree relatives from 41 POLE families and 6 CRCs (mean age at diagnosis=39.7 (SD=6.83) years) among 69 relatives from 9 POLD1 families. We estimated risks of CRC to age 70 years (95% confidence interval [CI]) for males and females, respectively, to be: 40%(26%–57%) and 32%(20%–47%) for POLE mutation carriers; and 63%(15%–99%) and 52%(11%–99%) for POLD1 mutation carriers. Conclusion: CRC risks for POLE mutation carriers are sufficiently high warranting consideration of annual colonoscopy screening and management guidelines comparable to Lynch syndrome. Refinement of estimates of CRC risk for POLD1 carriers is needed, however, clinical management recommendations could follow those suggested for POLE carriers.
   authors:
   - Buchanan D
