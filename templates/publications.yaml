@@ -1,4 +1,20 @@
 - abstract: |
+    Background. FANCM and RECQL have recently been reported as breast cancer susceptibility genes and it has been suggested that they should be included on gene panel tests for breast cancer predisposition. However, the clinical value of testing for mutations in RECQL and FANCM remains to be determined. In this study, we have characterised the spectrum of FANCM and RECQL mutations in women affected with breast or ovarian cancer from South-West Poland and West Ukraine. Methods. We applied Hi-Plex, an amplicon-based enrichment method for targeted massively parallel sequencing, to screen the coding exons and proximal intron-exon junctions of FANCM and RECQL in germline DNA from unrelated women affected with breast cancer (n = 338) and ovarian cancer (n = 89) from Poland (n = 304) and Ukraine (n = 123). These women were at high-risk of carrying a genetic predisposition to breast and/or ovarian cancer due to a family history and/or early-onset disease. Results. Among 427 women screened, we identified one carrier of the FANCM:c.1972C > T nonsense mutation (0.23%), and two carriers of the frameshift insertion FANCM:c.1491dup (0.47%). None of the variants we observed in RECQL were predicted to be loss-of-function mutations by standard variant effect prediction tools. Conclusions. Our study of the Polish and Ukrainian populations has identified a carrier frequency of truncating mutations in FANCM consistent with previous reports. Although initial reports suggesting that mutations in RECQL could be associated with increased breast cancer risk included women from Poland and identified the RECQL:c.1667_1667 + 3delAGTA mutation in 0.23–0.35% of breast cancer cases, we did not observe any carriers in our study cohort. Continued screening, both in research and diagnostic settings, will enable the accumulation of data that is needed to establish the clinical utility of including RECQL and FANCM on gene panel tests.
+  authors: [T Nguyen-Dumont, A Myszka, P Karpinski, M Sasiadek, H Akopyan, F Hammet, H Tsimiklis, D Park, B Pope, R Slezak, N Kitsera, A Siekierzynska, M Southey]
+  date: 19 January 2018  
+  doi: 10.1186/s12881-018-0524-x 
+  issue: 12
+  journal: BMC Medical Genetics  
+  keywords: "FANCM, RECQL, Breast cancer predisposition, Familial breast cancer, Gene panel testing"
+  pages:  
+  pmid:  
+  title: "FANCM and RECQL genetic variants and breast cancer susceptibility: relevance to South Poland and West Ukraine" 
+  type: Journal Article
+  url: http://dx.doi.org/10.1186/s12881-018-0524-x
+  volume: 19 
+  year: '2018'
+
+- abstract: |
     Hi-Plex is a suite of methods to enable simple, accurate, and cost-effective highly multiplex PCR-based targeted sequencing (Nguyen-Dumont et al., Biotechniques 58:33-36, 2015). At its core is the principle of using gene-specific primers (GSPs) to "seed" (or target) the reaction and universal primers to "drive" the majority of the reaction. In this manner, effects on amplification efficiencies across the target amplicons can, to a large extent, be restricted to early seeding cycles. Product sizes are defined within a relatively narrow range to enable high-specificity size selection, replication uniformity across target sites (including in the context of fragmented input DNA such as that derived from fixed tumor specimens (Nguyen-Dumont et al., Biotechniques 55:69-74, 2013; Nguyen-Dumont et al., Anal Biochem 470:48-51, 2015), and application of high-specificity genetic variant calling algorithms (Pope et al., Source Code Biol Med 9:3, 2014; Park et al., BMC Bioinformatics 17:165, 2016). Hi-Plex offers a streamlined workflow that is suitable for testing large numbers of specimens without the need for automation.
   authors: [Pope B, Hammet, Nguyen-Dumont, Park D]
   date:  
