@@ -1,5 +1,17 @@
 present:
 
+    - name: Mailie Gall 
+      description: Masters of Science (Bioinformatics) student, co-supervised with A/Prof Dan Buchanan 
+      date: January 2018 onwards
+
+    - name: James Chan
+      description: Summer student, co-supervised with A/Prof Dan Buchanan
+      date: December 2017 - February 2018
+
+    - name: Jia An Yu
+      description: Masters of Science (Bioinformatics) student, co-supervised with A/Prof Paul James and Dr Lavinia Gordon
+      date: July 2017 onwards
+
     - name: David Edwards
       description: PhD student, co-supervised with A/Prof Kat Holt
       date: July 2017 onwards
@@ -7,14 +19,6 @@ present:
     - name: Medha Suman
       description: PhD student, I am a member of her PhD Committee. Medha is supervised by Prof Melissa Southey, Dr Eric Joo and Dr Tu Nguyen-Dumont
       date: November 2016 onwards
-
-    - name: Jia An Yu
-      description: Masters of Science (Bioinformatics) student, co-supervised with A/Prof Paul James and Dr Lavinia Gordon
-      date: July 2017 onwards
-
-    - name: James Chan
-      description: Summer student, co-supervised with A/Prof Dan Buchanan
-      date: December 2017 - February 2018
 
 past:
     - name: Thomas Green
