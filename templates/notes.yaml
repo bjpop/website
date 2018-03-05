@@ -1,0 +1,115 @@
+- title: Ten rules of etiquette for scientific code  
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/ten_rules_scientific_code.pdf
+       title: PDF document 
+  abstract: |
+      The most important qualities of scientific code are correctness and performance (in that order), and we rightly burn a lot of calories in their pursuit. Unfortunately we seem to be less concerned with how our software is used, and our tools have a reputation for bad manners. Mostly this is due to sloppiness, tight deadlines, non-existent budgets, and the fact that usability is a distant consideration compared to getting a result for a paper. Having worked in the field for five years now I've observed that there are many little details about how we write and distribute our programs that could easily be improved.
+
+- title: Introduction to Unix
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/intro_to_unix.pdf
+       title: PDF document 
+  abstract: |
+     This document was written primarily as a source of information for people who are new to Unix, however the concepts are applicable to a much wider audience. A small number of points are specific to our systems, but most of the document applies to any computer running a version of Unix.  The aims of the document are twofold: 1. To help you become a productive Unix user. 2. To show you the “Unix Way”, so that you can go off and discover the rest of the system on your own.  It is impossible for a such a short document to explain the entirety of Unix, so we focus on the key issues from a user’s perspective. We make no attempt to be exhaustive in our explanations, instead we prefer to use examples to demonstrate how things work. We hope that you will experiment on your own, and where necessary, follow up a topic with further reading on the internet, in a book, or in the online Unix manual.
+
+- title: The Scott Encoding of algebraic data types into the Lambda Calculus
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/scott_encoding.txt
+       title: Text document 
+
+- title: Fixed points in the Lambda Calculus 
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/fixed_points.txt
+       title: Text document 
+  date: 2008
+
+- title: The Pure Lambda Calculus
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/pure_lambda_calculus.txt
+       title: Text document 
+  date: 2008
+
+- title: Lambda Calculus Quiz 
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/lambda_calculus_quiz.pdf
+       title: PDF document 
+  date: 2008
+
+- title: High performance Haskell with MPI 
+  authors:
+    - Bernard Pope
+    - Dmitry Astapov 
+  kind: Document 
+  media:
+     - url: assets/files/haskell-mpi.monad.reader.pdf 
+       title: PDF document 
+  date: October 26, 2011
+  abstract: |
+      In this article, we give a brief overview of the Haskell-MPI library and show how it can be used to write distributed parallel programs. We use the trapezoid method for approximating definite integrals as a motivating example and compare the per- formance of an implementation using Haskell-MPI to three variations of the same algorithm: a sequential Haskell program, a multi-threaded Haskell program, and a C program also using MPI.
+
+- title: Step inside the GHCi debugger  
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/ghci-debug.monad.reader.pdf
+       title: PDF document 
+  date: March 6, 2008 
+  abstract: |
+     Major releases of GHC are highly anticipated events, especially because of all the exciting new features they bring. The 6.8 series was a particularly impressive example, which came with lots of goodies, including a shiny new debugger. In this article we take the debugger out for a test run, and see what it can do.
+
+- title: Getting a fix from the Right Fold 
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/getting_fix_right_fold.pdf
+       title: PDF document 
+  abstract: |
+     What can you do with foldr? This is a seemingly innocent question that will confront most functional programmers at some point in their life. I was recently posed a "folding challenge" by a teaching colleague. The challenge was to write dropWhile using foldr. We gave the challenge to our first-year students, and awarded a small prize to the author of the first working solution. I have since passed the challenge on to other "functional" friends, and the results have been illuminating. That prompted me to write this article.
+
+- title: A tour of the Haskell Prelude 
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/haskell.tour.pdf
+       title: PDF document 
+  date: 2001
+
+- title: A declarative debugger for Haskell (Honours Thesis) 
+  authors:
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/BerniePope.Hons.Thesis.pdf
+       title: PDF document 
+  date: 1998 
+
+- title: Haskell for Miranda Programmers 
+  authors:
+    - Kevin Glynn
+    - Bernard Pope
+  kind: Document 
+  media:
+     - url: assets/files/mira2hask.pdf
+       title: PDF document 
+  date: June 22, 1999 

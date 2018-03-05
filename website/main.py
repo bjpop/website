@@ -151,12 +151,20 @@ def render_pages(options, jinja_env):
         .add_content("contents", options.templates, "activities.yaml") \
         .render_page(jinja_env, options.outdir)
 
+    Template("reviews.html") \
+        .add_content("contents", options.templates, "reviews.yaml") \
+        .render_page(jinja_env, options.outdir)
+
     Template("biography.html") \
         .add_content("contents", options.templates, "biography.yaml") \
         .render_page(jinja_env, options.outdir)
 
     Template("students.html") \
         .add_content("contents", options.templates, "students.yaml") \
+        .render_page(jinja_env, options.outdir)
+
+    Template("notes.html") \
+        .add_content("contents", options.templates, "notes.yaml") \
         .render_page(jinja_env, options.outdir)
 
     logging.debug("rendering pages: done")

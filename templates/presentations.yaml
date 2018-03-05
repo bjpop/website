@@ -162,6 +162,18 @@
   date: 10 – 13 May, 2016  
   kind: Poster 
 
+- title: "Hi-Plex: Simple, low-cost, modular targeted DNA sequencing"
+  event: University of Otago invited talk
+  location: Otago University, New Zealand 
+  authors: [Bernard Pope]
+  date: 28 September 2015 
+  kind: Oral presentation 
+  media:
+    - url: assets/files/hiplex_otago_2015.pdf
+      title: PDF slides
+  abstract: |
+    Hi-Plex is a streamlined highly-multiplexed PCR-based target-enrichment system for massively parallel sequencing suitable for an extensive range of clinical and research applications. Its main advantages are: 1) a simple single-step protocol; 2) support for multiple sequencing platforms; 3) considerable flexibility in target region design; 4) accurate results aided by stringent filtering of sequencing chemistry-induced errors; and 5) low cost compared to competing technologies. In this talk I will provide an overview of the chemistry and software which underpin Hi-Plex, highlight a number of successful applications of the technology, and discuss recent developments in tiling multiplex PCR primer design.
+
 - title: Another look at declarative debugging for Haskell 
   event: VASET Group, The University of Melbourne  
   location: Melbourne, Australia 

@@ -4,7 +4,7 @@ photo: assets/img/bernie_pope_bw.jpg
 overview: |
     <p>I am a Senior Research Fellow at <a href="https://www.melbournebioinformatics.org.au/">Melbourne Bioinformatics</a>, a high-performance computing center for life sciences at <a href="http://www.unimelb.edu.au/">The University of Melbourne</a>, Australia. My research focuses on applying computational techniques to biological questions, especially related to <a href="https://www.melbournebioinformatics.org.au/project/human-genomics/">Human Genomics and Cancer</a>. In addition to research, I am enthusiastic about education and have extensive experience teaching at the university level.</p>
 career: |
-    <p>After completing a <a href="assets/files/BerniePope.PhD.Thesis.pdf">Computer Science PhD</a> in Programming Languages, I undertook an internship at Microsoft Research in Cambridge, before returning to a lecturing position at the University of Melbourne. In 2010 I joined the newly-formed VLSCI (now Melbourne Bioinformatics), a $100M project to build a world-leading centre for bioinformatics and computational biology.</p><p>During my time at Melbourne Bioinformatics I have led a team of bioinformaticians in Cancer and Clinical Genomics, and have contributed to a wide variety of research projects.</p><p>In 2017 I was awarded a Victorian Health and Medical Research Fellowship, funded by the Victorian Government, supporting my work on the prevention and treatment of colorectal cancer, in close collaboration with the Colorectal Oncogenomics Group at The University of Melbourne, headed by Assoc. Prof. Daniel Buchanan.</p>
+    <p>After completing a <a href="assets/files/BerniePope.PhD.Thesis.pdf">Computer Science PhD</a> in Programming Languages, I undertook an internship at Microsoft Research in Cambridge, before returning to a lecturing position at the University of Melbourne. In 2010 I joined the newly-formed VLSCI (now Melbourne Bioinformatics), a $100M project to build a world-leading centre for bioinformatics and computational biology.</p><p>During my time at Melbourne Bioinformatics I have led a team of bioinformaticians in Cancer and Clinical Genomics, and have contributed to a wide variety of research projects.</p><p>In 2017 I was awarded a Victorian Health and Medical Research Fellowship, funded by the Victorian Government, supporting my work on the prevention and treatment of colorectal cancer, in close collaboration with the <a href="http://www.buchananlab.org/">Colorectal Oncogenomics Group</a> at The University of Melbourne, headed by Assoc. Prof. Daniel Buchanan.</p>
 projects:
    - High risk genes for lobular breast cancer, with Prof. Melissa Southey.
    - PCR optimised sequencing for DNA-based diagnosis and discovery, leading to the development of the <a href="www.hiplex.org">Hi-Plex targeted sequencing platform</a>, with Assoc. Prof. Daniel Park.
@@ -19,6 +19,7 @@ affiliations:
   - <a href="http://www.biomedvic.org.au/fellowships/">Victorian Health and Medical Research Fellow</a> 
   - Honorary Adjunct Senior Lecturer, Department of Clinical Pathology, Melbourne Medical School, Faculty of Medicine, Dentistry and Health Sciences, The University of Melbourne, Australia  
   - Adjunct Associate Professor (Research), Department of Medicine, Central Clinical School, Monash University, Australia
+  - Member of the <a href="http://www.buchananlab.org/">Colorectal Oncogenomics Group</a>, The University of Melbourne, Australia
 research:
   - Bioinformatics
   - Genomics
@@ -40,6 +41,13 @@ awards:
 internships:
   - "Microsoft Research Cambridge, UK. January – April 2007. Project: A breakpoint debugger for the Glasgow Haskell Compiler. Supervisor: Dr Simon Marlow."
   - "Ludwig Institute for Cancer Research, Melbourne. Summer break 1995-96. Project: molecular dynamics simulation of trans-membrane signalling in the Aspartate receptor of E. Coli. Supervisor: Dr Herbert Treutlein."
+service:
+  - <a href="reviews.html">Peer reviews</a>
+  - "Conference Committee: Australian Bioinformatics And Computational Biology Society, 2018"
+  - "Conference Committee: Compose::Melbourne, Functional Programming Conference, 2017"
+  - "Advisory Board: Compose::Melbourne, Functional Programming Conference, 2016"
+  - "Conference Committee: eResearch Australasia, 2012-2016."
+  - "Conference Committee: Haskell Symposium, Canada, 2008."
 personal:
   - '<a href="https://github.com/bjpop">Source code on Github</a>'
   - '<a href="https://www.flickr.com/photos/scrambles">Photos on Flickr</a>'

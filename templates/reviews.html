@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Peer Reviews{% endblock %}
+{% set active_page = "reviews" %}
+{% block content %}
+{{ super () }}
+
+<h1 class="display-4 my-5">Peer Reviews</h1>
+
+  {% for item in contents %}
+
+    <ul>
+      <li>{{ item }}</li>
+    </ul>
+
+  {% endfor %}
+
+{% endblock %}
