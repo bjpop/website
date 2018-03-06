@@ -167,6 +167,10 @@ def render_pages(options, jinja_env):
         .add_content("contents", options.templates, "notes.yaml") \
         .render_page(jinja_env, options.outdir)
 
+    Template("reading.html") \
+        .add_content("contents", options.templates, "reading.yaml") \
+        .render_page(jinja_env, options.outdir)
+
     logging.debug("rendering pages: done")
 
 def identity(x):

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Reading{% endblock %}
+{% set active_page = "reading" %}
+{% block content %}
+{{ super () }}
+
+<h1 class="display-4 my-5">Research Reading List</h1>
+
+<iframe src="{{ contents.url }}" frameborder="0" style="width: 100%; max-width: 800px; height: 1848px"></iframe>
+
+{% endblock %}
