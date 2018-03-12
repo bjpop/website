@@ -1,5 +1,10 @@
 present:
 
+    - name: Peter Georgeson
+      description: PhD student, co-supervised with A/Prof Dan Buchanan 
+      date: March 2018 onwards
+
+
     - name: Mailie Gall 
       description: Masters of Science (Bioinformatics) student, co-supervised with A/Prof Dan Buchanan 
       date: January 2018 onwards
