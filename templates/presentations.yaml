@@ -326,11 +326,32 @@
   abstract: |
     Over the past couple of years I've developed an unusual hobby: implementing Python in Haskell.  The first iteration resulted in berp, a Python-to-Haskell translator. The second iteration resulted in blip, which compiles Python to bytecode, and is compatible with the standard Python implementation CPython.  In this talk I explain how I picked up this hobby, and where it might be going. I also talk about various Haskell features which underpin the two implementations.
 
+- title: "Bioinformatic characterisation of the transcription factor 'myelin regulatory factor' (MYRF) and its role in oligodendrocyte maturation"
+  event: Australasian Neuroscience Society  
+  location: Melbourne Australia 
+  authors: [V Perreau, B Pope, S Jackson, B Barres, B Emery]
+  date: 4 February 2014  
+  kind: Poster 
+
+- title: Secretly teaching the foundations of computing with steganography  
+  event: Computer Science for High School Workshop. 
+  location: The University of Melbourne
+  authors: [B Pope]
+  date: 21 November 2013 
+  kind: Oral presentation 
+
 - title: "A single-tube high-plex PCR approach for targeted massively parallel sequencing applied to FFPE-tumour derived material" 
   event: American Society of Human Genetics (ASHG) annual meeting  
   location: Boston, USA 
   authors: [T Nguyen-Dumont, B Pope, F Hammet, M Southey, D Park]  
   date: October 22 - 26, 2013  
+  kind: Poster 
+
+- title: "Small Needles, Big Haystacks, and a Smart Comb: Integrating Network Theory and Mass Spectrometry to Improve Pharmaceutical Development"
+  event: Interact 2013, Bio21, The University of Melbourne  
+  location: Melbourne, Australia
+  authors: [M Leeming, H Daykin, W Donald, R O'Hair, J Ziogas, C Wright, N Cranswick, D Walker, A Tordesillas, M Small, B Pope, A Isaac]
+  date: 4 October 2013  
   kind: Poster 
 
 - title: "Hi-Plex: a PCR-based approach for simple, rapid and cost-effective massively parallel sequencing library building"
@@ -373,6 +394,13 @@
   abstract: |
     The conventional way to represent computer graphics is with a two-dimensional array of pixels. In these slides we illustrate an alternative approach using functions from continuous coordinates to pixel values. Apart from being a neat idea, this representation provides great expressiveness for image transformations, and allows us to do impressive things with only a small amount of code. In these slides we use Python, but the same idea can be applied in any language with higher-order functions. 
 
+- title: VLSCI Site Update  
+  event: SPXXL Large Scale Computing meeting  
+  location: Maui, Hawaii, USA
+  authors: [Bernard Pope]
+  date: 7 January 2013  
+  kind: Oral presentation 
+
 - title: "FAVR (Filtering and Annotation of Variants that are rare): methods to facilitate the analysis of rare germline genetic variants from SOLiD and Illumina datasets"
   event: "Familial Aspects of Cancer: Research and Practice"
   location: Kingscliff, Australia 
@@ -391,6 +419,20 @@
   abstract: |
     An international team of researchers, led by the University of Melbourne, has used new technology to fast track the discovery of a new breast cancer risk gene. The finding could assist in the discovery of other cancer risk genes. 
 
+- title: A Computational Model for Retinal Ganglion Cell Axon Pathfinding  
+  event: Association for Research in Vision and Opthamology 2012 Annual Meeting  
+  location: Florida, USA 
+  authors: [A Turpin, G Goodhill, B Pope]
+  date: May 2012  
+  kind: Poster 
+
+- title: VLSCI Site Update  
+  event: SPXXL Large Scale Computing winter meeting  
+  location: Miami, Florida, USA 
+  authors: [Bernard Pope]
+  date: January 2012  
+  kind: Oral presentation 
+
 - title: Early insights from whole-exome analysis of early-onset, multiple-case breast cancer pedigrees 
   event: Combined American Society of Human Genetics, International Congress of Human Genetics meetings  
   location: Montreal, Canada 
@@ -405,12 +447,45 @@
   date: 23 - 26 August, 2011  
   kind: Poster 
 
+- title: Axon Pathfinding in the Retina Need Not Rely on a Chemical Gradient 
+  event: 5th Australian Workshop on Computational Neuroscience  
+  location: Sydney, Australia 
+  authors: [A Turpin, G Goodhill, B Pope]
+  date: December 2011 
+  kind: Presentation 
+
+- title: Exploring a PALB2 c.3113G>. A breast cancer multiple-case family for other genetic risk factors via exome sequencing
+  event: International Congress on Human Genetics, American Society of Human Genetics
+  location: Montreal, Canada
+  authors: [Z Teo, D Park, F Odefrey, F Hammet, T Nguyen-Dumont, H Tsimiklis, B Pope, A Lonie, I Winship, G Giles, J Hopper, M Southey]
+  date: October 2011 
+  kind: Poster 
+
 - title: "Precision Medicine: Dawn of Supercomputing in omics Research"
   event: 5th eResearch Australasia Conference (eResearch)  
   location: Melbourne, Australia 
   authors: [M Reumann, K Holt, M Inouye, T Stinear, B Goudey, G Abraham, Q Wang, F Shi, A Kowalczyk, A Pearce, A Isaac, B Pope, H Butzkueven, J Wagner, S Moore, M Downton, P Church, S Turner, J Field, M Southey, D Bowtell, D Schmidt, E Makalic, J Zobel, J Hopper, S Petrovski, T O’Brien]  
   date: 6 - 11 November, 2011   
   kind: Oral presentation 
+
+- title: Open recursion and fixed points (in Scala) 
+  event: Melbourne Scala Users Group 
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 25 July 2011  
+  kind: Oral presentation 
+  media:
+    - url: assets/files/open_recursion.pdf 
+      title: PDF slides
+  abstract: |
+    Classes in object oriented languages combine many different programming language features into a single abstraction. One of the key features is open recursion - the recursion on the self parameter which provides a late binding mechanism on method calls. In these slides we show how the same kind of extensibility can be achieved with ordinary higher order functions and fixed points (no classes). We use Scala to demonstrate the key ideas, but they can be easily translated to any language with higher-order functions.
+
+- title: Expanded genetic analysis of a PALB2 c.3113G>. A mutation carrying multiple-case breast cancer family via exome sequencing
+  event: Fifth PacRim Breast and Prostate Cancer Meeting 
+  location: NSW, Australia
+  authors: [Z Teo, D Park, F Odefrey, F Hammet, T Nguyen-Dumont, H Tsimiklis, B Pope, A Lonie, I Winship, G Giles, J Hopper, M Southey]
+  date: May 2011 
+  kind: Poster
 
 - title: Open recursion and fixed points (in Scala) 
   event: Melbourne Scala Users Group 
