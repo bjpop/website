@@ -1,3 +1,14 @@
+- title: "Memory efficient parallelisation of HiTIME in C++"
+  event: "Melbourne Bioinformatics Lab Presentation"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 3 August, 2018 
+  kind: Oral presentation
+  media:
+     - url: assets/files/hitime.parallel.pdf 
+       title: Slides 
+
 - title: "Using genomics for better detection and treatment of Lynch Syndrome"
   event: "Eastern Gynaecological and Obstetrical Society, Annual Partners Dinner"
   location: Melbourne, Australia 
