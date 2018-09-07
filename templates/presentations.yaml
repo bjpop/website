@@ -1,3 +1,9 @@
+- title: Whole Genome Sequencing as a Broader Diagnostic Tool for Lynch Syndrome
+  event: "Familial Aspects of Cancer: Research and Practice, Kingscliff, NSW"
+  authors: [B. Pope, M. Clendenning, K. Mahmood, P. Georgeson, C. Rosty, A. Spurdle, J. Hopper, M Jenkins, F Macrae, I Winship, D. Buchanan]
+  date: 6 September 2018
+  kind: Oral presentation
+
 - title: "Memory efficient parallelisation of HiTIME in C++"
   event: "Melbourne Bioinformatics Lab Presentation"
   location: Melbourne, Australia 
@@ -91,7 +97,7 @@
   event: The International Society for Gastrointestinal Hereditary Tumours (InSiGHT), biennial meeting 
   location: Florence, Italy 
   authors: [Jeanette Reece, Daniel Buchanan, John-Paul Plazzer, Khalid Mahmood, Bernard Pope, Mark Clendenning, Grant Lee, Aung Win, Allyson Templeton, Robert Haile, Gabriela Moslein, Finlay Macrae, Mark Jenkins]  
-  date: 6 - 8 July, 2017  
+  date: 6 - 8 July, 2017 
   kind: Poster
 
 - title: Whole genome sequencing as a diagnostic tool for Lynch Syndrome
