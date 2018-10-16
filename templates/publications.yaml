@@ -1,4 +1,19 @@
 - abstract: |
+    DNA methylation influences predisposition, development and prognosis for many diseases, including cancer. However, it is not uncommon to encounter samples with incorrect sex labelling or atypical sex chromosome arrangement. Sex is one of the strongest influencers of the genomic distribution of DNA methylation and, therefore, correct assignment of sex and filtering of abnormal samples are essential for the quality control of study data. Differences in sex chromosome copy numbers between sexes and X-chromosome inactivation in females result in distinctive sex-specific patterns in the distribution of DNA methylation levels. In this study, we present a software tool, sEst, which incorporates clustering analysis to infer sex and to detect sex-chromosome abnormalities from DNA methylation microarray data. Testing with two publicly available datasets demonstrated that sEst not only correctly inferred the sex of the test samples, but also identified mislabelled samples and samples with potential sex-chromosome abnormalities, such as Klinefelter syndrome and Turner syndrome, the latter being a feature not offered by existing methods. Considering that sex and the sex-chromosome abnormalities can have large effects on many phenotypes, including diseases, our method can make a significant contribution to DNA methylation studies that are based on microarray platforms.
+  authors: [Chol-Hee Jung, Daniel J. Park, Peter Georgeson, Khalid Mahmood, Roger L. Milne, Melissa C. Southey, Bernard J. Pope]
+  date: 15 October 2018  
+  doi: 10.3390/ijms19103172   
+  issue: 10 
+  journal: International Journal of Molecular Sciences
+  keywords: "DNA methylation, sex information, sex-chromosome abnormalities, epigenetics"
+  pmid: 
+  title: "sEst: Accurate Sex-Estimation and Abnormality Detection in Methylation Microarray Data"
+  type: Journal Article
+  url: http://dx.doi.org/10.3390/ijms19103172 
+  volume: 19
+  year: '2018'
+
+- abstract: |
      <p>Background</p><p>Breast cancer risk for BRCA1 and BRCA2 pathogenic mutation carriers is modified by risk factors that cluster in families, including genetic modifiers of risk. We considered genetic modifiers of risk for carriers of high-risk mutations in other breast cancer susceptibility genes.</p><p>Methods</p><p>In a family known to carry the high-risk mutation PALB2:c.3113G>A (p.Trp1038*), whole-exome sequencing was performed on germline DNA from four affected women, three of whom were mutation carriers.</p><p>Results</p><p>RNASEL:p.Glu265* was identified in one of the PALB2 carriers who had two primary invasive breast cancer diagnoses before 50 years. Gene-panel testing of BRCA1, BRCA2, PALB2 and RNASEL in the Australian Breast Cancer Family Registry identified five carriers of RNASEL:p.Glu265* in 591 early onset breast cancer cases. Three of the five women (60%) carrying RNASEL:p.Glu265* also carried a pathogenic mutation in a breast cancer susceptibility gene compared with 30 carriers of pathogenic mutations in the 586 non-carriers of RNASEL:p.Glu265* (5%) (p < 0.002). Taqman genotyping demonstrated that the allele frequency of RNASEL:p.Glu265* was similar in affected and unaffected Australian women, consistent with other populations.</p><p>Conclusion</p><p>Our study suggests that RNASEL:p.Glu265* may be a genetic modifier of risk for early-onset breast cancer predisposition in carriers of high-risk mutations. Much larger case-case and case-control studies are warranted to test the association observed in this report.</p>
   authors: [Tú Nguyen-Dumont, Zhi L. Teo, Fleur Hammet, Alexis Roberge, Maryam Mahmoodi, Helen Tsimiklis, Daniel J. Park, Bernard J. Pope, Andrew Lonie, Miroslav K. Kapuscinski, Khalid Mahmood, ABCFR, David E. Goldgar, Graham G. Giles, Ingrid Winship, John L. Hopper, Melissa C. Southey]
   date: 8 February 2018  
