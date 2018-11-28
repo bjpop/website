@@ -21,8 +21,12 @@ present:
       date: May 2018 onwards
 
     - name: Medha Suman
-      description: PhD student, I am a member of her PhD Committee. Medha is supervised by Prof Melissa Southey, Dr Eric Joo and Dr Tu Nguyen-Dumont
+      description: PhD student, I am a member of Medha's PhD Committee. Medha is supervised by Prof Melissa Southey, Dr Eric Joo and Dr Tu Nguyen-Dumont
       date: November 2016 onwards
+
+    - name: Jared Burke  
+      description: PhD student, I am a member of Jared's PhD Committee. Jared is supervised by Prof Melissa Southey and Dr Tu Nguyen-Dumont
+      date: August 2018 onwards
 
 past:
     - name: James Chan
