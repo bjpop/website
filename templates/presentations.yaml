@@ -1,3 +1,15 @@
+- title: "Classifying DNA mismatch repair variant pathogenicity using protein structure and function predictions" 
+  event: Monash University Bioinformatics Platform 
+  authors: [B. Pope]
+  date: 27 March 2019
+  kind: Oral presentation 
+
+- title: "Predictors of class: using protein structure and function information to predict and understand mismatch repair variant pathogenicity"
+  event: "International Society for Gastrointestinal Hereditary Tumours (InSiGHT), Auckland, New Zealand"
+  authors: [B. Pope, D. Ascher, D. Pires, M. Silk, P. Georgeson, K. Mahmood, JP. Plazzer, E. Holinski-Feder, M. Genuardi, F. Macrae, D. Buchanan]
+  date: 21 March 2019
+  kind: Oral presentation 
+
 - title: Best Practices in Bioinformatics Software Development 
   event: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference, Melbourne, Australia"
   authors: [B. Pope, A. Syme, D. Cameron]
