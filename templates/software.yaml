@@ -1,4 +1,12 @@
 -
+    name: Bionitio 
+    summary: Bionitio provides a template for command line bioinformatics tools in various programming languages, and automates the creation of new software repositories following best practices.
+    repository: https://github.com/bionitio-team/bionitio 
+    description: |
+        <p>The purpose of Bionitio is to provide an easy-to-understand working example that is built on best-practice software engineering principles. It can be used as a basis for learning and as a solid foundation for starting new projects. We provide a script called bionitio-boot.sh for starting new projects from bionitio, which saves time and ensures good programming practices are adopted from the beginning</p>
+    publication: 
+
+-
     name: UNDR ROVER  
     summary: A fast and accurate variant caller for targeted DNA sequencing. 
     repository: https://github.com/bjpop/undr_rover
