@@ -21,5 +21,5 @@ setup(
     license='LICENSE',
     description=('Generate my personal website'),
     long_description=(LONG_DESCRIPTION),
-    install_requires=["jinja2==2.9.6", "pyyaml"],
+    install_requires=["jinja2>=2.10.1", "pyyaml"],
 )
