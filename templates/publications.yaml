@@ -13,6 +13,21 @@
   volume: 8 
   year: '2019'
 
+- abstract: |
+        <p>BACKGROUND: Muir-Torre syndrome is defined by the development of sebaceous skin lesions in individuals who carry a germline mismatch repair (MMR) gene mutation. Loss of expression of MMR proteins is frequently observed in sebaceous skin lesions, but MMR-deficiency alone is not diagnostic for carrying a germline MMR gene mutation.</p><p> METHODS: Whole exome sequencing was performed on three MMR-deficient sebaceous lesions from individuals with MSH2 gene mutations (Lynch syndrome) and three MMR-proficient sebaceous lesions from individuals without Lynch syndrome with the aim of characterizing the tumor mutational signatures, somatic mutation burden, and microsatellite instability status. Thirty predefined somatic mutational signatures were calculated for each lesion.</p><p> RESULTS: Signature 1 was ubiquitous across the six lesions tested. Signatures 6 and 15, associated with defective DNA MMR, were significantly more prevalent in the MMR-deficient lesions from the MSH2 carriers compared with the MMR-proficient non-Lynch sebaceous lesions (mean ± SD=41.0 ± 8.2% vs. 2.3 ± 4.0%, p = 0.0018). Tumor mutation burden was, on average, significantly higher in the MMR-deficient lesions compared with the MMR-proficient lesions (23.3 ± 11.4 vs. 1.8 ± 0.8 mutations/Mb, p = 0.03). All four sebaceous lesions observed in sun exposed areas of the body demonstrated signature 7 related to ultraviolet light exposure.</p><p> CONCLUSION: Tumor mutational signatures 6 and 15 and somatic mutation burden were effective in differentiating Lynch-related from non-Lynch sebaceous lesions.</p>
+  authors: [Georgeson P, Walsh MD, Clendenning M, Daneshvar S, Pope BJ, Mahmood K, Joo JE, Jayasekara H, Jenkins M, Winship IM, Buchanan DD]
+  date: 4 June 2019  
+  doi: 10.1002/mgg3.781  
+  issue: 7 
+  journal: "Molecular Genetics & Genomic Medicine"
+  keywords: "Lynch syndrome; Muir-Torre syndrome; mismatch repair deficiency; mismatch repair immunohistochemistry; sebaceoma; sebaceous adenoma; sebaceous carcinoma"
+  pmid: 31162827
+  title: "Tumor mutational signatures in sebaceous skin lesions from individuals with Lynch syndrome" 
+  type: Journal Article
+  url: https://doi.org/
+  volume: 7  
+  year: '2019'
+
 - abstract: "We have previously reported Hi-Plex, a multiplex PCR methodology for building targeted DNA sequencing libraries that offers a low-cost protocol compatible with high-throughput processing. Here, we detail an improved protocol, Hi-Plex2, that more effectively enables the robust construction of small-to-medium panel-size libraries while maintaining low cost, simplicity and accuracy benefits of the Hi-Plex platform. Hi-Plex2 was applied to three panels, comprising 291, 740 and 1193 amplicons, targeting genes associated with risk for breast and/or colon cancer. We show substantial reduction of off-target amplification to enable library construction for small-to-medium-sized design panels not possible using the previous Hi-Plex chemistry."
   authors: [Fleur Hammet, Khalid Mahmood, Thomas R Green, Tu Nguyen-Dumont, Melissa C Southey, Daniel D Buchanan, Andrew Lonie, Katherine L Nathanson, Fergus J Couch, Bernard J Pope, Daniel J Park]
   date: 4 July 2019 
