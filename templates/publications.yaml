@@ -1,4 +1,19 @@
 - abstract: |
+     <p>The advent of gene panel testing is challenging the previous practice of using clinically defined cancer family syndromes to inform single-gene genetic screening. Individual and family cancer histories that would have previously indicated testing of a single gene or a small number of related genes are now, increasingly, leading to screening across gene panels that contain larger numbers of genes. We have applied a gene panel test that included four DNA mismatch repair (MMR) genes (MLH1, MSH2, MSH6 and PMS2) to an Australian population-based case–control-family study of breast cancer. Altogether, eight pathogenic variants in MMR genes were identified: six in 1421 case-families (0.4%, 4 MSH6 and 2 PMS2) and two in 833 control-families (0.2%, one each of MLH1 and MSH2). This testing highlights the current and future challenges for clinical genetics in the context of anticipated gene panel-based population-based screening that includes the MMR genes. This test-ing is likely to provide additional opportunities for cancer prevention via cascade testing for Lynch syndrome and precision medicine for breast cancer treatment.</p>
+  authors: [Tu Nguyen‑Dumont, Jason A. Steen, Ingrid Winship, Daniel J. Park, Bernard J. Pope, Fleur Hammet, Maryam Mahmoodi, Helen Tsimiklis, Derrick Theys, Mark Clendenning, Graham G. Giles,John L. Hopper, Melissa C. Southey]
+  date: 14 February 2020  
+  doi: 10.1007/s10689-020-00164-7  
+  issue: 
+  journal: Familial Cancer  
+  keywords: 
+  pmid:  
+  title: "Mismatch repair gene pathogenic germline variants in a population-based cohort of breast cancer" 
+  type: Journal Article
+  url: https://doi.org/10.1007/s10689-020-00164-7  
+  volume: 
+  year: '2020'
+
+- abstract: |
         <p>Background. Bioinformatics software tools are often created ad hoc, frequently by people without extensive training in software development. In particular, for beginners, the barrier to entry in bioinformatics software development is high, especially if they want to adopt good programming practices. Even experienced developers do not always follow best practices. This results in the proliferation of poorer-quality bioinformatics software, leading to limited scalability and inefficient use of resources; lack of reproducibility, usability, adaptability, and interoperability; and erroneous or inaccurate results.</p><p>Findings. We have developed Bionitio, a tool that automates the process of starting new bioinformatics software projects following recommended best practices. With a single command, the user can create a new well-structured project in 1 of 12 programming languages. The resulting software is functional, carrying out a prototypical bioinformatics task, and thus serves as both a working example and a template for building new tools. Key features include command-line argument parsing, error handling, progress logging, defined exit status values, a test suite, a version number, standardized building and packaging, user documentation, code documentation, a standard open source software license, software revision control, and containerization.</p><p>Conclusions. Bionitio serves as a learning aid for beginner-to-intermediate bioinformatics programmers and provides an excellent starting point for new projects. This helps developers adopt good programming practices from the beginning of a project and encourages high-quality tools to be developed more rapidly. This also benefits users because tools are more easily installed and consistent in their usage. Bionitio is released as open source software under the MIT License and is available at <a href="https://github.com/bionitio-team/bionitio">https://github.com/bionitio-team/bionitio</a></p>
   authors: [Peter Georgeson, Anna Syme, Clare Sloggett, Jessica Chung, Harriet Dashnow, Michael Milton, Andrew Lonsdale, David Powell, Torsten Seemann, Bernard Pope]
   date: 23 September 2019  
