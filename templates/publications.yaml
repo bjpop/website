@@ -1,4 +1,19 @@
 - abstract: |
+        <p>Few genetic risk factors have been demonstrated to be specifically associated with aggressive prostate cancer (PrCa). Here, we report a case-case study of PrCa comparing the prevalence of germline pathogenic/likely pathogenic (P/LP) genetic variants in 787 men with aggressive disease and 769 with non-aggressive disease. Overall, we observed P/LP variants in 11.4% of men with aggressive PrCa and 9.8% of men with non-aggressive PrCa (two-tailed Fisher's exact tests, P = 0.28). The proportion of BRCA2 and ATM P/LP variant carriers in men with aggressive PrCa exceeded that observed in men with non-aggressive PrCa; 18/787 carriers (2.3%) and 4/769 carriers (0.5%), P = 0.004, and 14/787 carriers (0.02%) and 5/769 carriers (0.01%), P = 0.06, respectively. Our findings contribute to the extensive international effort to interpret the genetic variation identified in genes included on gene-panel tests, for which there is currently an insufficient evidence-base for clinical translation in the context of PrCa risk.</p>
+  authors: [Nguyen-Dumont T, MacInnis R J, Steen J A, Theys D, Tsimiklis H, Hammet F, Mahmoodi M, Pope B J, Park D J, Mahmood K, Severi G, Bolton D, Milne R L, Giles G G, Southey M C]
+  date: 27 April 2020
+  doi: 10.1002/ijc.33024 
+  issue: 
+  journal: International Journal of Cancer  
+  keywords: aggressive prostate cancer; gene panel testing; germline genetic variants  
+  pmid: 32338768  
+  title: "Rare germline genetic variants and risk of aggressive prostate cancer"  
+  type: Journal Article
+  url: https://doi.org/10.1002/ijc.33024
+  volume: 
+  year: '2020'
+
+- abstract: |
      <p>The advent of gene panel testing is challenging the previous practice of using clinically defined cancer family syndromes to inform single-gene genetic screening. Individual and family cancer histories that would have previously indicated testing of a single gene or a small number of related genes are now, increasingly, leading to screening across gene panels that contain larger numbers of genes. We have applied a gene panel test that included four DNA mismatch repair (MMR) genes (MLH1, MSH2, MSH6 and PMS2) to an Australian population-based case–control-family study of breast cancer. Altogether, eight pathogenic variants in MMR genes were identified: six in 1421 case-families (0.4%, 4 MSH6 and 2 PMS2) and two in 833 control-families (0.2%, one each of MLH1 and MSH2). This testing highlights the current and future challenges for clinical genetics in the context of anticipated gene panel-based population-based screening that includes the MMR genes. This test-ing is likely to provide additional opportunities for cancer prevention via cascade testing for Lynch syndrome and precision medicine for breast cancer treatment.</p>
   authors: [Tu Nguyen‑Dumont, Jason A. Steen, Ingrid Winship, Daniel J. Park, Bernard J. Pope, Fleur Hammet, Maryam Mahmoodi, Helen Tsimiklis, Derrick Theys, Mark Clendenning, Graham G. Giles,John L. Hopper, Melissa C. Southey]
   date: 14 February 2020  
