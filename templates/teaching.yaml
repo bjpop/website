@@ -1,4 +1,22 @@
 -
+  name: Programming 
+  institution: The University of Melbourne 
+  level: Masters (in Business Analytics)
+  role: Lecturer 
+  topics: Introduction to Python programming, algorithms and problem solving
+  periods:
+    - Semester 1 2020 (85 students)
+
+-
+  name: Computational Genomics
+  institution: The University of Melbourne 
+  level: Masters
+  role: Guest Lecturer 
+  topics: Bioinformatics, High-Throughput DNA sequencing, Systems Biology, Pathogenomics, Bioinformatics Databases, RNA Sequencing, Natural Language Processing, Structure Modelling and Visualisation, Protein Prediction, Cancer Genomics, and Clinical Genomics 
+  periods:
+    - Semester 1 2020 (61 students, invited lecturer)
+
+-
   name: Elements of Bioinformatics 
   institution: The University of Melbourne 
   level: Masters
@@ -10,6 +28,7 @@
     - Semester 1 2018 (29 students, invited lecturer)
     - Semester 1 2019 (39 students, invited lecturer)
     - Semester 1 2020 (44 students, invited lecturer)
+
 -
   name: Introduction to Business Problems 
   institution: The University of Melbourne 
