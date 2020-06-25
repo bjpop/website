@@ -188,7 +188,8 @@ class Template(object):
     def add_content(self, name, template_dir, yaml_filename, transform=identity):
         contents_path = os.path.join(template_dir, yaml_filename)
         with open(contents_path) as contents_file:
-            yaml_contents = yaml.load(contents_file)
+            # yaml_contents = yaml.load(contents_file)
+            yaml_contents = yaml.load(contents_file, Loader=yaml.FullLoader)
             self.contents[name] = transform(yaml_contents)
         return self
 

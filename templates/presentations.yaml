@@ -1,3 +1,14 @@
+- title: "Hatching a plot on the command line"
+  event: "Melbourne Bioinformatics Lab Presentation"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 5 June, 2020
+  kind: Oral presentation
+  media:
+     - url: assets/files/hatch.pdf 
+       title: Slides 
+
 - title: "Bionitio - building better bioinformatics tools (with batteries included)"  
   event: <a href="https://www.youtube.com/watch?v=AgpcWiFylGE">Australian BioCommons webinar</a>
   authors: [B. Pope]

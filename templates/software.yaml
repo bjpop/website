@@ -1,4 +1,11 @@
 -
+    name: hatch 
+    summary: Hatch is a command line program for plotting tabular data (CSV, TSV files). 
+    repository: https://github.com/bjpop/hatch
+    description: |
+       <p>Hatch provides a convenient yet featureful way to plot tabular data from the command line. It supports numerous plot types including: histograms, distribution plots, scatter plots, line plots, heatmaps, count plots (bar plots), principal component analysis (PCA) plots.</p>
+
+-
     name: Bionitio 
     summary: Bionitio provides a template for command line bioinformatics tools in various programming languages, and automates the creation of new software repositories following best practices.
     repository: https://github.com/bionitio-team/bionitio 
