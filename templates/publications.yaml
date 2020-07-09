@@ -1,4 +1,19 @@
 - abstract: |
+      <p>The identification of metabolites plays an important role in understanding drug efficacy and safety however these compounds are often difficult to identify in complex mixtures. One approach to identify drug metabolites involves utilising differentially isotopically labelled drug compounds to create unique isotopic signals that can be detected by liquid chromatography-mass spectrometry (LC-MS). User-friendly, efficient, computational tools that allow selective detection of these signals are lacking. We have developed an efficient open-source software tool called HiTIME (High-Resolution Twin-Ion Metabolite Extraction) which filters twin-ion signals in LC-MS data. The intensity of each data point in the input is replaced by a Z-score describing how well the point matches an idealised twin-ion signal versus alternative ion signatures. Here we provide a detailed description of the algorithm and demonstrate its performance on simulated and experimental data.</p>
+  authors: [Michael G. Leeming, Andrew P. Isaac, Luke Zappia, Richard A. J. O'Hair, William A. Donald, Bernard J. Pope]
+  date: 8 July 2020 
+  doi: 10.1016/j.softx.2020.100559
+  issue:  
+  journal: SoftwareX
+  keywords: 
+  pmid: 
+  title: "HiTIME: An efficient model-selection approach for the detection of unknown drug metabolites in LC-MS data"
+  type: Journal Article
+  url: "https://doi.org/10.1016/j.softx.2020.100559"
+  volume: 12 
+  year: '2020'
+
+- abstract: |
         <p>Few genetic risk factors have been demonstrated to be specifically associated with aggressive prostate cancer (PrCa). Here, we report a case-case study of PrCa comparing the prevalence of germline pathogenic/likely pathogenic (P/LP) genetic variants in 787 men with aggressive disease and 769 with non-aggressive disease. Overall, we observed P/LP variants in 11.4% of men with aggressive PrCa and 9.8% of men with non-aggressive PrCa (two-tailed Fisher's exact tests, P = 0.28). The proportion of BRCA2 and ATM P/LP variant carriers in men with aggressive PrCa exceeded that observed in men with non-aggressive PrCa; 18/787 carriers (2.3%) and 4/769 carriers (0.5%), P = 0.004, and 14/787 carriers (0.02%) and 5/769 carriers (0.01%), P = 0.06, respectively. Our findings contribute to the extensive international effort to interpret the genetic variation identified in genes included on gene-panel tests, for which there is currently an insufficient evidence-base for clinical translation in the context of PrCa risk.</p>
   authors: [Nguyen-Dumont T, MacInnis R J, Steen J A, Theys D, Tsimiklis H, Hammet F, Mahmoodi M, Pope B J, Park D J, Mahmood K, Severi G, Bolton D, Milne R L, Giles G G, Southey M C]
   date: 27 April 2020
