@@ -9,6 +9,12 @@
      - url: assets/files/hatch.pdf 
        title: Slides 
 
+- title: "Detection of ctDNA in patients with clinically localised prostate cancer portends rapid disease recurrence" 
+  event: BJU International  
+  authors: [F Reeves, B Pope, E Lau, T Costello, H Crowe, M Ross, D Mcbride, S Mangiola, C Hovens, N Corcoran] 
+  date: 1 March 2020  
+  kind: Poster
+
 - title: "Bionitio - building better bioinformatics tools (with batteries included)"  
   event: <a href="https://www.youtube.com/watch?v=AgpcWiFylGE">Australian BioCommons webinar</a>
   authors: [B. Pope]
@@ -39,6 +45,13 @@
   date: 30 November 2018
   kind: Workshop 
 
+- title: Frequency of BRCA1 and BRCA2 Germline Variants in Women With Ovarian Cancer in Malaysia 
+  event: World Cancer Congress 
+  authors: [J Lim, SY Lau, NS Ahmad Bashah, KN Lai, WX Wen, SN Hasan, DJ Park, BJ Pope, T Nguyen-Dumont, MC Southey, N Rahman, YL Woo, MK Thong, GS Ch'ng, SH Teo, SY Yoon, MaGiC Investigators]
+  date: 1-4 October 2018
+  location: Kuala Lumpur 
+  kind: Conference presentation 
+
 - title: Whole Genome Sequencing as a Broader Diagnostic Tool for Lynch Syndrome
   event: "Familial Aspects of Cancer: Research and Practice, Kingscliff, NSW"
   authors: [B. Pope, M. Clendenning, K. Mahmood, P. Georgeson, C. Rosty, A. Spurdle, J. Hopper, M Jenkins, F Macrae, I Winship, D. Buchanan]
@@ -55,6 +68,13 @@
   media:
      - url: assets/files/hitime.parallel.pdf 
        title: Slides 
+
+- title: "Reduced familial fertility in carriers of mutations in the BRCA1 and BRCA2 genes"
+  event: 51st European Society of Human Genetics Conference
+  authors: [H Akopyan, N Kitsera, A Siekierzynska, T Nguyen-Dumont, F Hammet, H Tsimiklis, DJ Park, BJ Pope, MC Southey, D Blonioarz, A Myszka]
+  date: June 16–19, 2018
+  location: Fiera Milano Congressi, Milan Italy
+  kind: Conference paper
 
 - title: "Using genomics for better detection and treatment of Lynch Syndrome"
   event: "Eastern Gynaecological and Obstetrical Society, Annual Partners Dinner"
