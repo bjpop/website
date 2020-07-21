@@ -1,9 +1,20 @@
+- title: "Building better bioinformatics tools with batteries included"
+  event: "Bioinformatics Community Conference 2020 (online, international)"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 20 June 2020 
+  kind: Oral presentation
+  media:
+     - url: assets/files/bionitio_bcc_2020_slides.pdf
+       title: Slides 
+
 - title: "Hatching a plot on the command line"
   event: "Melbourne Bioinformatics Lab Presentation"
   location: Melbourne, Australia 
   authors:
     - Bernard Pope
-  date: 5 June, 2020
+  date: 5 June 2020
   kind: Oral presentation
   media:
      - url: assets/files/hatch.pdf 
