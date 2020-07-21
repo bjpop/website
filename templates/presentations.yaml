@@ -1,4 +1,13 @@
-- title: "Building better bioinformatics tools with batteries included"
+- title: "Bionitio: building better bioinformatics tools with batteries included (workshop)"
+  event: "Bioinformatics Community Conference 2020 (online, international)"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+    - Anna Syme
+  date: 18 June 2020 
+  kind: Workshop 
+
+- title: "Bionitio: Building better bioinformatics tools with batteries included (talk)"
   event: "Bioinformatics Community Conference 2020 (online, international)"
   location: Melbourne, Australia 
   authors:
