@@ -1,4 +1,20 @@
 - abstract: |
+        <p>Purpose</p><p>To characterize the spectrum of BRCA1 and BRCA2 pathogenic germline variants in women from south-west Poland and west Ukraine affected with breast or ovarian cancer. Testing in women at high risk of breast and ovarian cancer in these regions is currently mainly limited to founder mutations.</p><p>Methods</p><p>Unrelated women affected with breast and/or ovarian cancer from Poland (n = 337) and Ukraine (n = 123) were screened by targeted sequencing. Excluded from targeted sequencing were 34 Polish women who had previously been identified as carrying a founder mutation in BRCA1. No prior testing had been conducted among the Ukrainian women. Thus, this study screened BRCA1 and BRCA2 in the germline DNA of 426 women in total.</p><p>Results</p><p>We identified 31 and 18 women as carriers of pathogenic/likely pathogenic (P/LP) genetic variants in BRCA1 and BRCA2, respectively. We observed five BRCA1 and eight BRCA2 P/LP variants (13/337, 3.9%) in the Polish women. Combined with the 34/337 (10.1%) founder variants identified prior to this study, the overall P/LP variant frequency in the Polish women was thus 14% (47/337). Among the Ukrainian women, 16/123 (13%) women were identified as carrying a founder mutation and 20/123 (16.3%) were found to carry non-founder P/LP variants (10 in BRCA1 and 10 in BRCA2).</p><p>Conclusions</p><p>These results indicate that genetic testing in women at high risk of breast and ovarian cancer in Poland and Ukraine should not be limited to founder mutations. Extended testing will enhance risk stratification and management for these women and their families.</p>
+  authors: [Tu Nguyen-Dumont, Pawel Karpinski Maria M. Sasiadek, Hayane Akopyan, Jason A. Steen, Derrick Theys, Fleur Hammet, Helen Tsimiklis, Daniel J. Park, Bernard J. Pope, Ryszard Slezak, Agnieszka Stembalska, Karolina Pesz, Nataliya Kitsera, Aleksandra Siekierzynska, Melissa C. Southey, Aleksander Myszka]
+  date: 10 August 2020  
+  doi: 10.1017/S0016672320000075  
+  issue:  
+  journal: Genetics Research
+  keywords: 
+  pmid: 
+  title: "Genetic testing in Poland and Ukraine: should comprehensive germline testing of BRCA1 and BRCA2 be recommended for women with breast and ovarian cancer?" 
+  type: Journal Article
+  url: "https://doi.org/10.1017/S0016672320000075"
+  volume: 102
+  year: '2020'
+
+
+- abstract: |
       <p>The identification of metabolites plays an important role in understanding drug efficacy and safety however these compounds are often difficult to identify in complex mixtures. One approach to identify drug metabolites involves utilising differentially isotopically labelled drug compounds to create unique isotopic signals that can be detected by liquid chromatography-mass spectrometry (LC-MS). User-friendly, efficient, computational tools that allow selective detection of these signals are lacking. We have developed an efficient open-source software tool called HiTIME (High-Resolution Twin-Ion Metabolite Extraction) which filters twin-ion signals in LC-MS data. The intensity of each data point in the input is replaced by a Z-score describing how well the point matches an idealised twin-ion signal versus alternative ion signatures. Here we provide a detailed description of the algorithm and demonstrate its performance on simulated and experimental data.</p>
   authors: [Michael G. Leeming, Andrew P. Isaac, Luke Zappia, Richard A. J. O'Hair, William A. Donald, Bernard J. Pope]
   date: 8 July 2020 
