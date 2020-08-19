@@ -1,3 +1,11 @@
+- title: "Building a data analytics workstation computer"
+  event: "Melbourne Bioinformatics Lab Presentation"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 14 August 2020
+  kind: Oral presentation
+
 - title: "Bionitio: building better bioinformatics tools with batteries included (workshop)"
   event: "Bioinformatics Community Conference 2020 (online, international)"
   location: Melbourne, Australia 
