@@ -2,18 +2,9 @@ name: Bernie Pope
 position: Computer scientist and bioinformatician
 photo: assets/img/bernie_pope_bw.jpg
 overview: |
-    <p>I am an Associate Professor at <a href="https://www.unimelb.edu.au/">The University of Melbourne</a>. My research focuses on applying computational techniques to biological questions, especially related to <a href="https://www.melbournebioinformatics.org.au/project/human-genomics/">Human Genomics and Cancer</a>. In addition to research, I am enthusiastic about education and have extensive experience teaching at the university level.</p>
+    <p>I am an Associate Professor at <a href="https://www.unimelb.edu.au/">The University of Melbourne</a>. My research focuses on applying computational techniques to biological questions, especially related to Human Genomics and Cancer. In addition to research, I am enthusiastic about education and have extensive experience teaching at the university level.</p>
 career: |
-    <p>After completing a <a href="assets/files/BerniePope.PhD.Thesis.pdf">Computer Science PhD</a> in Programming Languages, I undertook an internship at Microsoft Research in Cambridge, before returning to a lecturing position at the University of Melbourne. In 2010 I joined the newly-formed VLSCI (now Melbourne Bioinformatics), a $100M project to build a world-leading centre for bioinformatics and computational biology.</p><p>During my time at Melbourne Bioinformatics I have led a team of bioinformaticians in Cancer and Clinical Genomics, and have contributed to a wide variety of research projects.</p><p>In 2017 I was awarded a Victorian Health and Medical Research Fellowship, funded by the Victorian Government, supporting my work on the prevention and treatment of colorectal cancer, in close collaboration with the <a href="http://www.buchananlab.org/">Colorectal Oncogenomics Group</a> at The University of Melbourne, headed by Assoc. Prof. Daniel Buchanan.</p>
-projects:
-   - High risk genes for lobular breast cancer, with Prof. Melissa Southey.
-   - PCR optimised sequencing for DNA-based diagnosis and discovery, leading to the development of the <a href="www.hiplex.org">Hi-Plex targeted sequencing platform</a>, with Assoc. Prof. Daniel Park.
-   - "Twin ion mass spectrometry signal detection, with Prof. Richard O'Hair."
-   - "Structure and function prediction of the human proteome, with Assoc. Prof. Aaron Jex." 
-   - The Pan Prostate Genomics Consortium, with Prof. Chris Hovens.
-   - '<a href="https://www.melbournegenomics.org.au/">The Melbourne Genomics Health Alliance</a>: I led a team of bioinformaticians and software developers building a clinical-grade genomics analysis platform and variant curation database, and co-chaired the Bioinformatics Reference Group.'
-   - '<a href="https://www.australiangenomics.org.au/">The Australian Genomics Health Alliance</a>.'
-   - Expanding diagnostic approaches for Lynch syndrome, with Assoc. Prof. Daniel Buchanan.
+    <p>After completing a <a href="assets/files/BerniePope.PhD.Thesis.pdf">Computer Science PhD</a> in Programming Languages, I undertook an internship at Microsoft Research in Cambridge, before returning to a lecturing position at the University of Melbourne. In 2010 I joined the newly-formed VLSCI (now Melbourne Bioinformatics), a $100M project to build a world-leading centre for bioinformatics and computational biology.</p><p>During my time at Melbourne Bioinformatics I have led a team of bioinformaticians in Cancer and Clinical Genomics, and have contributed to a wide variety of research projects.</p><p>In 2017 I was awarded a Victorian Health and Medical Research Fellowship, funded by the Department of Health and Human Services in the Victorian Government.</p>
 affiliations:
   - 'Lead Bioinformatician: Cancer Genomics and Clinical Genomics, <a href="https://www.melbournebioinformatics.org.au/">Melbourne Bioinformatics</a>, The University of Melbourne, Australia'
   - <a href="http://www.biomedvic.org.au/fellowships/">Victorian Health and Medical Research Fellow</a> 
