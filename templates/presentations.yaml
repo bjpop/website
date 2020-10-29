@@ -1,3 +1,31 @@
+- title: "Detection of ctDNA in Plasma of Patients with Clinically Localised Prostate Cancer is Associated with Rapid Disease Progression"
+  event: "Victorian Cancer Bionformatics Symposium, 2020"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+    - Edmund Lau
+    - Patrick McCoy
+    - Fairleigh Reeves
+    - Ken Chow
+    - Michael Clarkson
+    - Edmund M. Kwan
+    - Kate Packwood
+    - Helen Northen
+    - Miao He
+    - Zoya Kingsbury
+    - David J McBride
+    - Mark T Ross
+    - Stefano Mangiola
+    - Michael Kerger
+    - Marc Furrer
+    - Helen Crowe
+    - Anthony Costello
+    - Bernard Pope
+    - Christopher M. Hovens
+    - Niall M. Corcoran
+  date: 28 October 2020
+  kind: Poster 
+
 - title: "Building a data analytics workstation computer"
   event: "Melbourne Bioinformatics Lab Presentation"
   location: Melbourne, Australia 
@@ -8,7 +36,7 @@
 
 - title: "Bionitio: building better bioinformatics tools with batteries included (workshop)"
   event: "Bioinformatics Community Conference 2020 (online, international)"
-  location: Melbourne, Australia 
+  location: online, international 
   authors:
     - Bernard Pope
     - Anna Syme
@@ -17,7 +45,7 @@
 
 - title: "Bionitio: Building better bioinformatics tools with batteries included (talk)"
   event: "Bioinformatics Community Conference 2020 (online, international)"
-  location: Melbourne, Australia 
+  location: online, internationl 
   authors:
     - Bernard Pope
   date: 20 June 2020 
