@@ -1,3 +1,14 @@
+- title: "Hatching a plot on the command line (part 2)"
+  event: "Melbourne Bioinformatics Lab Presentation"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 30 October 2020
+  kind: Oral presentation
+  media:
+     - url: assets/files/hatch2.pdf 
+       title: Slides 
+
 - title: "Detection of ctDNA in Plasma of Patients with Clinically Localised Prostate Cancer is Associated with Rapid Disease Progression"
   event: "Victorian Cancer Bionformatics Symposium, 2020"
   location: Melbourne, Australia 
