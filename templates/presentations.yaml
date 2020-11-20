@@ -1,3 +1,11 @@
+- title: "Somatic variant calling in whole genome sequencing, opportunities, challenges and solutions"
+  event: "Monash Partners Comprehensive Cancer Consortium, Tech Talks series"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 20 November 2020
+  kind: Oral presentation
+
 - title: "Hatching a plot on the command line (part 2)"
   event: "Melbourne Bioinformatics Lab Presentation"
   location: Melbourne, Australia 
