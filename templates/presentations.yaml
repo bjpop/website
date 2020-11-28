@@ -1,3 +1,11 @@
+- title: "Best practices for bioinformatics command-line software with Bionitio" 
+  event: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
+  location: Sydney, Australia 
+  authors:
+    - Bernard Pope
+  date: 24 November 2020
+  kind: Oral presentation (online, asynchronous talk)
+
 - title: "Somatic variant calling in whole genome sequencing, opportunities, challenges and solutions"
   event: "Monash Partners Comprehensive Cancer Consortium, Tech Talks series"
   location: Melbourne, Australia 
