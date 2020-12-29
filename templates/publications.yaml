@@ -1,3 +1,18 @@
+- abstract: |
+        <p>People who develop mismatch repair (MMR) deficient cancer in the absence of a germline MMR gene pathogenic variant or somatic hypermethylation of the MLH1 gene promoter are classified as having suspected Lynch syndrome (SLS). Germline whole genome sequencing (WGS) and targeted and genome-wide tumor sequencing was applied to identify the underlying cause of tumor MMR-deficiency in SLS. Germline WGS was performed on 14 cancer-affected people with SLS, including two sets of first-degree relatives. Germline pathogenic variants, including complex structural rearrangements and non-coding variants, were assessed for the MMR genes. Tumor tissue was sequenced for somatic MMR gene mutations by targeted, whole exome sequencing (WES) or WGS. Germline WGS identified pathogenic MMR variants in 3 of the 14 (21.4%) SLS cases including a 9.5Mb inversion disrupting MSH2 in a mother and daughter. Excluding these 3 MMR carriers, tumor sequencing identified at least two somatic MMR gene mutations in 8/11 (72.7%) tumors tested. In a second mother-daughter pair, a somatic cause of their tumor MMR-deficiency was supported by the presence of double somatic MSH2 mutations in their respective tumors. More than 70% of SLS were resolved as having double somatic MMR mutations in the absence of germline pathogenic variants in the MMR or other DNA repair-related genes as determine by WGS and, therefore, confidently assigned a non-inherited cause for their tumor MMR-deficiency.</p>
+  authors: [Bernard J. Pope, Mark Clendenning, Christophe Rosty, Khalid Mahmood, Peter Georgeson, Jihoon E. Joo, Romy Walker, Ryan A. Hutchinson, Harindra Jayasekara, Sharelle Joseland, Julia Como, Susan Preston, Amanda B. Spurdle, Finlay A. Macrae, Aung K. Win, John L. Hopper, Mark A. Jenkins, Ingrid M. Winship, Daniel D. Buchanan]
+  date: 28 December 2020 
+  doi: 10.1016/j.jmoldx.2020.12.003 
+  issue:  
+  journal: The Journal of Molecular Diagnostics 
+  keywords: "Lynch syndrome; Suspected Lynch syndrome; Whole Genome Sequencing; Mismatch Repair Deficiency; double somatic mutations; colorectal cancer"
+  pmid: 
+  title: Germline and Tumor Sequencing as a Diagnostic Tool to Resolve Suspected Lynch Syndrome  
+  type: Journal Article
+  url: "https://doi.org/10.1016/j.jmoldx.2020.12.003" 
+  volume: 
+  year: '2020'
+
 - abstract:
   authors: [Fadwa A Elsayed, Judith E Grolleman, Abiramy Ragunathan, Arnoud Boot, Marija Staninova Stojovska, Khalid Mahmood, Mark Clendenning, Noel de Miranda, Dagmara Dymerska, Demi van Egmond, Steven Gallinger, Peter Georgeson, Nicoline Hoogerbrugge, John L. Hopper, Erik A.M. Jansen, Mark A. Jenkins, Jihoon E. Joo, Roland P. Kuiper, Marjolijn J.L. Ligtenberg, Jan Lubinski, Finlay A. Macrae, Hans Morreau, Polly Newcomb, Maartje Nielsen, Claire Palles, Daniel J. Park, Bernard J. Pope, Christophe Rosty, Clara Ruiz Ponte, Hans K. Schackert, Rolf H. Sijmons, Ian P. Tomlinson, Carli M. J. Tops, Lilian Vreede, Romy Walker, Aung K. Win, Colon Cancer Family Registry Cohort Investigators, Aleksandar J. Dimovski, Ingrid M. Winship, Daniel D Buchanan, Tom van Wezel, Richarda M de Voer]
   date: 26 August 2020 
