@@ -15,28 +15,21 @@
   <div class="card my-5">
     <h4 class="card-header">{{ project.name }}</h4>
       <div class="card-body">
-         <table class="table">
-           <tbody>
-             <tr>
-               <th scope="row">Summary</th>
-               <td>{{ project.summary}}</td>
-             </tr>
-             <tr>
-               <th scope="row">Repository</th>
-               <td><a href="{{ project.repository }}">{{ project.repository }}</a></td>
-             </tr>
-             <tr>
-               <th scope="row">Description</th>
-               <td>{{ project.description }}</td>
-             </tr>
+         <dl class="row">
+	     <dt class="col-sm-2">Summary</dt>
+             <dd class="col-sm-10">{{ project.summary }}</dd>
+
+	     <dt class="col-sm-2">Repository</dt>
+             <dd class="col-sm-10"><a href="{{ project.repository }}">{{ project.repository }}</a></dd>
+
+	     <dt class="col-sm-2">Description</dt>
+             <dd class="col-sm-10">{{ project.description }}</dd>
+
 	     {% if project.publication %}
-             <tr>
-               <th scope="row">Publication</th>
-               <td>{{ project.publication }}</td>
-             </tr>
+	     <dt class="col-sm-2">Publication</dt>
+             <dd class="col-sm-10">{{ project.publication }}</dd>
 	     {% endif %}
-           </tbody>
-         </table>
+         </dl>
       </div>
   </div>
 {% endfor %}
