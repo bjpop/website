@@ -14,28 +14,15 @@
   </div>
 </div>
 
-<div class="row">
+<h3 class="my-3">Overview</h3>
+{{ contents.overview }} 
 
-  <div class="col-8">
-    <h3 class="my-3">Overview</h5>
-    {{ contents.overview }} 
-    <h3 class="my-3">Affiliations</h3>
-      <ul>
-        {% for item in contents.affiliations %}
-          <li>{{ item }}</li>
-        {% endfor %}
-      </ul>
-  </div>
-
-  <div class="col-4">
-    <h3 class="my-3">Key research areas</h3>
-      <ul>
-        {% for item in contents.research %}
-          <li>{{ item }}</li>
-        {% endfor %}
-      </ul>
-  </div>
-</div>
+<h3 class="my-3">Affiliations</h3>
+   <ul>
+      {% for item in contents.affiliations %}
+         <li>{{ item }}</li>
+      {% endfor %}
+   </ul>
 
 <h3 class="my-3">News</span></h3>
 
