@@ -12,7 +12,14 @@
 
 {{ contents.career }}
 
-<h3 class="my-3">Affiliations</h3>
+<h3 class="my-3">Roles</h3>
+  <ul>
+    {% for item in contents.roles %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+<h3 class="my-3">Other Affiliations</h3>
   <ul>
     {% for item in contents.affiliations %}
       <li>{{ item }}</li>

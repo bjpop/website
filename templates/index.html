@@ -17,14 +17,21 @@
 <h3 class="my-3">Overview</h3>
 {{ contents.overview }} 
 
-<h3 class="my-3">Affiliations</h3>
+<h4 class="my-3">Roles</h4>
+   <ul>
+      {% for item in contents.roles %}
+         <li>{{ item }}</li>
+      {% endfor %}
+   </ul>
+
+<h4 class="my-3">Other Affiliations</h4>
    <ul>
       {% for item in contents.affiliations %}
          <li>{{ item }}</li>
       {% endfor %}
    </ul>
 
-<h3 class="my-3">News</span></h3>
+<h4 class="my-3">News</span></h4>
 
 <div class="card-deck my-3">
 
