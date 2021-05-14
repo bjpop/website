@@ -1,3 +1,11 @@
+- title: "Genome Sequencing in Meningiomas that have undergone pathological progression"
+  event: "Melbourne Bioinformatics Lab Presentation"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 14 May 2021 
+  kind: Oral presentation
+
 - title: "Best practices for bioinformatics command-line software with Bionitio" 
   event: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
   location: Sydney, Australia 
