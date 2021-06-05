@@ -12,9 +12,10 @@
   institution: The University of Melbourne 
   level: Masters
   role: Guest Lecturer 
-  topics: Bioinformatics, High-Throughput DNA sequencing, Systems Biology, Pathogenomics, Bioinformatics Databases, RNA Sequencing, Natural Language Processing, Structure Modelling and Visualisation, Protein Prediction, Cancer Genomics, and Clinical Genomics 
+  topics: Bioinformatics, High-Throughput DNA sequencing, Systems Biology, Pathogenomics, Bioinformatics Databases, RNA Sequencing, Natural Language Processing, Structure Modelling and Visualisation, Protein Prediction, Cancer Genomics, and Clinical Genomics, Computing
   periods:
     - Semester 1 2020 (61 students, invited lecturer)
+    - Semester 1 2021 (86 students, invited lecturer)
 
 -
   name: Elements of Bioinformatics 
@@ -40,6 +41,7 @@
     - Semester 1 2018 (60 students)
     - Semester 1 2019 (54 students)
     - Semester 1 2020 (86 students)
+    - Semester 1 2021 (61 students)
 
 -
   name: Foundations of Computing 
