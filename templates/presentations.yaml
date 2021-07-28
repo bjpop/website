@@ -1,3 +1,14 @@
+- title: "Detecting circulating tumour DNA in localized prostate cancer"
+  event: "University of Melbourne Centre for Cancer Research (UMCCR) seminar series"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 28 July 2021  
+  kind: Oral presentation
+  abstract: |
+    Circulating tumour DNA (ctDNA) has many uses in cancer research and treatment. These include early detection of cancer, identification of cancer recurrence, determination of treatment resistance mechanisms, monitoring of tumour evolution, identification of therapy targets and monitoring treatment response. A distinct benefit of ctDNA is that it involves a relatively non-invasive tissue collection procedure – “liquid bioposies” – compared to tumour tissue sampling. In prostate cancer ctDNA has established prognostic use in metastatic disease, where a high abundance of tumour DNA in the blood stream favours detection. However, localized prostate cancer yields comparatively far lower amounts of ctDNA, and has therefore proven difficult to detect with existing methods. In this seminar we will present our recent work into the application of highly sensitive methods for detecting ctDNA in localized prostate cancer, and show that although ctDNA is uncommonly detected in this context, its presence portends more rapidly progressive disease.
+
+
 - title: "Research Computing Services Usage"
   event: "Research Computing Services Cultural Working Group, series on researchers who use RCS"
   location: Melbourne, Australia 
