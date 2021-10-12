@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block title %}Fun{% endblock %}
+{% set active_page = "fun" %}
+{% block content %}
+{{ super () }}
+
+<h1 class="display-4 my-5">Javacript Turtle Graphics</h1>
+
+<div id="wrap">
+    <div id="leftcolumn">
+            <h4>Language Reference</h4>
+<code>forward(distance)
+right(angle)
+left(angle)
+goto(x,y)
+clear()
+penup()
+pendown()
+reset()
+angle(angle)
+width(width)
+shape(shape)
+colour(r,g,b,a)
+write(string)
+n = random(low,high)
+hideTurtle()
+showTurtle()
+redrawOnMove(bool)
+draw()
+repeat(n, action)
+wrap(bool)
+animate(action,ms)
+</code>
+         </div> <!-- leftcolumn -->
+         <div id="midcolumn">
+            <h4>Canvas</h4>
+            <canvas id="turtlecanvas" width="300" height="300"></canvas>
+            <canvas id="imagecanvas" width="300" height="300" style="display:none"></canvas>
+            <h4>Command</h4>
+               <input type="text" id="command" />
+	    <br/>
+	    <button id="resetButton">Reset</button>
+
+         </div> <!-- midcolumn -->
+         <div id="rightcolumn">
+            <h4>Definitions</h4>
+        <textarea id="definitions" rows="30">
+// Define helper functions here.
+// For example:
+
+function square(side) {
+   repeat(4, function () {
+      forward(side);
+      right(90);
+   });
+}
+
+// Try running "demo()" as a Command
+
+function demo() {
+   hideTurtle();
+   colour(0,0,255,1);
+   for(s = 100; s > 0; s -= 10) {
+      square(s);
+      right(36);
+   }
+}
+        </textarea>
+    </div> <!-- rightcolumn -->
+</div> <!-- wrap-->
+
+<link rel="stylesheet" href="assets/css/turtle.css">
+<script type="text/javascript" src="assets/js/turtle.js"></script>
+
+{% endblock %}

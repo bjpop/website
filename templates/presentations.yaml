@@ -1,3 +1,12 @@
+- title: "Human Genomes Platform Project: A flagship project within Australian BioCommons’ Human Genome Informatics Initiative"
+  event: "eResearch Australiasia 2021 Conference, BoF: The current state and future potential of Australian research platforms"
+  location: Online 
+  authors:
+    - Bernard Pope
+    - Jessica Holliday
+  date: 12 October 2021  
+  kind: Oral presentation
+
 - title: "Detecting circulating tumour DNA in localized prostate cancer"
   event: "University of Melbourne Centre for Cancer Research (UMCCR) seminar series"
   location: Melbourne, Australia 
@@ -610,7 +619,7 @@
 - title: A Computational Model for Retinal Ganglion Cell Axon Pathfinding  
   event: Association for Research in Vision and Opthamology 2012 Annual Meeting  
   location: Florida, USA 
-  authors: [A Turpin, G Goodhill, B Pope]
+  authors: [A Turpin, Jonathan Denniss, B Pope]
   date: May 2012  
   kind: Poster 
 
