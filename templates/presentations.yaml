@@ -1,11 +1,13 @@
-- title: "Human Genomes Platform Project: A flagship project within Australian BioCommons’ Human Genome Informatics Initiative"
-  event: "eResearch Australiasia 2021 Conference, BoF: The current state and future potential of Australian research platforms"
-  location: Online 
+- title: "Hatching a plot (and more) on the command line (part 3)"
+  event: "Melbourne Bioinformatics Lab Presentation"
+  location: Melbourne, Australia 
   authors:
     - Bernard Pope
-    - Jessica Holliday
-  date: 12 October 2021  
+  date: 15 October 2021
   kind: Oral presentation
+  media:
+     - url: assets/files/hatch3.pdf 
+       title: Slides 
 
 - title: "Detecting circulating tumour DNA in localized prostate cancer"
   event: "University of Melbourne Centre for Cancer Research (UMCCR) seminar series"
