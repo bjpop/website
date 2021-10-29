@@ -1,3 +1,14 @@
+- title: "Hatching a plot (and more) on the command line"
+  event: "Bioinformaticians' Shed"
+  location: Melbourne, Australia 
+  authors:
+    - Bernard Pope
+  date: 28 October 2021
+  kind: Oral presentation
+  media:
+     - url: assets/files/hatch_bioinformatics_shed_2021.pdf
+       title: Slides 
+
 - title: "Hatching a plot (and more) on the command line (part 3)"
   event: "Melbourne Bioinformatics Lab Presentation"
   location: Melbourne, Australia 
