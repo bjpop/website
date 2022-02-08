@@ -1,3 +1,14 @@
+- title: "Human genomic data sharing and analysis"
+  event: "NCI-Fujitsu HPC, Cloud and Data Futures Workshop"
+  location: Canberra, Australia 
+  authors:
+    - Bernard Pope
+  date: 8 February 2022
+  kind: Oral presentation
+  media:
+     - url: assets/files/nci_hpc_cloud_interop.pdf
+       title: Slides 
+
 - title: "Hatching a plot (and more) on the command line"
   event: "Bioinformaticians' Shed"
   location: Melbourne, Australia 
@@ -19,6 +30,26 @@
   media:
      - url: assets/files/hatch3.pdf 
        title: Slides 
+
+- title: "Human Genomes Platform Project: A flagship project within Australian BioCommons' Human Genome Informatics Initiative"
+  event: "eResearch Australasia"
+  location: national, online 
+  authors:
+    - Bernard Pope
+    - Jess Holliday
+  date: 11 October 2021
+  kind: Oral presentation
+
+- title: "Human genomics data sharing: are we FAIR yet?"
+  event: "Australian BioCommons Showcase 2021"
+  location: online, national 
+  authors:
+    - Bernard Pope
+    - Mark Cowley
+    - John Scullen
+    - Peter Miekle
+  date: 5 October 2021
+  kind: Oral presentation
 
 - title: "Detecting circulating tumour DNA in localized prostate cancer"
   event: "University of Melbourne Centre for Cancer Research (UMCCR) seminar series"
@@ -45,6 +76,14 @@
   authors:
     - Bernard Pope
   date: 14 May 2021 
+  kind: Oral presentation
+
+- title: "Global technologies and standards for sharing human genomics research data"
+  event: "ARDC Project Exchange"
+  location: Online, national
+  authors:
+    - Bernard Pope
+  date: 4 March 2021 
   kind: Oral presentation
 
 - title: "Best practices for bioinformatics command-line software with Bionitio" 
