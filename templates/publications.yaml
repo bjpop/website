@@ -254,6 +254,37 @@
   year: '2019'
 
 - abstract: |
+  authors: [Akopyan H, Kitsera N, Siekierzynska A, Nguyen-Dumont T, Hammet F, Tsimiklis H, Park DJ, Pope BJ, Southey MC, Blonioarz D, Myszka A]
+  date: 1 Jul 2019 
+  doi: 
+  issue:  
+  journal: European Journal of Human Genetics 
+  keywords: Science & Technology, Life Sciences & Biomedicine, Biochemistry & Molecular Biology, Genetics & Heredity
+  pmid: 
+  title: Reduced familial fertility in carriers of mutations in the BRCA1 and BRCA2 genes  
+  type: Conference Proceedings 
+  url: 
+  volume: 27
+  year: 2019
+  other: 51st Conference of the European-Society-of-Human-Genetics (ESHG) in conjunction with the European Meeting on Psychosocial Aspects of Genetics (EMPAG), Milan, Italy
+
+- abstract: |
+      Background: Germline BRCA1 or BRCA2 pathogenic variants in ovarian cancer patients may be informative in risk management and treatment, with the advent of poly(ADP-ribose) polymerase inhibitors. In the era of precision medicine, companion diagnostics for BRCA1 and BRCA2 genes have been featured as a strategy in the Malaysia National Strategic Plan for Cancer Control Program (2016-2020). To facilitate this strategy, frequency data from Malaysia's understudied multiethnic population will be required. Aim: To determine the prevalence of BRCA1 and BRCA2 germline variants in a population-based cohort of ovarian cancer patients in Malaysia. Methods: From August 2016, women with nonmucinous epithelial ovarian, peritoneal or fallopian tube carcinoma are prospectively recruited to the Malaysia-wide population-based MaGiC Observational Study. DNA were tested using a Hi-Plex next generation sequencing method and multiplex ligation-dependent probe amplification to detect &lt; 10 bp alterations and exon deletions or duplications in the BRCA1 and BRCA2 genes. Results: Interim results from 325 patients tested until March 2018 have identified BRCA1 and BRCA2 pathogenic variants in 9.8% (32/325) and 3.1% (10/325) patients, respectively. Variants of uncertain significance were detected in 13.2% (43/325) patients and no pathogenic variants were detected in 73.8% (240/325) patients. Taken together, the frequency of BRCA1/2 pathogenic variants in ovarian cancer patients is approximately 12.9% (42/325). Conclusion: The identification of BRCA1 or BRCA2 carriers across the country have enabled the concentration of efforts from limited genetic counseling resources to high risk families. Results arising from the completion of this study will supplement cancer control programs and genetic services in Malaysia. 
+  authors: [Lim J, Lau SY, Bashah NS Ahmad, Lai KN, Wen WX; Hasan SN, Park DJ, Pope BJ, Nguyen-Dumont T, Southey MC, Rahman N, Woo YL, Thong MK, Ch'ng GS, Teo SH, Yoon SY]
+  date: 01 Oct 2018 
+  doi: 10.1200/jgo.18.50600 
+  issue: Supplement 2 
+  journal: Journal of Global Oncology 
+  keywords: 
+  pmid: 
+  title: Frequency of BRCA1 and BRCA2 Germline Variants in Women With Ovarian Cancer in Malaysia 
+  type: Conference Proceedings 
+  url: http://dx.doi.org/10.1200/jgo.18.50600 
+  volume: 4 
+  year: 2018 
+  other: 2018 World Cancer Congress 
+
+- abstract: |
     DNA methylation influences predisposition, development and prognosis for many diseases, including cancer. However, it is not uncommon to encounter samples with incorrect sex labelling or atypical sex chromosome arrangement. Sex is one of the strongest influencers of the genomic distribution of DNA methylation and, therefore, correct assignment of sex and filtering of abnormal samples are essential for the quality control of study data. Differences in sex chromosome copy numbers between sexes and X-chromosome inactivation in females result in distinctive sex-specific patterns in the distribution of DNA methylation levels. In this study, we present a software tool, sEst, which incorporates clustering analysis to infer sex and to detect sex-chromosome abnormalities from DNA methylation microarray data. Testing with two publicly available datasets demonstrated that sEst not only correctly inferred the sex of the test samples, but also identified mislabelled samples and samples with potential sex-chromosome abnormalities, such as Klinefelter syndrome and Turner syndrome, the latter being a feature not offered by existing methods. Considering that sex and the sex-chromosome abnormalities can have large effects on many phenotypes, including diseases, our method can make a significant contribution to DNA methylation studies that are based on microarray platforms.
   authors: [Chol-Hee Jung, Daniel J. Park, Peter Georgeson, Khalid Mahmood, Roger L. Milne, Melissa C. Southey, Bernard J. Pope]
   date: 15 October 2018  
@@ -315,6 +346,23 @@
   url: http://dx.doi.org/10.1007/978-1-4939-7514-3_5
   volume: 1712 
   year: '2018'
+
+
+- abstract: |
+  authors: [Buchanan DD, Clendenning M, Jayasekara H, Joo JE, Wong EM, Southey MC, Walters RJ, Pope BJ, Win AK, Hopper JL, Jenkins MA, Milne RL, Giles GG, English DR, Macrae FA, Spurdle AB, Winship IM, Rosty C]
+  date: 1 Jul 2017 
+  doi: 10.1158/1538-7445.AM2017-4266 
+  issue:
+  journal: Cancer Research
+  keywords: Science & Technology, Life Sciences & Biomedicine, Oncology
+  pages: 
+  pmid: 
+  title: Double somatic mutations as a cause of tumor mismatch repair-deficiency in population-based colorectal and endometrial cancer with Lynch-like syndrome  
+  type: Conference Proceedings 
+  url: http://dx.doi.org/10.1158/1538-7445.AM2017-4266 
+  volume: 77
+  year: 2017
+
 - abstract: |
    Background: Germline mutations in the exonuclease domains of the POLE and POLD1 genes are associated with an as yet unquantified increased risk of colorectal cancer (CRC). Methods: We identified families with POLE or POLD1 variants by searching PubMed for relevant studies prior to October 2016 and by genotyping 669 population-based CRC cases diagnosed <60 years of age from the Australasian Colorectal Cancer Family Registry. We estimated the age-specific cumulative risks (penetrance) using a modified segregation analysis. Results: We observed 67 CRCs (mean age at diagnosis=50.2 (standard deviation [SD]=13.8) years) among 364 first- and second- degree relatives from 41 POLE families and 6 CRCs (mean age at diagnosis=39.7 (SD=6.83) years) among 69 relatives from 9 POLD1 families. We estimated risks of CRC to age 70 years (95% confidence interval [CI]) for males and females, respectively, to be: 40%(26%–57%) and 32%(20%–47%) for POLE mutation carriers; and 63%(15%–99%) and 52%(11%–99%) for POLD1 mutation carriers. Conclusion: CRC risks for POLE mutation carriers are sufficiently high warranting consideration of annual colonoscopy screening and management guidelines comparable to Lynch syndrome. Refinement of estimates of CRC risk for POLD1 carriers is needed, however, clinical management recommendations could follow those suggested for POLE carriers.
   authors:
@@ -370,6 +418,7 @@
   url: http://dx.doi.org/10.1007/s10689-017-0050-6
   volume: 
   year: '2017'
+
 - abstract: |
     <p>Neural injury triggers swift responses from glia, including glial migration and phagocytic clearance of damaged neurons. The transcriptional programs governing these complex innate glial immune responses are still unclear. Here, we describe a novel injury assay in adult Drosophila that elicits widespread glial responses in the ventral nerve cord (VNC). We profiled injury-induced changes in VNC gene expression by RNA sequencing (RNA-seq) and found that responsive genes fall into diverse signaling classes. One factor, matrix metalloproteinase-1 (MMP-1), is induced in Drosophila ensheathing glia responding to severed axons. Interestingly, glial induction of MMP-1 requires the highly conserved engulfment receptor Draper, as well as AP-1 and STAT92E. In MMP-1 depleted flies, glia do not properly infiltrate neuropil regions after axotomy and, as a consequence, fail to clear degenerating axonal debris. This work identifies Draper-dependent activation of MMP-1 as a novel cascade required for proper glial clearance of severed axons.</p>
   authors:
@@ -1462,6 +1511,23 @@
   url: http://dx.doi.org/10.1016/j.ajhg.2012.02.027
   volume: '90'
   year: '2012'
+
+- abstract: 
+  authors: [Reumann M, Holt KE, Inouye M, Stinear T, Goudey B, Abraham G, WANG Q, Shi F, Kowalczyk A, Pearce A, Isaac A, Pope BJ, Butzkueven H, Wagner J, Moore S, Downton M, Church PC, Turner SJ, Field J, Southey M, Bowtell D, Schmidt D, Makalic E, Zobel J, Hopper J, Petrovski S, O'Brien T]
+  date: 6 Nov 2011 
+  doi: 
+  issue: 
+  journal: 
+  keywords: 
+  pages: 
+  pmid: 
+  title: "Precision Medicine: Dawn of Supercomputing in ‘omics Research"
+  type: 
+  url: 
+  volume: 
+  year: 2011 
+  other: Proceedings of the 5th eResearch Australasia Conference, Melbourne, Australia
+
 - abstract: Future multiscale and multiphysics models that support research into human
     disease, translational medical science, and treatment can utilize the power of
     high-performance computing (HPC) systems. We anticipate that computationally efficient
