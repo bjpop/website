@@ -1,9 +1,12 @@
 - title: "Establishing Gen3 to enable better human genome data sharing in Australia"
-  event: "Australian BioCommons Webinar"
+  event: <a href="https://youtu.be/1F6B03Byigk">Australian BioCommons webinar</a>
   location: online 
   authors: [Bernard Pope, Marie Wong-Erasmus, Kamile Taouk, Oliver Hofmann] 
   date: 17 February 2022
   kind: Oral presentation
+  media:
+    - url: https://zenodo.org/record/6233075#.YhWBR5NBw3Q
+      title: Slides
 
 - title: "Human genomic data sharing and analysis"
   event: "NCI-Fujitsu HPC, Cloud and Data Futures Workshop"
