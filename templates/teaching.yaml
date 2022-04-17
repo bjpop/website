@@ -1,13 +1,4 @@
 -
-  name: Programming 
-  institution: The University of Melbourne 
-  level: Masters (in Business Analytics)
-  role: Lecturer 
-  topics: Introduction to Python programming, algorithms and problem solving
-  periods:
-    - Semester 1 2020 (85 students)
-
--
   name: Computational Genomics
   institution: The University of Melbourne 
   level: Masters
@@ -33,8 +24,8 @@
 
 -
   name: Introduction to Business Problems 
-  institution: The University of Melbourne 
-  level: Masters (in Business Analytics)
+  institution: The University of Melbourne, Melbourne Business School
+  level: Master of Business Analytics 
   role: Invited Lecturer 
   topics: Introduction to Python programming
   periods:
@@ -43,6 +34,16 @@
     - Semester 1 2019 (54 students)
     - Semester 1 2020 (86 students)
     - Semester 1 2021 (61 students)
+    - Semester 1 2022 (65 students)
+
+-
+  name: Programming 
+  institution: The University of Melbourne, Melbourne Business School
+  level: Master of Business Analytics 
+  role: Lecturer 
+  topics: Introduction to Python programming, algorithms and problem solving
+  periods:
+    - Semester 1 2020 (85 students)
 
 -
   name: Foundations of Computing 
