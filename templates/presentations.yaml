@@ -6,6 +6,9 @@
   kind: Poster 
   abstract: |
     <p>The Human Genomes Platforms Project (HGPP) aims to leverage best practice technologies and global standards to accelerate FAIR human genomics data sharing in Australia. Involving Australia’s human genomics research leaders, along with national computing infrastructure partners, the HGPP will break down silos and facilitate the deployment of much needed genomic data sharing infrastructure throughout Australia. The main project themes are: virtual cohort assembly; data access committee automation; federated identity and access management; data and metadata archiving; and documentation and training. Each has strong parallels with existing and developing ELIXIR themes, platforms and communities including the federated human data community, interoperability, REMS, AAI and training. We are also investigating emerging GA4GH standards including Beacon v2 and Passports. Here we introduce the HGPP, describe our achievements to date, outline our upcoming plans for the project and how they align with the ELIXIR programme.</p>
+  media:
+    - url: https://doi.org/10.7490/f1000research.1118989.1  
+      title: Poster 
 
 - title: "Lessons learnt (so far) in building a human genomics data commons"
   event: "Enabling Openness in Australian Stem Cell Research (EOAR) seminar"
