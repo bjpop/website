@@ -1,14 +1,14 @@
 present:
 
-    - name: Lucy Yuan  
-      description: Masters of Science (Bioinformatics) student 
-      date: July 2020 onwards 
-
     - name: Peter Georgeson
       description: PhD student, co-supervised with A/Prof Dan Buchanan 
       date: March 2018 onwards
 
 past:
+    - name: Lucy Yuan  
+      description: Masters of Science (Bioinformatics) student 
+      date: July 2020 - July 2022 
+
     - name: Jiayu Wang
       description: Masters of Science (Bioinformatics) student 
       date: July 2020 - December 2021 
