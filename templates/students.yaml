@@ -1,5 +1,9 @@
 present:
 
+    - name: Cathy Huang 
+      description: Masters of Science (Bioinformatics) student 
+      date: July 2022 onwards 
+
     - name: Peter Georgeson
       description: PhD student, co-supervised with A/Prof Dan Buchanan 
       date: March 2018 onwards
