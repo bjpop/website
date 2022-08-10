@@ -6,11 +6,13 @@
        <p>Varlap is primarily a quality control tool for genetic variants arising from high throughput DNA sequencing, where the variants have been called by aligning DNA sequencing reads to a reference genome. It takes as input a set of DNA variants and one or more BAM files. Varlap considers the genomic locus of each variant in each of the supplied BAM files and records information about the corresponding alignment context at that locus. For example, one of the metrics it calculates is the average edit distance of reads overlapping the variant locus. This can be a useful metric because regions with significantly higher average edit distance are more likely to contain erroneous variant calls. Varlap outputs a CSV file containing one row per input variant, with columns recording the various computed metrics about that variant. Subsequent analysis of this output (such as outlier detection) can be used to identify potentially problematic variants and samples.</p><p>Common use cases are to consider somatic variants in the context of tumour and normal alignments, or germline variants against normal alignments. However, varlap is quite flexible and allows the use of any number of BAM files as input.</p>
 
 -
-    name: hatch 
-    summary: Hatch is a command line program for plotting and analysis of tabular data (CSV, TSV files). 
-    repository: https://github.com/bjpop/hatch
+    name: Gurita 
+    summary: Gurita is a command line program for plotting, transforming and analysing tabular data (CSV, TSV files). 
+    repository: https://github.com/bjpop/gurita
     description: |
-       <p>Hatch provides a convenient yet featureful way to plot tabular data from the command line. It supports numerous plot types including: histograms, distribution plots, scatter plots, line plots, heatmaps, count plots (bar plots), principal component analysis (PCA) plots.</p>
+       <p>At its core Gurita provides a suite of commands, each of which carries out a common data analytics or plotting task. Additionally, Gurita allows commands to be chained together into flexible analysis pipelines.</p><p>It is designed to be fast and convenient, and is particularly suited to data exploration tasks. Input files with large numbers of rows (> millions) are readily supported.</p><p>Gurita commands are highly customisable, however sensible defaults are applied. Therefore simple tasks are easy to express and complex tasks are possible.</p>
+
+
 
 -
     name: Bionitio 
