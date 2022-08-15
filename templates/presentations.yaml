@@ -1,3 +1,14 @@
+- title: "How Python works"
+  event: "Melbourne Bioinformatics Lab Presentation"
+  location: Melbourne, Australia
+  authors:
+    - Bernard Pope
+  date: 12 August 2022
+  kind: Oral presentation
+  media:
+    - url: assets/files/how_python_works_2022.pdf
+      title: slides 
+
 - title: "Human Genomes Platform Project: DAC Automation Discovery Phase Report"
   event: Human Genomes Platform Project 
   location: Australia 
