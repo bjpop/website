@@ -1,4 +1,12 @@
 -
+  name: Algorithms for Bioinformatics 
+  institution: The University of Melbourne 
+  level: Masters
+  role: Guest Lecturer 
+  topics: Sequence alignment (dynamic algorithms and seed-and-extend), genome assembly, variant detection, phylogenetic reconstruction, genomic intervals, complexity and correctness of algorithms, clustering and classification of genomics data, data reduction and visualisation. 
+  periods:
+    - Semester 2 2022 (62 students, invited lecturer)
+-
   name: Computational Genomics
   institution: The University of Melbourne 
   level: Masters
