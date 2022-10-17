@@ -1,3 +1,17 @@
+- title: "Harmonised PPCG Clinical Data"
+  event: "Pan Prostate Cancer Group Annual Meeting"
+  location: Camogli, Italy 
+  authors: [Bernard Pope, Chris Hovens, Anis Hamid, Niall Corcoran]
+  date: 11 October 2022
+  kind: Oral presentation
+
+- title: "Detecting circulating tumour DNA in localised prostate cancer"
+  event: "Pan Prostate Cancer Group Annual Meeting"
+  location: Camogli, Italy 
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Chris Hovens, Niall Corcoran, Charlie Massie]
+  date: 11 October 2022
+  kind: Oral presentation
+
 - title: "How Python works"
   event: "Melbourne Bioinformatics Lab Presentation"
   location: Melbourne, Australia
