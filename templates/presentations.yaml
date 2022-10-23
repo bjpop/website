@@ -1,3 +1,25 @@
+- title: "Australian BioCommons" 
+  event: "Bioplatforms Australia 2022 All Hands Meeting"
+  location: Sydney, Australia 
+  authors: [Andrew Lonie, Jeff Christiansen, Tiff Nelson, Johan Gustafsson, Nigel Ward, Steven Manos, Bernard Pope, Christina Hall] 
+  date: 19 October 2022
+  kind: Oral presentation 
+
+- title: "Enhancing Australia’s capability for secure and responsible sharing of human genome research data: The Human Genomes Platform Project" 
+  event: "eResearch Australasia 2022 Conference"
+  location: Brisbane, Australia 
+  authors: [Marion Shadbolt, Tiffany Boughtwood, Jeff Christiansen, Joe Copty, Mark Cowley, Kylie Davies, Matthew Downton, Kelsey Druken, Ben Evans, Clara Gaff, Andrew Gilbert, Christina Hall, Oliver Hofmann, Jessica Holliday, Warren Kaplan, Ross Koufariotis, Sarah Kummerfeld, Conrad Leonard,  Angela Lin, Andrew Lonie, Heath Marks, Siobhann McCafferty, David Monro, Andrew Patterson, John Pearson,  Bernard Pope, Shyamsundar Ravishankar, Florian Reisinger, Andrew Robinson, Victor San Kho Lin, John Scullen, Mustafa Syed, Kamile Taouk, Andrew Treloar, Jingbo Wang, Marie Wong-Erasmus,  Scott Wood]
+  date: 19 October 2022
+  kind: Poster 
+  notes: Awarded best poster prize at eResearch Australasia 2022 Conference 
+
+- title: "Importance of requirements elicitation and analysis for successful projects: a case study from the Human Genomes Platform Project"
+  event: "eResearch Australasia 2022 Conference"
+  location: Brisbane, Australia 
+  authors: [Kylie Davies, Jessica Holliday, Bernard Pope]
+  date: 19 October 2022
+  kind: Oral presentation
+
 - title: "Harmonised PPCG Clinical Data"
   event: "Pan Prostate Cancer Group Annual Meeting"
   location: Camogli, Italy 
