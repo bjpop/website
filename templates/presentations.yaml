@@ -12,6 +12,9 @@
   date: 19 October 2022
   kind: Poster 
   notes: Awarded best poster prize at eResearch Australasia 2022 Conference 
+  media:
+    - url: https://doi.org/10.5281/zenodo.7242979 
+      title: poster 
 
 - title: "Importance of requirements elicitation and analysis for successful projects: a case study from the Human Genomes Platform Project"
   event: "eResearch Australasia 2022 Conference"
