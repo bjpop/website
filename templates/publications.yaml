@@ -1,4 +1,19 @@
 - abstract: |
+     Prostate cancer is one of the most heritable cancers. Hundreds of germline polymorphisms have been linked to prostate cancer diagnosis and prognosis. Polygenic risk scores can predict genetic risk of a prostate cancer diagnosis. While these scores inform on the probability of developing a tumor, it remains unknown how germline risk influences the tumor molecular evolution. We cultivated a cohort of 1,250 localized European-descent patients with germline and somatic DNA profiling. Men of European descent with higher genetic risk were diagnosed earlier, had less genomic instability, and fewer driver genes mutated. Higher genetic risk was associated with better outcome. These data imply a polygenic “two-hit” model where germline risk reduces the number of somatic alterations required for tumorigenesis. These findings support further clinical studies of PRS as inexpensive and minimally invasive adjuncts to standard risk stratification. Further studies are required to interrogate generalizability to more ancestrally and clinically diverse populations.
+  authors: [Kathleen E Houlahan, Julie Livingstone, Natalie S Fox, Natalie Kurganovs, Helen Zhu, Jocelyn Sietsma Penington, Chol-Hee Jung, Takafumi N Yamaguchi, Lawrence E Heisler, Richard Jovelin, Anthony J Costello, Bernard J Pope, Amar U Kishan, Niall M Corcoran, Robert G Bristow, Sebastian M Waszak, Joachim Weischenfeldt, Housheng H He, Rayjean J Hung, Christopher M Hovens, Paul C Boutros]
+  date: 5 January 2023   
+  doi: 10.1093/jnci/djad001  
+  issue:  
+  journal: Journal of the National Cancer Institute
+  keywords:  
+  pmid: 
+  title: A polygenic two-hit hypothesis for prostate cancer 
+  type: Journal Article
+  url: https://doi.org/10.1093/jnci/djad001
+  volume: 
+  year: '2023'
+
+- abstract: |
      Identifying tumor DNA mismatch repair deficiency (dMMR) is important for precision medicine. Tumor features, individually and in combination, derived from whole-exome sequenced (WES) colorectal cancers (CRCs) and panel sequenced CRCs, endometrial cancers (ECs) and sebaceous skin tumors (SSTs) were assessed for their accuracy in detecting dMMR. CRCs (n=300) with WES, where MMR status was determined by immunohistochemistry, were assessed for microsatellite instability (MSMuTect, MANTIS, MSIseq, MSISensor), COSMIC tumor mutational signatures (TMS) and somatic mutation counts. A 10-fold cross-validation approach (100 repeats) evaluated the dMMR prediction accuracy for 1) individual features, 2) Lasso statistical model and 3) an additive feature combination approach. Panel sequenced tumors (29 CRCs, 22 ECs, 20 SSTs) were assessed for the top performing dMMR predicting features/models using these three approaches. For WES CRCs, 10 features provided >80% dMMR prediction accuracy, with MSMuTect, MSIseq, and MANTIS achieving ≥99% accuracy. The Lasso model achieved 98.3%. The additive feature approach with ≥3/6 of MSMuTect, MANTIS, MSIseq, MSISensor, INDEL count or TMS ID2+ID7 achieved 99.7% accuracy. For the panel sequenced tumors, the additive feature combination approach of ≥3/6 achieved accuracies of 100%, 95.5% and 100%, for CRCs, ECs, and SSTs, respectively. The microsatellite instability calling tools performed well in WES CRCs, however, an approach combining tumor features may improve dMMR prediction in both WES and panel sequenced data across tissue types.
   authors: [Romy Walker, Peter Georgeson, Khalid Mahmood, Jihoon Joo, Enes Makalic, Mark Clendenning, Julia Como, Susan Preston, Sharelle Joseland, Bernard Pope, Ryan Hutchinson, Kais Kasem, Michael Walsh, Finlay Macrae, Aung Win, John Hopper, Dmitri Mouradov, Peter Gibbs, Oliver Sieber, Dylan  O'Sullivan, Darren Brenner, Steven Gallinger, Mark Jenkins, Christophe Rosty, Ingrid Winship, Daniel Buchanan]
   date: 15 November 2022  
