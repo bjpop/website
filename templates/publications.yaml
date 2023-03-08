@@ -1,4 +1,19 @@
 - abstract: |
+      <p>Background<p></p><p>A subset of meningiomas progress in histopathological grade but drivers of progression are poorly understood. We aimed to identify somatic mutations and copy number alterations (CNAs) associated with grade progression in a unique matched tumour dataset.</p><p>Methods</p><p> Utilising a prospective database, we identified 10 patients with meningiomas that had undergone grade progression and for whom matched pre- and post-progression tissue (n = 50 samples) was available for targeted next-generation sequencing.</p> <p>Results</p><p>Mutations in NF2 were identified in 4/10 patients, of these 94% were non-skull base tumours. In one patient, three different NF2 mutations were identified in four tumours. NF2 mutated tumours showed large-scale CNAs, with highly recurrent losses in 1p, 10, 22q, and frequent CNAs on chromosomes 2, 3 and 4. There was a correlation between grade and CNAs in two patients. Two patients with tumours without detected NF2 mutations showed a combination of loss and high gain on chromosome 17q. Mutations in SETD2, TP53, TERT promoter and NF2 were not uniform across recurrent tumours, however did not correspond with the onset of grade progression.</p><p>Conclusion</p><p>Meningiomas that progress in grade generally have a mutational profile already detectable in the pre-progressed tumour, suggesting an aggressive phenotype. CNA profiling shows frequent alterations in NF2 mutated tumours compared to non NF2 mutated tumours. The pattern of CNAs may be associated with grade progression in a subset of cases.</p>
+  authors: [Sarah A Cain, Bernard Pope, Stefano Mangiola, Theo Mantamadiotis, Katharine J Drummond] 
+  date: 7 March 2023  
+  doi: 10.1186/s12885-023-10624-9  
+  issue:  
+  journal: BMC Cancer
+  keywords: "Meningioma; Next generation sequencing; Anaplastic; Atypicall; Malignant"
+  pmid: 
+  title: Somatic mutation landscape in a cohort of meningiomas that have undergone grade progression  
+  type: Journal Article
+  url: https://doi.org/10.1186/s12885-023-10624-9 
+  volume: 23 
+  year: '2023'
+
+- abstract: |
      Prostate cancer is one of the most heritable cancers. Hundreds of germline polymorphisms have been linked to prostate cancer diagnosis and prognosis. Polygenic risk scores can predict genetic risk of a prostate cancer diagnosis. While these scores inform on the probability of developing a tumor, it remains unknown how germline risk influences the tumor molecular evolution. We cultivated a cohort of 1,250 localized European-descent patients with germline and somatic DNA profiling. Men of European descent with higher genetic risk were diagnosed earlier, had less genomic instability, and fewer driver genes mutated. Higher genetic risk was associated with better outcome. These data imply a polygenic “two-hit” model where germline risk reduces the number of somatic alterations required for tumorigenesis. These findings support further clinical studies of PRS as inexpensive and minimally invasive adjuncts to standard risk stratification. Further studies are required to interrogate generalizability to more ancestrally and clinically diverse populations.
   authors: [Kathleen E Houlahan, Julie Livingstone, Natalie S Fox, Natalie Kurganovs, Helen Zhu, Jocelyn Sietsma Penington, Chol-Hee Jung, Takafumi N Yamaguchi, Lawrence E Heisler, Richard Jovelin, Anthony J Costello, Bernard J Pope, Amar U Kishan, Niall M Corcoran, Robert G Bristow, Sebastian M Waszak, Joachim Weischenfeldt, Housheng H He, Rayjean J Hung, Christopher M Hovens, Paul C Boutros]
   date: 5 January 2023   
