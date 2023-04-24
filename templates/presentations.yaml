@@ -1,3 +1,17 @@
+- title: "Harmonised PPCG Clinical Data"
+  event: "Pan Prostate Cancer Group Annual Meeting"
+  location: Madrid, Spain 
+  authors: [Bernard Pope, Chris Hovens, Anis Hamid, Niall Corcoran]
+  date: 20 April 2023
+  kind: Oral presentation
+
+- title: "Detecting circulating tumour DNA in localised prostate cancer"
+  event: "Pan Prostate Cancer Group Annual Meeting"
+  location: Madrid, Spain 
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, David Wedge, Rosalind Eeles, Daniel Brewer, Andy Lynch, Harveer Dev, Christopher Hovens, Vincent Gnanpragasam, Nitzan Rosenfeld, Niall Corcoran, Charles Massie]  
+  date: 20 April 2023 
+  kind: Oral presentation
+
 - title: "Ultra-sensitive detection of circulating tumour DNA enriches for patients with higher risk disease in clinically localised prostate cancer" 
   event: "AACR Special Conference: Advances in Prostate Cancer"
   location: Denver, Colorado, USA 
