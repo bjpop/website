@@ -1,4 +1,13 @@
 -
+  name: Coding For Business Problems 
+  institution: The University of Melbourne, Melbourne Business School
+  level: Masters
+  role: Lecturer and Coordinator
+  topics: Introduction to Python programming, algorithms, problem solving, computer science
+  periods:
+    - Semester 1 2023 (32 students)
+
+-
   name: Algorithms for Bioinformatics 
   institution: The University of Melbourne 
   level: Masters
