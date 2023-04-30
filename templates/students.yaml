@@ -12,11 +12,12 @@ present:
       description: Masters of Science (Bioinformatics) student 
       date: July 2022 onwards 
 
-    - name: Peter Georgeson
-      description: PhD student, co-supervised with A/Prof Dan Buchanan 
-      date: March 2018 onwards
 
 past:
+    - name: Peter Georgeson
+      description: PhD student, co-supervised with A/Prof Dan Buchanan 
+      date: Completed March 2023 
+
     - name: Lucy Yuan  
       description: Masters of Science (Bioinformatics) student 
       date: July 2020 - July 2022 
