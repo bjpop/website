@@ -503,6 +503,16 @@
   date: 6 July, 2017 
   kind: Oral presentation
 
+- title: "Equational Reasoning and Intended Semantics in Functional Programming" 
+  event: Computing and Information Systems Seminar, The University of Melbourne
+  location: Melbourne, Australia 
+  authors: [Lee Naish, Bernard Pope, Harald Søndergaard]
+  date: 27 August 2016 
+  kind: Oral presentation 
+  media:
+    - url: https://people.eng.unimelb.edu.au/lee/papers/semfp/talk.pdf 
+      title: PDF slides 
+
 - title: Fuzz testing with American Fuzzy Lop (AFL) 
   event: VASET Group, The University of Melbourne  
   location: Melbourne, Australia 
@@ -1034,6 +1044,16 @@
   authors: [Bernard Pope, Lee Naish]
   date: 13 - 15 September, 2001
   kind: Oral presentation 
+
+- title: "Monadic Parsing: A Case Study"
+  event: The University of Melbourne, Functional Programming, Honours Subject Assessment 
+  location: 
+  authors: [Bernard Pope, Simon Taylor and Mark Wielaard]
+  date: 1998  
+  kind: Report  
+  media:
+    - url: assets/files/monadic_parsing.pdf
+      title: Document 
 
 - title: Signal Transduction By The Bacterial Aspartate Receptor 
   event: Lorne Protein Conference 
