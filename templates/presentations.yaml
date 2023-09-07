@@ -1,3 +1,13 @@
+- title: "Australian BioCommons Human Genomes Platform Project flyer"  
+  event: "XXIII International Congress of Genetics"
+  location: Melbourne, Australia 
+  authors: [Marion Shadbolt, Jess Holliday, Christina Hall, Patrick Capon, Jeffrey Christiansen, Jeffrey, Bernard Pope]
+  date: 20 July 2023 
+  kind: Flyer 
+  media:
+    - url: https://doi.org/10.5281/zenodo.8313414  
+      title: flyer 
+
 - title: "Ultra-sensitive detection of circulating tumour DNA enriches for patients with higher risk disease in clinically localised prostate cancer" 
   event: "XXIII International Congress of Genetics"
   location: Melbourne, Australia 
