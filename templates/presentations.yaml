@@ -1,3 +1,11 @@
+- title: "Molecular Origins of Prostate Cancer Lethality" 
+  event: "5th annual RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges"  
+  location: UCLA, Los Angeles, California  
+  authors: [Takafumi Yamaguchi, Kathleen Houlahan, Helen Zhu, Natalie Kurganovs, Julie Livingstone, Natalie Fox, Jiapei Yuan, Jocelyn Penington, Chol-Hee Jung, Tommer Schwarz, Weerachai Jaratlerdsiri, Job van Riet, Peter Georgeson, Stefano Mangiola, Kodi Taraszka, Robert Lesurf, Jue Jiang, Ken Chow, Lawrence Heisler, Yu-Jia Shiah, Susmita Ramanand, Michael Clarkson, Anne Nguyen, Shadrielle Melijah Espiritu, Ryan Stuchbery, Richard Jovelin, Vincent Huang, Connor Bell, Edward O'Connor, Patrick McCoy, Christopher Lalansingh, Marek Cmero, Adriana Salcedo, Eva Chan, Lydia Liu, Phillip Stricker, Vinayak Bhandari, Riana Bornman, Dorota Sendorek, Andrew Lonie, Stephenie Prokopec, Michael Fraser, Justin Peters, Adrien Foucal, Shingai Mutambirwa, Lachlan Mcintosh, Michèle Orain, Matthew Wakefield, Valérie Picard, Daniel Park, Hélène Hovington, Michael Kerger, Alain Bergeron, Veronica Sabelnykova, Ji-Heui Seo, Mark Pomerantz, Noah Zaitlen, Sebastian Waszak, Alexander Gusev, Louis Lacom
+be, Yves Fradet, Andrew Ryan, Amar Kishan, Martijn Lokema, Joachim Weischenfeldt, Bernard Têtu, Anthony Costello, Vanessa Hayes, Rayjean Hung, Housheng He, John McPherson, Bogdan Pasaniuc, Theodorus van der Kwast, Anthony Papenfuss, Matthew Freedman, Bernard Pope, Robert Bristow, Ram Mani, Niall Corcoran, Jüri Reimand, Christopher Hovens, Paul Boutros]
+  date: 29 November 2023 
+  kind: Oral presentation
+
 - title: 'A tale of two tools: Varlap for assessment of variants in their alignment context, and Gurita for data analytics and plotting on the command line'
   event: "Monash Bioinformatics Seminar"
   location: Monash University, Clayton, Victoria 
