@@ -1,4 +1,13 @@
 -
+  name: Professional Development and Applications 
+  institution: The University of Melbourne, Melbourne Business School
+  level: Masters
+  role: Lecturer 
+  topics: Introduction to Python programming, algorithms, problem solving, computer science
+  periods:
+    - Semester 1 2023 (35 students)
+
+-
   name: Coding For Business Problems 
   institution: The University of Melbourne, Melbourne Business School
   level: Masters
@@ -15,6 +24,7 @@
   topics: Sequence alignment (dynamic algorithms and seed-and-extend), genome assembly, variant detection, phylogenetic reconstruction, genomic intervals, complexity and correctness of algorithms, clustering and classification of genomics data, data reduction and visualisation. 
   periods:
     - Semester 2 2022 (62 students, invited lecturer)
+
 -
   name: Computational Genomics
   institution: The University of Melbourne 
@@ -25,6 +35,7 @@
     - Semester 1 2020 (61 students, invited lecturer)
     - Semester 1 2021 (86 students, invited lecturer)
     - Semester 1 2022 (65 students, invited lecturer)
+    - Semester 1 2023 (invited lecturer)
 
 -
   name: Elements of Bioinformatics 
