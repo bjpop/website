@@ -201,7 +201,7 @@
   issue: 
   journal: npj Breast Cancer
   keywords: 
-  pmid: 
+  pmid: 34887416
   title: "Population-based estimates of breast cancer risk for carriers of pathogenic variants identified by gene-panel testing"
   type: Journal Article
   url: "https://doi.org/10.1038/s41523-021-00360-3"
@@ -1706,6 +1706,28 @@
   url: http://dx.doi.org/10.1016/j.ajhg.2012.02.027
   volume: '90'
   year: '2012'
+
+- abstract: |
+    Purpose: To investigate whether an algorithm for simulating human retinal ganglion cell (RGC) axon pathfinding during development that does not rely on a chemical gradient produces plausible axon paths.
+
+    Methods: A computational model of human RGC axon pathfinding was developed as follows. The algorithm assumes a lattice covering the retina that is populated with RGCs according to known average cell density for a healthy human retina (Curcio CA, Allen KA, J Comp Neurol, 1990: 300; 5-25). Each cell sends an axon growth cone out in "search mode" that locates a nearby axon. When an axon is located, the growth cone enters "bundle mode", and follows on top of the axon until a critical retinal thickness constraint is met. If there is no room to stack on top of the existing axon, the growth cone reverts to search mode, and finds either an unfilled blank location, or another axon to follow.Two restrictions on this basic algorithm prevent random axon pathways forming. Firstly, cells nearest the optic nerve head (ONH) develop first, so following an existing axon will take a new axon towards the ONH. Secondly, when in search mode, searching only happens within ±90 degrees of the current trajectory.The thickness constraint is mediated as a linear function beginning at zero at the fovea, and reaching a maximum of 60 axons at a distance of 3mm from the fovea. There is no thickness constraint outside of a radius of 3mm from the fovea.Output from the model was compared with a previous mathematical model of retinal nerve fibre bundles based on hand-drawn traces of human RGC axon pathways (Jansonius NM et al, Vis Res, 2009: 49; 2157-63).
+
+    Results: Allowing for a plus or minus 5 degree error in the entry point of the ONH, 60% of our generated paths in the superior retina fell within the 95% confidence limits given by Jansonius, and 17% inferiorly. Allowing for plus or minus 10 degrees: 83% superior; and 33% inferior. The presence of a chemical gradient was not necessary for such patterns to be produced. Generally our inferior pathways were straighter than those reported by Jansonius. A non-symmetrical thickness constraint may be required to increase the curvature of inferior axon pathways.
+
+    Conclusions: Local cues are sufficient to guide RGC axons across the retina to the ONH in the absence of a chemical gradient. This model does not exclude the existence of a gradient, or partial local gradients, but simply demonstrates that a gradient is not essential to support current empirical data.
+  authors: [Andrew Turpin, Bernard Pope, Jonathan Denniss]
+  date: March 2012 
+  doi:  
+  issue: 14
+  journal: Investigative Ophthalmology & Visual Science 
+  keywords: 
+  pages: 4919-4919 
+  pmid:  
+  title: A Computational Model for Retinal Ganglion Cell Axon Pathfinding 
+  type: Conference Abstract 
+  url: https://iovs.arvojournals.org/article.aspx?articleid=2358170 
+  volume: 53
+  year: 2012 
 
 - abstract: 
   authors: [Reumann M, Holt KE, Inouye M, Stinear T, Goudey B, Abraham G, WANG Q, Shi F, Kowalczyk A, Pearce A, Isaac A, Pope BJ, Butzkueven H, Wagner J, Moore S, Downton M, Church PC, Turner SJ, Field J, Southey M, Bowtell D, Schmidt D, Makalic E, Zobel J, Hopper J, Petrovski S, O'Brien T]
