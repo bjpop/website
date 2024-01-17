@@ -1,11 +1,12 @@
 -
-  name: Professional Development and Applications 
+  name: Professional Development and Application
   institution: The University of Melbourne, Melbourne Business School
   level: Masters
   role: Lecturer 
   topics: Introduction to Python programming, algorithms, problem solving, computer science
   periods:
     - Semester 1 2023 (35 students)
+    - Semester 1 2024 (69 students)
 
 -
   name: Coding For Business Problems 
@@ -35,7 +36,7 @@
     - Semester 1 2020 (61 students, invited lecturer)
     - Semester 1 2021 (86 students, invited lecturer)
     - Semester 1 2022 (65 students, invited lecturer)
-    - Semester 1 2023 (invited lecturer)
+    - Semester 1 2023 (87 students, invited lecturer)
 
 -
   name: Elements of Bioinformatics 
