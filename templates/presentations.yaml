@@ -1,3 +1,10 @@
+- title: "Human Genomics Uplift for Australia through Research Data Infrastructure At National Scale: an overview of the GUARDIANS project"  
+  event: SupercomputingAsia 2024 
+  location: Sydney, Australia 
+  authors: [Bernie Pope, Jess Holliday]  
+  date: 22 February 2024
+  kind: Oral presentation
+
 - title: "Migrating Pipelines to Nextflow with Janis"  
   event: ABACBS Conference 2023
   location: Brisbane, Australia 
