@@ -1,4 +1,19 @@
 - abstract: |
+    Background: Lipedema is a progressive condition involving excessive deposition of subcutaneous adipose tissue, predominantly in the lower limbs, which severely compromises quality of life. Despite the impact of lipedema, its molecular and genetic bases are poorly understood, making diagnosis and treatment difficult. Historical evaluation of individuals with lipedema indicates a positive family history in 60%-80% of cases; however, genetic investigation of larger family cohorts is required. Here, we report the largest family-based sequencing study to date, aimed at identifying genetic changes that contribute to lipedema. Methods and Results: DNA samples from 31 individuals from 9 lipedema families were analyzed to reveal genetic variants predicted to alter protein function, yielding candidate variants in 469 genes. We did not identify any individual genes that contained likely disease-causing variants across all participating families. However, gene ontology analysis highlighted vasopressin receptor activity, microfibril binding, and patched binding as statistically significantly overrepresented categories for the set of candidate variants. Conclusions: Our study suggests that lipedema is not caused by a single exomic genetic factor, providing support for the hypothesis of genetic heterogeneity in the etiology of lipedema. As the largest study of its kind in the lipedema field, the results advance our understanding of the disease and provide a roadmap for future research aimed at improving the lives of those affected by lipedema.
+  authors: [Steven Morgan, Isabella Reid, Charlotte Bendon, Musarat Ishaq, Ramin Shayan, Bernard Pope, Daniel Park, Tara Karnezis]  
+  date: 26 February 2024   
+  doi: 10.1089/lrb.2023.0065  
+  issue: 
+  journal: Lymphatic Research and Biology 
+  keywords: "family study; genetic risk; lipedema"
+  pmid: 38407896 
+  title: "A Family-Based Study of Inherited Genetic Risk in Lipedema"  
+  type: Journal Article
+  url: https://doi.org/10.1089/lrb.2023.0065
+  volume: 
+  year: '2024' 
+
+- abstract: |
     Circulating tumour DNA (ctDNA) has clinical applications as a “liquid biopsy” owing to its short half-life, noninvasive collection modalities, and propensity for sampling across populations of tumour cells. While successful ctDNA detection has been demonstrated in metastatic prostate cancer, localised disease yields low levels of ctDNA, making detection difficult using conventional methods.
 
     In this study, we assessed ctDNA detection in localised prostate cancer using the high-sensitivity integration of variant reads (INVAR) method and tested the hypothesis that the presence of ctDNA is associated with high-risk disease. Tumour information was used to create marker panels of patient-specific mutations that were used to identify ctDNA molecules in patient-matched plasma samples. After initial background error calculations and filtering steps, the detected ctDNA fraction was estimated as a global integrated mutant allele fraction (IMAF) using the background-subtracted mean allele fraction across the patient-specific loci in each sample. Patient-specific scores were compared to the threshold value for classification, which was calculated using data from control samples and set to 95% specificity.
