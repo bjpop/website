@@ -1,4 +1,19 @@
 - abstract: |
+     The development of cancer is an evolutionary process involving the sequential acquisition of genetic alterations that disrupt normal biological processes, enabling tumor cells to rapidly proliferate and eventually invade and metastasize to other tissues. We investigated the genomic evolution of prostate cancer through the application of three separate classification methods, each designed to investigate a different aspect of tumor evolution. Integrating the results revealed the existence of two distinct types of prostate cancer that arise from divergent evolutionary trajectories, designated as the Canonical and Alternative evolutionary disease types. We therefore propose the evotype model for prostate cancer evolution wherein Alternative-evotype tumors diverge from those of the Canonical-evotype through the stochastic accumulation of genetic alterations associated with disruptions to androgen receptor DNA binding. Our model unifies many previous molecular observations, providing a powerful new framework to investigate prostate cancer disease progression. 
+  authors: [Dan J Woodcock, Atef Sahli, Ruxandra Teslo, Vinayak Bhandari, Andreas J Gruber, Aleksandra Ziubroniewicz, Gunes Gundem, Yaobo Xu, Adam Butler, Ezequiel Anokian, Bernard J Pope, Chol-Hee Jung, Maxime Tarabichi, Stefan C Dentro, J Henry R Farmery, CRUK ICGC Prostate Group, Peter Van Loo, Anne Y Warren, Vincent Gnanapragasam, Freddie C Hamdy, G Steven Bova, Christopher S Foster, David E Neal , Yong-Jie Lu, Zsofia Kote-Jarai, Michael Fraser, Robert G Bristow, Paul C Boutros, Anthony J Costello,  Niall M Corcoran, Christopher M Hovens, Charlie E Massie, Andy G Lynch, Daniel S Brewer, Rosalind A Eeles, Colin S Cooper, David C Wedge] 
+  date: 29 February 2024 
+  doi: 10.1016/j.xgen.2024.100511  
+  issue: 
+  journal: Cell Genomics 
+  keywords: "AR binding; cancer evolution; evotype model; evotypes; ordering; prostate cancer" 
+  pmid: 38428419 
+  title: "Genomic evolution shapes prostate cancer disease type"
+  type: Journal Article
+  url: https://doi.org/10.1016/j.xgen.2024.100511
+  volume: 
+  year: '2024' 
+
+- abstract: |
     Background: Lipedema is a progressive condition involving excessive deposition of subcutaneous adipose tissue, predominantly in the lower limbs, which severely compromises quality of life. Despite the impact of lipedema, its molecular and genetic bases are poorly understood, making diagnosis and treatment difficult. Historical evaluation of individuals with lipedema indicates a positive family history in 60%-80% of cases; however, genetic investigation of larger family cohorts is required. Here, we report the largest family-based sequencing study to date, aimed at identifying genetic changes that contribute to lipedema. Methods and Results: DNA samples from 31 individuals from 9 lipedema families were analyzed to reveal genetic variants predicted to alter protein function, yielding candidate variants in 469 genes. We did not identify any individual genes that contained likely disease-causing variants across all participating families. However, gene ontology analysis highlighted vasopressin receptor activity, microfibril binding, and patched binding as statistically significantly overrepresented categories for the set of candidate variants. Conclusions: Our study suggests that lipedema is not caused by a single exomic genetic factor, providing support for the hypothesis of genetic heterogeneity in the etiology of lipedema. As the largest study of its kind in the lipedema field, the results advance our understanding of the disease and provide a roadmap for future research aimed at improving the lives of those affected by lipedema.
   authors: [Steven Morgan, Isabella Reid, Charlotte Bendon, Musarat Ishaq, Ramin Shayan, Bernard Pope, Daniel Park, Tara Karnezis]  
   date: 26 February 2024   
