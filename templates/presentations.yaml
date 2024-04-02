@@ -5,6 +5,46 @@
   date: 19 March 2024
   kind: Oral presentation
 
+- title: "Human Genomes Platform Project: Data Access Committee Management Systems Candidate Solutions Evaluation Report"
+  event: Human Genomes Platform Project  
+  location: Australia  
+  authors: [Carnuccio P, Cowley M, Davies K, Green C, Hobbs M, Holliday J, Kummerfeld S, Monro D, Patterson A, Pearson J, Pope B, Scullen J, Shadbolt M, Wong-Erasmus M, Wood S] 
+  date: 28 February 2024  
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10720100 
+      title: Report 
+
+- title: "Human Genomes Platform Project: Federated Identity and Access Management Candidate Solutions Evaluation Report"
+  event: Human Genomes Platform Project 
+  location: Australia 
+  authors: [Carnuccio P, Cowley M, Davies K, Downton M, Dumevska B, Holliday J, Green C, Hobbs M, Kummerfeld S, Lin A, Monro D, Patterson A, Pope B, Ravishankar S, Robinson A, Scullen J, Shadbolt M, Syed M, Wood S, Wong-Erasmus M]  
+  date: 28 February 2024 
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10719896  
+      title: Report 
+
+- title: "Human Genomes Platform Project: Virtual Cohort Assembly Pilot Phase Report"  
+  event: Human Genomes Platform Project 
+  location: Australia 
+  authors: [Cowley M, Downton M, Holliday J, Kummerfeld S, Leonard C, Lin A, Pope B, San Kho Lin V, Ravishankar S, Shadbolt M, Syed M, Taouk K, Wong-Erasmus M]  
+  date: 28 February 2024 
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10713710  
+      title: Report 
+
+- title: "Human Genomes Platform Project: Data and Metadata Archiving Feasibility Report" 
+  event: Human Genomes Platform Project 
+  location: Australia
+  authors: [Copty J, Cowley M, Evans B, Hoffman O, Holliday J, Kaplan W, Koufariotis R, Kummerfeld S, Pope B, Reisinger F, Robinson A, Shadbolt M, Syed M, Wong-Erasmus M]  
+  date: 28 February 2024 
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10720286  
+      title: Report 
+
 - title: "Human Genomics Uplift for Australia through Research Data Infrastructure At National Scale: an overview of the GUARDIANS project"  
   event: SupercomputingAsia 2024 
   location: Sydney, Australia 
