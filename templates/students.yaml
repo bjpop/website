@@ -1,14 +1,18 @@
 present:
 
+    - name: Zizhen Huang 
+      description: Masters of Science (Bioinformatics) student 
+      date: July 2024 onwards
+
+past:
+
     - name: Jean Ho 
       description: Masters of Science (Bioinformatics) student 
-      date: February 2023 onwards 
+      date: February 2023 - June 2024 
 
     - name: Ran Li 
       description: Masters of Science (Bioinformatics) student 
-      date: January 2023 onwards 
-
-past:
+      date: January 2023 - June 2024 
 
     - name: Cathy Huang 
       description: Masters of Science (Bioinformatics) student 
