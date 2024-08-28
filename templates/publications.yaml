@@ -1,4 +1,19 @@
 - abstract: |
+     Renal cell carcinoma (RCC) has been associated with germline pathogenic or likely pathogenic (PLP) variants in recognised cancer susceptibility genes. Studies of RCC using gene panel sequencing have been highly variable in terms of study design, genes included, and reported prevalence of PLP variant carriers (4–26%). Studies that restricted their analysis to established RCC predisposition genes identified variants in 1–6% of cases. This work assessed the prevalence of clinically actionable PLP variants in renal cancer predisposition genes in an Australian population-based sample of RCC cases. Germline DNA from 1029 individuals diagnosed with RCC who were recruited through the Victoria and Queensland cancer registries were screened using a custom amplicon-based panel of 21 genes. Mean age at cancer diagnosis was 60 ± 10 years, and two-thirds (690, 67%) of the participants were men. Eighteen participants (1.7%) were found to carry a PLP variant. Genes with PLP variants included BAP1, FH, FLCN, MITF, MSH6, SDHB, TSC1, and VHL. Most carriers of PLP variants did not report a family history of the disease. Further exploration of the clinical utility of gene panel susceptibility testing for all RCCs is warranted. 
+  authors: [Fiona Bruinsma, Philip Harraka, Susan Jordan, Daniel J. Park, Bernard Pope, Jason Steen, Roger L. Milne, Graham G. Giles, Ingrid Winship, Katherine M. Tucker, Melissa C. Southey, Nguyen-Dumont] 
+  date: 27 August 2024  
+  doi: 10.3390/cancers16172985  
+  issue: 17 
+  journal: Cancers
+  keywords: 
+  pmid:  
+  title: "Prevalence of Germline Pathogenic Variants in Renal Cancer Predisposition Genes in a Population-Based Study of Renal Cell Carcinoma"  
+  type: Journal Article
+  url: https://doi.org/10.3390/cancers16172985
+  volume: 16 
+  year: '2024' 
+
+- abstract: |
      The development of cancer is an evolutionary process involving the sequential acquisition of genetic alterations that disrupt normal biological processes, enabling tumor cells to rapidly proliferate and eventually invade and metastasize to other tissues. We investigated the genomic evolution of prostate cancer through the application of three separate classification methods, each designed to investigate a different aspect of tumor evolution. Integrating the results revealed the existence of two distinct types of prostate cancer that arise from divergent evolutionary trajectories, designated as the Canonical and Alternative evolutionary disease types. We therefore propose the evotype model for prostate cancer evolution wherein Alternative-evotype tumors diverge from those of the Canonical-evotype through the stochastic accumulation of genetic alterations associated with disruptions to androgen receptor DNA binding. Our model unifies many previous molecular observations, providing a powerful new framework to investigate prostate cancer disease progression. 
   authors: [Dan J Woodcock, Atef Sahli, Ruxandra Teslo, Vinayak Bhandari, Andreas J Gruber, Aleksandra Ziubroniewicz, Gunes Gundem, Yaobo Xu, Adam Butler, Ezequiel Anokian, Bernard J Pope, Chol-Hee Jung, Maxime Tarabichi, Stefan C Dentro, J Henry R Farmery, CRUK ICGC Prostate Group, Peter Van Loo, Anne Y Warren, Vincent Gnanapragasam, Freddie C Hamdy, G Steven Bova, Christopher S Foster, David E Neal , Yong-Jie Lu, Zsofia Kote-Jarai, Michael Fraser, Robert G Bristow, Paul C Boutros, Anthony J Costello,  Niall M Corcoran, Christopher M Hovens, Charlie E Massie, Andy G Lynch, Daniel S Brewer, Rosalind A Eeles, Colin S Cooper, David C Wedge] 
   date: 29 February 2024 
