@@ -1,3 +1,10 @@
+- title: "ctDNA and risk stratification"
+  event: "24th Asia-Pacific Prostate Cancer Conference"
+  location: Melbourne, Australia 
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Bethany Campbell, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, CR-UK/Prostate Cancer UK, ICGC, The PPCG, David C. Wedge, Daniel S. Brewer, Andy G. Lynch, Harveer Dev, Vincent J. Gnanapragasam, Nitzan Rosenfeld, Christopher M. Hovens, Niall M. Corcoran, Charles E. Massie]
+  date: 30 August 2024 
+  kind: Invited talk 
+
 - title: "Ultra-sensitive detection of ctDNA enriches for patients with greater risk of recurrence in clinically localised prostate cancer"  
   event: Cancer Bioinformatics Australia Symposium 2024 
   location: Melbourne, Australia 
@@ -8,7 +15,7 @@
 - title: "Case studies in genomic cohort data sharing"  
   event: Research Data Alliance (RDA) 22nd Virtual Plenary Meeting 
   location: Online (international)
-  authors: [Oliver Hofmann ,Bernie Pope]  
+  authors: [Oliver Hofmann, Bernie Pope]  
   date: 16 May 2024 
   kind: Oral presentation
 
@@ -110,7 +117,7 @@
 - title: "Ultra-sensitive detection of circulating tumour DNA enriches for patients with higher risk disease in clinically localised prostate cancer" 
   event: "XXIII International Congress of Genetics"
   location: Melbourne, Australia 
-  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, David Wedge, Rosalind Eeles, Daniel Brewer, Andy Lynch, Harveer Dev, Christopher Hovens, Vincent Gnanpragasam, Nitzan Rosenfeld, Niall Corcoran, Charles Massie]  
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, David Wedge, Rosalind Eeles, Daniel Brewer, Andy Lynch, Harveer Dev, Christopher Hovens, Vincent Gnanapragasam, Nitzan Rosenfeld, Niall Corcoran, Charles Massie]  
   date: 20 July 2023 
   kind: Oral presentation 
 
@@ -138,14 +145,14 @@
 - title: "Detecting circulating tumour DNA in localised prostate cancer"
   event: "Pan Prostate Cancer Group Annual Meeting"
   location: Madrid, Spain 
-  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, David Wedge, Rosalind Eeles, Daniel Brewer, Andy Lynch, Harveer Dev, Christopher Hovens, Vincent Gnanpragasam, Nitzan Rosenfeld, Niall Corcoran, Charles Massie]  
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, David Wedge, Rosalind Eeles, Daniel Brewer, Andy Lynch, Harveer Dev, Christopher Hovens, Vincent Gnanapragasam, Nitzan Rosenfeld, Niall Corcoran, Charles Massie]  
   date: 20 April 2023 
   kind: Oral presentation
 
 - title: "Ultra-sensitive detection of circulating tumour DNA enriches for patients with higher risk disease in clinically localised prostate cancer" 
   event: "AACR Special Conference: Advances in Prostate Cancer"
   location: Denver, Colorado, USA 
-  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, David Wedge, Rosalind Eeles, Daniel Brewer, Andy Lynch, Harveer Dev, Christopher Hovens, Vincent Gnanpragasam, Nitzan Rosenfeld, Niall Corcoran, Charles Massie]  
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, David Wedge, Rosalind Eeles, Daniel Brewer, Andy Lynch, Harveer Dev, Christopher Hovens, Vincent Gnanapragasam, Nitzan Rosenfeld, Niall Corcoran, Charles Massie]  
   date: 18 March 2023  
   kind: Oral presentation 
 
