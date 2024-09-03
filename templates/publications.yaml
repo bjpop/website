@@ -14,6 +14,21 @@
   year: '2024' 
 
 - abstract: |
+      INTRODUCTION. Brain metastases pose a significant and growing challenge in clinical practice, yet the molecular variants of this tumor type has not previously been examined comprehensively across multiple cancer types. In particular, there has been limited focus on contrasting the genetic profiles of common brain metastases originating from primary sites like lung, breast, melanoma, colorectal, and renal cancers, with those arising infrequently such as prostate and others. METHODS. We have prospectively collected over 125 fresh frozen brain metastases and matching germline reference samples from 14 different primary tumor types and to date have performed WGS, RNA-Seq and Epic 850k methylation profiling on 60 of these samples spanning both common and rare brain metastases. We have employed machine learning algorithms, network analysis techniques, and integrative bioinformatics pipelines to extract meaningful insights into the biological underpinnings of brain metastasis formation. RESULTS. We conducted an in-depth investigation into the genomic, transcriptomic, and epigenomic profiles of brain metastases, spanning both common and rare types. By merging these diverse datasets, we identified distinct molecular modifications linked to brain metastases with low incidence rates compared to those more frequently observed. Notably, we observed heightened alterations in the regulation of Golgi dynamics, sensing of lipid species, chromatin remodeling factors, and cytoskeletal remodeling in rare brain metastases. These changes likely influence cell migration and invasion dynamics, elucidating the potential for unique characteristics of less common brain metastasis types. CONCLUSIONS. This research indicates that the molecular mechanisms driving the formation of brain metastases may vary depending on whether the primary malignancy frequently or infrequently spreads to the brain. Studies such as these, will aid in eventually driving innovations in precision oncology and ultimately improving patient outcomes.
+  authors: [Grace Hall, Bethany Campbell, Stanley Stylli, Chol-Hee Jung, Bernard Pope, Daniel Park, Ramyar Molania, Justin Bedo, Jennifer Ureta, Silvia Rodrigues, Caroline Fidalgo-Ribeiro, Massimo Loda, Patrick McCoy, Clint Gray, Swee Tan, Agadha Wickremesekera, Christobel Saunders, Kate Drummond, Niall Corcoran, James Dimou, Tony Papenfuss, Christopher Hovens]
+  date: 2 August 2024  
+  doi: 10.1093/noajnl/vdae090.004  
+  issue:   
+  journal: Neuro-Oncology Advances  
+  keywords:  
+  pmid:  
+  title: "The multi-omic landscape of somatic variation across a pan-cancer cohort of brain metastases"
+  type: Journal Article
+  url: https://doi.org/10.1093/noajnl/vdae090.004
+  volume: 6
+  year: '2024' 
+
+- abstract: |
      Renal cell carcinoma (RCC) has been associated with germline pathogenic or likely pathogenic (PLP) variants in recognised cancer susceptibility genes. Studies of RCC using gene panel sequencing have been highly variable in terms of study design, genes included, and reported prevalence of PLP variant carriers (4–26%). Studies that restricted their analysis to established RCC predisposition genes identified variants in 1–6% of cases. This work assessed the prevalence of clinically actionable PLP variants in renal cancer predisposition genes in an Australian population-based sample of RCC cases. Germline DNA from 1029 individuals diagnosed with RCC who were recruited through the Victoria and Queensland cancer registries were screened using a custom amplicon-based panel of 21 genes. Mean age at cancer diagnosis was 60 ± 10 years, and two-thirds (690, 67%) of the participants were men. Eighteen participants (1.7%) were found to carry a PLP variant. Genes with PLP variants included BAP1, FH, FLCN, MITF, MSH6, SDHB, TSC1, and VHL. Most carriers of PLP variants did not report a family history of the disease. Further exploration of the clinical utility of gene panel susceptibility testing for all RCCs is warranted. 
   authors: [Fiona Bruinsma, Philip Harraka, Susan Jordan, Daniel J. Park, Bernard Pope, Jason Steen, Roger L. Milne, Graham G. Giles, Ingrid Winship, Katherine M. Tucker, Melissa C. Southey, Nguyen-Dumont] 
   date: 27 August 2024  
