@@ -4,6 +4,9 @@
   authors: [Bernard Pope]
   date: 16 September 2024 
   kind: Oral presentation 
+  media:
+    - url: https://zenodo.org/records/13836327 
+      title: Poster 
 
 - title: "GUARDIANS — Advancing human genomics research in Australia"
   event: "GA4GH 12th Plenary"
