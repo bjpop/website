@@ -7,12 +7,10 @@
 <h1 class="display-4 my-5">Publications</h1>
 
 <div class="my-5">
-   <p>
       <ul>
          <li>ORCID: <a href="http://orcid.org/0000-0002-4840-1095">0000-0002-4840-1095</a></li>
 	 <li><a href="https://scholar.google.com.au/citations?hl=en&user=CD2wR-UAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></li>
       </ul>
-   </p>
 </div>
 
 {% for paper in contents %}
@@ -26,6 +24,11 @@
             {% if paper.authors %}
               <dt class="col-sm-2">Authors</dt>
               <dd class="col-sm-10">{{ ", ".join(paper.authors) }}</dd>
+            {% endif %}
+
+            {% if paper.other and paper.other_key %}
+	    <dt class="col-sm-2">{{paper.other_key}}</dt>
+              <dd class="col-sm-10">{{paper.other}}</dd>
             {% endif %}
 
             {% if paper.journal %}
