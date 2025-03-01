@@ -2,9 +2,8 @@ name: Bernie Pope
 position: Computer scientist and bioinformatician
 photo: assets/img/bernie_pope_bw.jpg
 overview: |
-    <p>I am a computer scientist and bioinformatician, applying scalable and robust computational methodologies to key challenges in human health, particularly in genomics and cancer.</p>
+    <p>I am a <a href="https://findanexpert.unimelb.edu.au/profile/1827-bernie-pope">Professor</a> in the <a href="https://mdhs.unimelb.edu.au/">Faculty of Medicine, Dentistry and Health Sciences</a> at <a href="https://www.unimelb.edu.au/">The University of Melbourne</a>. I work in the fields of computer science and bioinformatics, where I apply scalable and robust computational methodologies to key challenges in human health, particularly in genomics and cancer.</p>
 roles:
-  - '<a href="https://findanexpert.unimelb.edu.au/profile/1827-bernie-pope">Professor</a> in the <a href="https://mdhs.unimelb.edu.au/">Faculty of Medicine, Dentistry and Health Sciences</a> at <a href="https://www.unimelb.edu.au/">The University of Melbourne</a>, Australia'
   - 'Bioinformatics Lead, <a href="https://mdhs.unimelb.edu.au/melbournebioinformatics">Melbourne Bioinformatics</a>, The University of Melbourne, Australia'
   - 'Associate Director (<a href="https://www.biocommons.org.au/human-genome-informatics-initiative">Human Genome Informatics</a>), <a href="https://www.biocommons.org.au/">Australian BioCommons</a>'
 career: |
