@@ -1,5 +1,11 @@
 present:
 
+    - name: Jakob Schuster 
+      description: PhD student, co-supervised with Matt Ritchie 
+      date: March 2026 onwards 
+
+past:
+
     - name: Ching-Yi Peng 
       description: Masters of Science (Bioinformatics) student, co-supervised with Jessica Chung
       date: August 2024 onwards
@@ -11,8 +17,6 @@ present:
     - name: Ruxin Wang
       description: Masters of Science (Bioinformatics) student, co-supervised with Chol-hee Jung and Chris Hovens
       date: July 2024 onwards
-
-past:
 
     - name: Jean Ho 
       description: Masters of Science (Bioinformatics) student 
