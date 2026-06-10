@@ -1,4 +1,19 @@
 - abstract: |
+     Conference proceedings: 9th Meeting of the European-Hereditary-Tumour-Group (EHTG), Heidelberg Germany, Sep 19-21, 2025
+  authors: [Romy Walker, James G Dowty, Hsin-Lun Liao, Mark Clendenning, Jihoon E Joo, Khalid Mahmood, Peter Georgeson, Sharelle Joseland, Fiona Phillips, Julia Como, Susan G Preston, Bernard J Pope, Aung K Win, Christophe Rosty, Finlay A Macrae, Ingrid M Winship, Mark A Jenkins, Daniel D Buchanan] 
+  date:  
+  doi: 
+  issue: 
+  journal: International Journal of Cancer
+  keywords: 
+  pmid: 
+  title: "Cancer Risks in First-Degree Relatives of Individuals with Biallelic Somatic DNA Mismatch Repair Mutations"
+  type: Journal Article
+  url: 
+  volume: 158
+  year: '2026' 
+
+- abstract: |
       Prostate cancer (PCa) germline testing, while gaining momentum, is ancestry restrictive and African exclusive. Through whole genome sequencing for 217 African ancestral cases (186 southern African, 31 Pan representative), we identify 172 potentially pathogenic variants in 78 DNA damage repair or PCa related genes. Prevalence for reported (13/217, 5.99%) and cumulative predicted (24/217, 11.06%) variants of significance (11 genes) falls below that reported for non-Africans. Conversely, BRCA1, HOXB13, CDK12, MLH1, MSH2, and BRIP1 remain unimpacted. Through pathogenic ranking based on variant frequency and functionality, clinical presentation and tumour-matched biallelic inactivation, top-ranked candidates include PREX2, POLE, FAT1, BRCA2, POLQ, LRP1B and ATM. Besides notable impact of DNA polymerases, including POLG, Fanconi anaemia genes include FANCD2, FANCA, FANCG, ERCC4, FANCE and FANCI, while DNA mismatch repair genes MSH3 and PMS1 outranked known namesakes MSH6 and PMS2. This study provides insights into the spectrum of African-relevant potentially pathogenic PCa variants, highlighting much-needed gene candidates for ancestry-inclusive germline testing.
   authors: [Kazzem Gheybi, Pamela X. Y. Soh, Jue Jiang, Tumisang M. N. Mbeki, Melanie Louw, Daniel Burns, Piyushkumar Mundra, Daria Kiriy, Md. Mehedi Hasan, Weerachai Jaratlerdsiri, Maphuti Tebogo Lebelo, Raymond A. Campbell, Mulalo B. Radzuma, Mukudeni Nenzhelele, Muvhulawa Obida, Martin Obida, Winstar M. Ombuki, Micah O. Oyaro, Sean M. Patrick, Massimo Loda, David C. Wedge, Robert G. Bristow, Daniel S. Brewer, Colin S. Cooper, Jüri Reimand, Geraldine Cancel-Tassin, Olivier Cussenot, Chris M. Hovens, Niall M. Cocoran, Phillip D. Stricker, Thorsten Schlomm, Gail S. Prins, Karina Dalsgaard Sørensen, Pan Prostate Cancer Group, HEROIC PCaPH Africa1K, Joachim Weischenfeldt, Shingai B. A. Mutambirwa, Peter M. Ngugi, David M. Thomas, Zsofia Kote-Jarai, Rosalind A. Eeles, M. S. Riana Bornman, Vanessa M. Hayes]
   other_key: 'Consortium authors'
