@@ -1,4 +1,19 @@
 - abstract: |
+     Prostate cancer is characterized by profound clinical and molecular heterogeneity. While its genomic heterogeneity is well-characterized, its epigenomic heterogeneity remains less understood. We therefore created a compendium of 3,001 multi-ancestry prostate methylomes spanning normal tissue through localized disease of all grades to poly-metastatic disease. A subset of 884 samples had multi-omic DNA and/or RNA characterization. We identify four epigenomic subtypes that risk-stratify patients and reflect distinct evolutionary trajectories. We demonstrate extensive regulatory interplay between DNA copy number and methylation, with transcriptional consequences that vary across genes and disease stages. We define epigenetic dysregulation signatures for 15 important clinico-molecular features, creating predictive models for each. For example, we identify specific epigenetic features that predict patient outcome and are synergistic with clinical prognostic features. These results define a complex interplay between tumour genetics and epigenetics that converges to modify gene-expression programs and clinical presentation, in part through modulation of epigenetic aging.  
+  authors: [Jaron Arbet, Takafumi N Yamaguchi, Yu-Jia Shiah, Rupert Hugh-White, Adriana Wiggins, Jieun Oh, Nicole Zeltser, Tsumugi Gebo, Adrien Foucal, Robert Lesurf, Chol-Hee Jung, Rachel M A Dang, Raag Agrawal, Julie Livingstone, Adriana Salcedo, Cindy Q Yao, Shadrielle Melijah G Espiritu, Kathleen Houlahan, Fouad Yousif, Lawrence E Heisler, Anthony T Papenfuss, Michael Fraser, Bernard J Pope, Amar U Kishan, Alejandro Berlin, Melvin L K Chua, Niall M Corcoran, Theodorus van der Kwast, Christopher M Hovens, Robert G Bristow, Paul C Boutros]
+  date: 17 June 2026 
+  doi: 10.1158/2159-8290.CD-25-0761  
+  issue: 
+  journal: Cancer Discovery
+  keywords: 
+  pmid: 42307031 
+  title: "The Landscape of Prostate Tumour Methylation" 
+  type: Journal Article
+  url: https://doi.org/10.1158/2159-8290.CD-25-0761
+  volume: 
+  year: '2026' 
+
+- abstract: |
      Conference proceedings: 9th Meeting of the European-Hereditary-Tumour-Group (EHTG), Heidelberg Germany, Sep 19-21, 2025
   authors: [Romy Walker, James G Dowty, Hsin-Lun Liao, Mark Clendenning, Jihoon E Joo, Khalid Mahmood, Peter Georgeson, Sharelle Joseland, Fiona Phillips, Julia Como, Susan G Preston, Bernard J Pope, Aung K Win, Christophe Rosty, Finlay A Macrae, Ingrid M Winship, Mark A Jenkins, Daniel D Buchanan] 
   date:  
