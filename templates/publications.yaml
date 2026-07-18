@@ -44,6 +44,21 @@
   year: '2026' 
 
 - abstract: |
+      Lampreys are the only ancestrally parasitic vertebrate lineage, yet parasitism has been repeatedly lost alongside a suite of life-history changes, such as loss of migration and juvenile feeding and accelerated maturation. Combining whole-genome resequencing, haplotype-resolved assemblies, hybrid-zone genotyping, multi-tissue transcriptomics, and sperm phenotyping, we map this life-history syndrome in European Lampetra to six chromosomes spanning a mosaic of genomic architectures: a ∼20 Mb low-recombination region on chromosome 1 lacking chromosomal rearrangements within Lampetra but involving inter-specific rearrangements across deep lamprey lineages; a translocated inversion with ecotype-dependent sperm-velocity effects; and ecotype-divergent deletions overlapping genes crucial for nervous system (CNTNAP2) and reproductive development (FSHR). However, this genomic basis is not shared with a convergent sister lineage, pointing to independent routes to a recurring life-history transition in lampreys. 
+  authors: [Arne Jacobs, Nolwenn Decanter, Ole K Tørresen, Benedicte Garmann-Aarhus, Maria Capstick, Quentin Rougemont, Frédéric Guillaume, Romane Normand, Julien Tremblay, Jean-Pierre Destouches, Anne-Laure Besnard, Ahmed Souissi, Gilles Lassalle, Solenn Stoeckel, Eric J Petit, Siv NK Hoff, Daniel J Park, Bernard J Pope, Sissel Jentoft, Leif Asbjørn Vøllestad, Kjetill S Jakobsen, Guillaume Evanno]
+  date: 13 May 2026 
+  doi: 10.64898/2026.05.11.724254  
+  issue: 
+  journal: bioRxiv 
+  keywords:  
+  pmid: 
+  title: "A mosaic of genomic architectures underpins parasitism loss in a jawless vertebrate" 
+  type: Preprint
+  url: https://doi.org/10.64898/2026.05.11.724254  
+  volume: 
+  year: 2026 
+
+- abstract: |
      Conference proceedings: 9th Meeting of the European-Hereditary-Tumour-Group (EHTG), Heidelberg Germany, Sep 19-21, 2025
   authors: [Romy Walker, James G Dowty, Hsin-Lun Liao, Mark Clendenning, Jihoon E Joo, Khalid Mahmood, Peter Georgeson, Sharelle Joseland, Fiona Phillips, Julia Como, Susan G Preston, Bernard J Pope, Aung K Win, Christophe Rosty, Finlay A Macrae, Ingrid M Winship, Mark A Jenkins, Daniel D Buchanan] 
   date:  
