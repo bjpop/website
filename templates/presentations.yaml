@@ -1,3 +1,13 @@
+- title: "Why functional programming matters (Python edition)"
+  event: "Melbourne Bioinformatics Talk"
+  location: Melbourne Bioinformatics, The University of Melbourne 
+  authors: [Bernie Pope]
+  date: 21 July 2026 
+  kind: Oral presentation 
+  media:
+    - url: assets/files/why_fp_python.pdf
+      title: Slides 
+
 - title: "GUARDIANS: Building National Infrastructure for Human Genomic Data Sharing and Analytics in Australia"
   event: "OICR, Canada Seminar"
   location: Ontario Institute for Cancer Research (OICR), Toronto, Canada
