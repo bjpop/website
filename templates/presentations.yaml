@@ -1,3 +1,10 @@
+- title: "nf-core/funcprofiler: Standardised functional profiling of metagenomes at any scale"
+  event: ISME20 20th International Symposium on Microbial Ecology  
+  location: New Zealand International Convention Centre (NZICC), Auckland, New Zealand 
+  authors: [Vinícius W. Salazar, Nicholas R. Waters, Mirae Baichoo, Yixuan Yang, Kim-Anh Lê Cao, Julian Simmons, Gayle Philip, Bernard Pope]
+  date: 16-21 August 2026 
+  kind: Poster 
+
 - title: "Why functional programming matters (Python edition)"
   event: "Melbourne Bioinformatics Talk"
   location: Melbourne Bioinformatics, The University of Melbourne 
