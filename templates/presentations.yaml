@@ -43,6 +43,16 @@
   date: 13 October 2025 
   kind: Oral presentation 
 
+- title: "GUARDIANS - Driving Progress in Australia's Human Omics Infrastructure Capability"
+  event: GA4GH 13th Plenary  
+  location: Uppsala, Sweden 
+  authors: [Alavi Yassaman, Attinger Sara, Carnuccio Patrick, Carter Olivia, Caruana Nikeisha, Chadderton Jesseka, Champ Katherine, Christiansen Jeff, Cowley Mark, Davies Kylie, Davis Brian, Degrave Dmitry, Deshmukh Nakul, Dobrovolski Dmitri, Downton Matthew, Goldstein Leonard, Goudey Benjamin, Harris Joshua, Hebrard Maxime, Ho Tim, Hofmann Oliver, Holliday Jessica, Howard Andrew, Hung Irene, Intan William, Jiménez-Ibarra Felipe, Kallady Timothy, Kaplan Warren, Katarya Anurag, Kummerfeld Sarah, Lal Jayish, Leonard Conrad, Lin Viktor, Liu Ray, Liyanage Kisaru, Louka Peter, Malenic Marko, Mangukia Pravin, Mani Poornima, Manos Steven, McConville Malcolm, Menzies Ignatius Jeppe, Morrison Caitlin, Mukama Guerdon, Munro David, Newson Ainsley, Nguyen Thanh, Paatni Gawnesh, Paltiel Minna, Patterson Andrew, Paytes Ryan, Pearson John, Philip Gayle, Pope Bernard, Ratwatte Rahul1, Reisinger Florian, Schumann Julie, Scullen John, Shea Amanda, Shrestha Youjin, Simons Cas, Taouk Kamile, Taylor Mark, Thomas Sarah, Tsui Alan, Underwood Justine, Uren Caitlin, Valls Guimera Roman, Veeneman Angeline, Vidgen Miranda, Waddell Nicola, Winter Uwe, Wong-Erasmus Marie, Wood Scott, Xue Wenjing, Yarrow Jonathan]
+  date: 6 - 10 October 2025 
+  kind: Poster 
+  media:
+    - url: https://doi.org/10.5281/zenodo.18529124  
+      title: Poster
+
 - title: "The role of Data Commons infrastructure in data governance"  
   event: "InGeNA Member Session on Data Privacy & Sovereignty in Genomics"
   location: Sydney and online 
