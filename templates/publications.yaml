@@ -1,4 +1,19 @@
 - abstract: |
+      <p>As we enter the next decade of FAIR with advanced artificial intelligence to analyse and interpret valuable data, we must have interoperable authorisation processes to ensure proper data management practice. In this article, we describe the Resource Entitlement Management System (REMS) software. REMS provides a generic workflow engine that translates ethical, legal, and cultural requirements into actionable permissions. REMS manages the relational accountability for data protection between data applicants, authorisation bodies, and data holders. REMS introduces configurable levels of automation while keeping human oversight intact. Once a Data Access Committee (DAC) approves a request, REMS issues a permission in a standard format  (e.g. GA4GH Visa) and logs the entire process for auditing.</p><p>REMS operates across diverse regulatory and federated landscapes, utilizing global standards and metadata (e.g., OIDC, GA4GH, W3.org) to programmatically enforce controlled access. It facilitates sensitive data management aligned with FAIR principles, supporting initiatives including the European Genomic Data Infrastructure (GDI), Genome of Europe, CADRE, the ZERO childhood cancer portal, and various national biobanks and language repositories. Crucially, streamlining access must respect cultural safety and data sovereignty. The Rakeiora platform (Aotearoa New Zealand) exemplifies how technical standards can uphold indigenous governance; by integrating Māori values, the project demonstrates that community-led oversight is essential for building trust in digital infrastructure.</p>
+  authors: [Meeri Hakala, Jaakko Leinonen, Miska Husgafvel, Mikka Kallberg, Jarno Laitinen, Ilkka Lappalaine, Janne Lauros, Heikki Lehväslaiho, Mikael Linden, Martin Matthiesen, Dylan Spalding, Juha Törnroos, Tommi Jalkanen, Markku Rontu, Minttu Sauram, Tiina Wahlfors, Melissa Konopko, Martin Kuba, Bruno Pacheco, Oliver Hofmann, Conrad Leonard, Andrew Patterson, Bernard Pope, Tracey Godfery, Matt Pestle, Claire E. Rye, Tommi H. Nyrönen]
+  date: 1 September 2026  
+  doi: 10.5281/zenodo.22207242
+  issue:  
+  journal: Preprint
+  keywords: 
+  pmid: 
+  title: "Open Data access management system for relational accountability orchestration (pre-print)"
+  type: Preprint 
+  url: https://doi.org/10.5281/zenodo.22207242 
+  volume: 
+  year: 2026 
+
+- abstract: |
    Endometriosis is a chronic, inflammatory condition affecting around 10% of reproductive-age women, characterized by the presence of endometrial-like tissue outside of the uterus. The effects of endometriosis include chronic pelvic pain, menorrhagia and infertility. Despite its prevalence and impact, current therapies remain limited in efficacy and scope. Recent insights into the immunological landscape of endometriosis along with the discovery of common somatic mutations open the door to new ways of thinking about therapies for endometriosis. Individual endometrial glands have been shown to carry distinct cancer-associated somatic mutations, suggesting a mosaic architecture. Clonal selection during retrograde dissemination and lesion establishment is evident such that genetic and epigenetic alterations appear to confer survival advantages. Immune suppression is another characteristic of the endometriotic environment, with evidence including observations of elevated checkpoint molecules in lesions. Here, we propose a future therapeutic framework based on checkpoint inhibition in combination with personalized vaccination targeting patient-specific neoantigens. This perspective integrates immunological, molecular, and clinical insights to propose a novel therapeutic direction. Importantly, the therapeutic framework described herein should be regarded as a hypothesis-generating perspective rather than a clinically validated treatment strategy. While evidence supports immune dysregulation and recurrent somatic mutation in endometriosis, substantial biological, translational and clinical uncertainties remain before mutation-directed immunotherapy could be considered feasible in clinical practice.
   authors: [Daniel J Park, Bernard J Pope]
   date: 2 June 2026  
@@ -19,7 +34,7 @@
   date: 16 July 2026 
   doi: 10.20944/preprints202607.1206.v1  
   issue: 
-  journal: Preprints
+  journal: Preprint
   keywords: "logic programming; functional programming; semantics; partial correctness; declarative debugging; specification; information ordering; complete lattice"  
   pmid: 
   title: "A Mathematical Theory of Correct Computation" 

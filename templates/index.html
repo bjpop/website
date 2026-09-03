@@ -58,9 +58,9 @@
         <ul>
           {% for publication in publications %}
              {% if publication.url %}
-               <li><a href="{{ publication.url }}">{{ publication.title }}</a>, {{ publication.journal }}, {{ publication.year }}.</li>
+               <li><a href="{{ publication.url }}">{{ publication.title }}</a>, {% if publication.type != "Preprint" and publication.journal %} {{ publication.journal }}, {% endif %} {{ publication.year }}.</li>
              {% else %}
-               <li>{{ publication.title }}, {{ publication.journal }}, {{ publication.year }}.</li>
+               <li>{{ publication.title }}, {% if publication.type != "Preprint" and publication.journal %} {{ publication.journal }}, {% endif %} {{ publication.year }}.</li>
              {% endif %}
           {% endfor %}
         </ul>
