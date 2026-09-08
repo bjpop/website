@@ -4,6 +4,9 @@
   authors: [Vinícius W. Salazar, Nicholas R. Waters, Mirae Baichoo, Yixuan Yang, Kim-Anh Lê Cao, Julian Simmons, Gayle Philip, Bernard Pope]
   date: 16-21 August 2026 
   kind: Poster 
+  media:
+    - url: https://doi.org/10.26188/33423955
+      title: Poster
 
 - title: "Why functional programming matters (Python edition)"
   event: "Melbourne Bioinformatics Talk"
@@ -227,6 +230,9 @@
   authors: [Marion Shadbolt, Jessica Holliday, Uwe Winter, Steven Manos, Jeff Christiansen, Andrew Lonie, Bernard Pope]
   date: 17 - 21 July 2023
   kind: Poster
+  media:
+    - url: https://doi.org/10.5281/zenodo.8137358  
+      title: Poster 
 
 - title: Somatic mutation landscape in a cohort of meningiomas that have undergone grade progression 
   event: "XXIII International Congress of Genetics" 
