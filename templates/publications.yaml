@@ -1,19 +1,4 @@
 - abstract: |
-     The inactivation of tumour suppressor genes is a key step in cancer development, and is usually achieved by homozygous loss. In prostate cancer, however, large genomic regions are often hemizygously lost, which complicates the identification of putative tumour suppressors in these regions. Here, we develop Epi2Hit, an integrative computational method that leverages whole genome sequencing, epigenomic profiling and gene expression to identify biallelic inactivation of tumour suppressor genes involving DNA methylation of promoter and enhancer regions of one allele and genomic loss of the other allele. We apply Epi2Hit to a cohort of 2,021 prostate cancers to discover tumour suppressor genes. In particular, we identify epigenetic biallelic inactivation of ZFHX3 at a recurrence level similar to TP53. Biallelic inactivation of ZFHX3, a transcriptional repressor, leads to upregulation of oncogenes, including MYC and a shorter time to metastasis. Finally, we provide evidence that epigenetic silencing as 2nd hit is particularly enriched in regions with nearby essential genes, precluding homozygous loss.
-  authors: [Daria Kiriy, Francesco Favero, Clarissa Gerhäuser, Jessica Heilmann, Pavlo Lutsik, Francisco German Rodriguez Gonzalez, Alessio Locallo, Jakob Schmidt Jespersen, Andreas J. Gruber, Andre V. Olsen, Barbara Hernando, Kevin CL Cheng, Diogo Pellegrina, Geoff Macintyre, G. Steven Bova, Daniel S. Brewer, Robert G. Bristow, Mark N. Brook, Benedikt Brors, Adam Butler, Géraldine Cancel-Tassin, Niall M. Corcoran, Olivier Cussenot, Ros A. Eeles, Abraham Gihawi, Etsehiwot G. Girma, Vincent J. Gnanapragasam, Anis Hamid, Vanessa M. Hayes, Housheng Hansen He, Christopher M. Hovens, Eddie L. Imada, G. Maria Jakobsdottir, Chol-Hee Jung, Francesca Khani, Zsofia Kote-Jarai, Philippe P. Lamy, Gregory Leeman, Massimo Loda, Luigi Marchionni, Ramyar Molania, Anthony T. Papenfuss, Bernard Pope, Lucio R. Queiroz, Tobias Rausch, Brian Robinson, Atef Sahli, Karina D. Sørensen, Sebastian Uhrig, David C. Wedge, Yaobo Xu, Takafumi N. Yamaguchi, Claudio Zanettini, Pan Prostate Cancer Group (PPCG), Colin S. Cooper, Thorsten Schlomm, Jüri Reimand, Joachim Weischenfeldt]  
-  date: 9 September 2026 
-  doi: 10.1038/s41467-026-72182-5 
-  issue: 1 
-  journal: Nature Communications
-  keywords: 
-  pmid: 
-  title: "Recurrent mechanisms of biallelic epigenetic inactivation reveal new putative tumour suppressor genes in prostate cancer"
-  type: Journal Article 
-  url: https://doi.org/10.1038/s41467-026-72182-5 
-  volume: 17 
-  year: 2026 
-
-- abstract: |
      Prostate cancer follows a long and heterogeneous disease course with incompletely understood aetiology1. Here we dissect the mutational processes shaping the genomes of 959 donors from the Pan Prostate Cancer Group and assess their clinical relevance. By integrating de novo extracted single-base substitution, insertion–deletion and copy-number signatures with six novel complex structural variant signatures, we identify eight integrated mutational footprints (IMFs) that collectively explain the mutational processes in 85% of primary prostate cancer genomes. IMFs were strongly influenced by regional biases in the genome, most prevalently androgen receptor-mediated mutagenesis and replication stress. Four IMFs, present in 37% of primary tumours, were significantly associated with shorter time to metastasis. These included reactive oxygen-species-driven mutagenesis and both canonical and non-canonical homologous recombination deficiency, the latter being enriched in patients of African ancestry. Extending to the metastatic setting, we found that IMFs predicted sensitivity to androgen receptor pathway inhibitors. Taken together, our study delineates the aetiologies and mutational processes that drive the genomic and clinical heterogeneity of prostate cancer, introduces IMFs as a unifying framework, and highlights their potential to improve both risk stratification and biomarker-guided treatment selection. 
   authors: [Andreas J. Gruber, André V. Olsen, Barbara Hernando, Kevin C. L. Cheng, Clarissa Gerhäuser, Marina Torres, Francesco Favero, Daria Kiriy, Ángel Fernández-Sanromán, Juan Maria Roldan-Romero, Lucy Barton, Diogo Pellegrina, G. Steven Bova, Daniel S. Brewer, Mark N. Brook, Benedikt Brors, Adam Butler, Géraldine Cancel-Tassin, Niall M. Corcoran, Olivier Cussenot, Abraham Gihawi, Etsehiwot G. Girma, Vincent J. Gnanapragasam, Anis A. Hamid, Vanessa M. Hayes, Housheng Hansen He, Christopher M. Hovens, Eddie L. Imada, G. Maria Jakobsdottir, Chol-Hee Jung, Francesca Khani, Zsofia Kote-Jarai, Philippe Lamy, Gregory Leeman, Massimo Loda, Pavlo Lutsik, Luigi Marchionni, Ramyar Molania, Anthony T. Papenfuss, Bernard Pope, Lucio R. Queiroz, Tobias Rausch, Brian Robinson, Atef Sahli, Karina D. Sørensen, Takafumi N. Yamaguchi, Sebastian Uhrig, Yaobo Xu, Claudio Zanettini, Pan Prostate Cancer Group (PPCG), Ronald Simon, Guido Sauter, Ros A. Eeles, Colin S. Cooper, Robert G. Bristow, David C. Wedge, Thorsten Schlomm, Geoff Macintyre, Jüri Reimand, Joachim Weischenfeldt] 
   date: 9 September 2026 
@@ -26,6 +11,21 @@
   type: Journal Article 
   url: https://doi.org/10.1038/s41586-026-10468-w 
   volume: 
+  year: 2026 
+
+- abstract: |
+     The inactivation of tumour suppressor genes is a key step in cancer development, and is usually achieved by homozygous loss. In prostate cancer, however, large genomic regions are often hemizygously lost, which complicates the identification of putative tumour suppressors in these regions. Here, we develop Epi2Hit, an integrative computational method that leverages whole genome sequencing, epigenomic profiling and gene expression to identify biallelic inactivation of tumour suppressor genes involving DNA methylation of promoter and enhancer regions of one allele and genomic loss of the other allele. We apply Epi2Hit to a cohort of 2,021 prostate cancers to discover tumour suppressor genes. In particular, we identify epigenetic biallelic inactivation of ZFHX3 at a recurrence level similar to TP53. Biallelic inactivation of ZFHX3, a transcriptional repressor, leads to upregulation of oncogenes, including MYC and a shorter time to metastasis. Finally, we provide evidence that epigenetic silencing as 2nd hit is particularly enriched in regions with nearby essential genes, precluding homozygous loss.
+  authors: [Daria Kiriy, Francesco Favero, Clarissa Gerhäuser, Jessica Heilmann, Pavlo Lutsik, Francisco German Rodriguez Gonzalez, Alessio Locallo, Jakob Schmidt Jespersen, Andreas J. Gruber, Andre V. Olsen, Barbara Hernando, Kevin CL Cheng, Diogo Pellegrina, Geoff Macintyre, G. Steven Bova, Daniel S. Brewer, Robert G. Bristow, Mark N. Brook, Benedikt Brors, Adam Butler, Géraldine Cancel-Tassin, Niall M. Corcoran, Olivier Cussenot, Ros A. Eeles, Abraham Gihawi, Etsehiwot G. Girma, Vincent J. Gnanapragasam, Anis Hamid, Vanessa M. Hayes, Housheng Hansen He, Christopher M. Hovens, Eddie L. Imada, G. Maria Jakobsdottir, Chol-Hee Jung, Francesca Khani, Zsofia Kote-Jarai, Philippe P. Lamy, Gregory Leeman, Massimo Loda, Luigi Marchionni, Ramyar Molania, Anthony T. Papenfuss, Bernard Pope, Lucio R. Queiroz, Tobias Rausch, Brian Robinson, Atef Sahli, Karina D. Sørensen, Sebastian Uhrig, David C. Wedge, Yaobo Xu, Takafumi N. Yamaguchi, Claudio Zanettini, Pan Prostate Cancer Group (PPCG), Colin S. Cooper, Thorsten Schlomm, Jüri Reimand, Joachim Weischenfeldt]  
+  date: 9 September 2026 
+  doi: 10.1038/s41467-026-72182-5 
+  issue: 1 
+  journal: Nature Communications
+  keywords: 
+  pmid: 
+  title: "Recurrent mechanisms of biallelic epigenetic inactivation reveal new putative tumour suppressor genes in prostate cancer"
+  type: Journal Article 
+  url: https://doi.org/10.1038/s41467-026-72182-5 
+  volume: 17 
   year: 2026 
 
 - abstract: |
