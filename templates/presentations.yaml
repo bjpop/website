@@ -5,6 +5,212 @@
   date: 30 September 2026 
   kind: Webinar
 
+- title: "GUARDIANS: A step change in Australian human omics digital infrastructure"
+  event: Australasian Genomic Technologies Association (AGTA) Conference 2026
+  location: UNSW, Sydney 
+  authors: [Bernie Pope] 
+  date: 15 September 2026 
+  kind: Invited talk and panel discussion
+
+- title: "nf-core/funcprofiler: Standardised functional profiling of metagenomes at any scale"
+  event: ISME20 20th International Symposium on Microbial Ecology  
+  location: New Zealand International Convention Centre (NZICC), Auckland, New Zealand 
+  authors: [Vinícius W. Salazar, Nicholas R. Waters, Mirae Baichoo, Yixuan Yang, Kim-Anh Lê Cao, Julian Simmons, Gayle Philip, Bernard Pope]
+  date: 16-21 August 2026 
+  kind: Poster 
+  media:
+    - url: https://doi.org/10.26188/33423955
+      title: Poster
+
+- title: "Why functional programming matters (Python edition)"
+  event: "Melbourne Bioinformatics Talk"
+  location: Melbourne Bioinformatics, The University of Melbourne 
+  authors: [Bernie Pope]
+  date: 21 July 2026 
+  kind: Oral presentation 
+  media:
+    - url: assets/files/why_fp_python.pdf
+      title: Slides 
+
+- title: "GUARDIANS: Building National Infrastructure for Human Genomic Data Sharing and Analytics in Australia"
+  event: "OICR, Canada Seminar"
+  location: Ontario Institute for Cancer Research (OICR), Toronto, Canada
+  authors: [Bernard Pope]
+  date: 10 April 2026 
+  kind: Oral presentation 
+
+- title: "Melbourne PX4 Health Initiative"
+  event: "International Data Week (IDW) 2025, session on Linking Pixels, Proteins & Populations: Integrating Data Across Life Science Domains"
+  location: Brisbane Convention & Exhibition Centre, Australia 
+  authors: [Bernard Pope]
+  date: 16 October 2025 
+  kind: Oral presentation 
+
+- title: "GUARDIANS: Genomics Uplift for Australian Research through Digital Infrastructure at National Scale"
+  event: "International Data Week (IDW) 2025, keynote in plenary session on Open Research and Federated Systems: Disciplinary, Regional and International Perspectives "
+  location: Brisbane Convention & Exhibition Centre, Australia 
+  authors: [Bernard Pope]
+  date: 15 October 2025 
+  kind: Oral presentation 
+
+- title: "Accelerating Research with Data Commons and Data Meshes"
+  event: "International Data Week (IDW) 2025"
+  location: Brisbane Convention & Exhibition Centre, Australia 
+  authors: [Bob Grossman, Claire Rye, Bernard Pope]
+  date: 13 October 2025 
+  kind: Oral presentation 
+
+- title: "GUARDIANS - Driving Progress in Australia's Human Omics Infrastructure Capability"
+  event: GA4GH 13th Plenary  
+  location: Uppsala, Sweden 
+  authors: [Alavi Yassaman, Attinger Sara, Carnuccio Patrick, Carter Olivia, Caruana Nikeisha, Chadderton Jesseka, Champ Katherine, Christiansen Jeff, Cowley Mark, Davies Kylie, Davis Brian, Degrave Dmitry, Deshmukh Nakul, Dobrovolski Dmitri, Downton Matthew, Goldstein Leonard, Goudey Benjamin, Harris Joshua, Hebrard Maxime, Ho Tim, Hofmann Oliver, Holliday Jessica, Howard Andrew, Hung Irene, Intan William, Jiménez-Ibarra Felipe, Kallady Timothy, Kaplan Warren, Katarya Anurag, Kummerfeld Sarah, Lal Jayish, Leonard Conrad, Lin Viktor, Liu Ray, Liyanage Kisaru, Louka Peter, Malenic Marko, Mangukia Pravin, Mani Poornima, Manos Steven, McConville Malcolm, Menzies Ignatius Jeppe, Morrison Caitlin, Mukama Guerdon, Munro David, Newson Ainsley, Nguyen Thanh, Paatni Gawnesh, Paltiel Minna, Patterson Andrew, Paytes Ryan, Pearson John, Philip Gayle, Pope Bernard, Ratwatte Rahul1, Reisinger Florian, Schumann Julie, Scullen John, Shea Amanda, Shrestha Youjin, Simons Cas, Taouk Kamile, Taylor Mark, Thomas Sarah, Tsui Alan, Underwood Justine, Uren Caitlin, Valls Guimera Roman, Veeneman Angeline, Vidgen Miranda, Waddell Nicola, Winter Uwe, Wong-Erasmus Marie, Wood Scott, Xue Wenjing, Yarrow Jonathan]
+  date: 6 - 10 October 2025 
+  kind: Poster 
+  media:
+    - url: https://doi.org/10.5281/zenodo.18529124  
+      title: Poster
+
+- title: "The role of Data Commons infrastructure in data governance"  
+  event: "InGeNA Member Session on Data Privacy & Sovereignty in Genomics"
+  location: Sydney and online 
+  authors: [Bernard Pope]
+  date: 18 September 2025 
+  kind: Oral presentation 
+
+- title: "GUARDIANS Genomics Uplift for Australian Research through Digital Infrastructure at National Scale"
+  event: "ELIXIR Human Data Communities"
+  location: Europe and online 
+  authors: [Bernard Pope]
+  date: 16 September 2025 
+  kind: Oral presentation 
+
+- title: "Defining a Data Commons"
+  event: "GA4GH Cancer Community Cancer Data Commons: insights gained and future directions"
+  location: Park Hyatt Melbourne, Ausrtalia 
+  authors: [Bernard Pope]
+  date: 16 September 2024 
+  kind: Oral presentation 
+
+- title: "GUARDIANS — Advancing human genomics research in Australia"
+  event: "GA4GH 12th Plenary"
+  location: Park Hyatt Melbourne, Ausrtalia 
+  authors: [Bernard Pope, Jessica Holliday, Conrad Leonard, Kylie Davies, Irene Hung, Joshua Harris, Patrick Capon, Jeff Christiansen, Andrew Lonie, Steven Manos, Uwe Winter, Oliver Hofmann, Andrew Patterson, Sarah Kummerfeld, John Pearson, Nicola Waddell, Marie Wong-Erasmus, Warren Kaplan, Matthew Downton, Ainsley Newson, Peter Meikle, John Scullen, Nick Rossow, Malcolm McConville, Olivia Carter]
+  date: 18 - 19 September 2024 
+  kind: Poster 
+  media:
+    - url: https://zenodo.org/records/13836327 
+      title: Poster 
+
+- title: "Australian BioCommons Landscape" 
+  event: "The landscape of international human genomics data sharing and analysis activities"
+  location: Australian BioCommons, Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 12 September 2024 
+  kind: Oral presentation 
+
+- title: "Careers in bioinformatics" 
+  event: "Bioinformatics Graduate Student Association (BGSA) Career Night, The University of Melbourne"
+  location: Melbourne, Australia 
+  authors: [Bernard Pope]
+  date: 9 September 2024 
+  kind: Invited talk 
+
+- title: "ctDNA and risk stratification"
+  event: "24th Asia-Pacific Prostate Cancer Conference"
+  location: Melbourne, Australia 
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Bethany Campbell, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, CR-UK/Prostate Cancer UK, ICGC, The PPCG, David C. Wedge, Daniel S. Brewer, Andy G. Lynch, Harveer Dev, Vincent J. Gnanapragasam, Nitzan Rosenfeld, Christopher M. Hovens, Niall M. Corcoran, Charles E. Massie]
+  date: 30 August 2024 
+  kind: Invited talk 
+
+- title: "Ultra-sensitive detection of ctDNA enriches for patients with greater risk of recurrence in clinically localised prostate cancer"  
+  event: Cancer Bioinformatics Australia Symposium 2024 
+  location: Melbourne, Australia 
+  authors: [Bernard Pope, Gahee Park, Edmund Lau, Jelena Belic, Radoslaw Lach, Anne George, Patrick McCoy, Anne Nguyen, Corrina Grima, Bethany Campbell, Chol-hee Jung, Emma-Jane Ditter, Hui Zhao, CR-UK/Prostate Cancer UK, ICGC, The PPCG, David C. Wedge, Daniel S. Brewer, Andy G. Lynch, Harveer Dev, Vincent J. Gnanapragasam, Nitzan Rosenfeld, Christopher M. Hovens, Niall M. Corcoran, Charles E. Massie]
+  date: 25 June 2024 
+  kind: Poster 
+
+- title: "Case studies in genomic cohort data sharing"  
+  event: Research Data Alliance (RDA) 22nd Virtual Plenary Meeting 
+  location: Online (international)
+  authors: [Oliver Hofmann, Bernie Pope]  
+  date: 16 May 2024 
+  kind: Oral presentation
+
+- title: "Human genomics data sharing and analysis in Australia: An ongoing journey" 
+  event: ELIXIR Human Data Communities Meeting  
+  location: Europe (online) 
+  authors: [Bernie Pope]  
+  date: 19 March 2024
+  kind: Oral presentation
+
+- title: "Human Genomes Platform Project: Data Access Committee Management Systems Candidate Solutions Evaluation Report"
+  event: Human Genomes Platform Project  
+  location: Australia  
+  authors: [Carnuccio P, Cowley M, Davies K, Green C, Hobbs M, Holliday J, Kummerfeld S, Monro D, Patterson A, Pearson J, Pope B, Scullen J, Shadbolt M, Wong-Erasmus M, Wood S] 
+  date: 28 February 2024  
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10720100 
+      title: Report 
+
+- title: "Human Genomes Platform Project: Federated Identity and Access Management Candidate Solutions Evaluation Report"
+  event: Human Genomes Platform Project 
+  location: Australia 
+  authors: [Carnuccio P, Cowley M, Davies K, Downton M, Dumevska B, Holliday J, Green C, Hobbs M, Kummerfeld S, Lin A, Monro D, Patterson A, Pope B, Ravishankar S, Robinson A, Scullen J, Shadbolt M, Syed M, Wood S, Wong-Erasmus M]  
+  date: 28 February 2024 
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10719896  
+      title: Report 
+
+- title: "Human Genomes Platform Project: Virtual Cohort Assembly Pilot Phase Report"  
+  event: Human Genomes Platform Project 
+  location: Australia 
+  authors: [Cowley M, Downton M, Holliday J, Kummerfeld S, Leonard C, Lin A, Pope B, San Kho Lin V, Ravishankar S, Shadbolt M, Syed M, Taouk K, Wong-Erasmus M]  
+  date: 28 February 2024 
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10713710  
+      title: Report 
+
+- title: "Human Genomes Platform Project: Data and Metadata Archiving Feasibility Report" 
+  event: Human Genomes Platform Project 
+  location: Australia
+  authors: [Copty J, Cowley M, Evans B, Hoffman O, Holliday J, Kaplan W, Koufariotis R, Kummerfeld S, Pope B, Reisinger F, Robinson A, Shadbolt M, Syed M, Wong-Erasmus M]  
+  date: 28 February 2024 
+  kind: Report 
+  media:
+    - url: https://doi.org/10.5281/zenodo.10720286  
+      title: Report 
+
+- title: "Human Genomics Uplift for Australia through Research Data Infrastructure At National Scale: an overview of the GUARDIANS project"  
+  event: SupercomputingAsia 2024 
+  location: Sydney, Australia 
+  authors: [Bernie Pope, Jess Holliday]  
+  date: 22 February 2024
+  kind: Oral presentation
+
+- title: "Migrating Pipelines to Nextflow with Janis"  
+  event: ABACBS Conference 2023
+  location: Brisbane, Australia 
+  authors: [Grace Hall, Bernie Pope, Daniel Park, Lisa Phippard, Richard Lupat]  
+  date: 4 - 8 December 2023 
+  kind: Poster 
+
+- title: "Molecular Origins of Prostate Cancer Lethality" 
+  event: "5th annual RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges"  
+  location: UCLA, Los Angeles, California  
+  authors: [Takafumi Yamaguchi, Kathleen Houlahan, Helen Zhu, Natalie Kurganovs, Julie Livingstone, Natalie Fox, Jiapei Yuan, Jocelyn Penington, Chol-Hee Jung, Tommer Schwarz, Weerachai Jaratlerdsiri, Job van Riet, Peter Georgeson, Stefano Mangiola, Kodi Taraszka, Robert Lesurf, Jue Jiang, Ken Chow, Lawrence Heisler, Yu-Jia Shiah, Susmita Ramanand, Michael Clarkson, Anne Nguyen, Shadrielle Melijah Espiritu, Ryan Stuchbery, Richard Jovelin, Vincent Huang, Connor Bell, Edward O'Connor, Patrick McCoy, Christopher Lalansingh, Marek Cmero, Adriana Salcedo, Eva Chan, Lydia Liu, Phillip Stricker, Vinayak Bhandari, Riana Bornman, Dorota Sendorek, Andrew Lonie, Stephenie Prokopec, Michael Fraser, Justin Peters, Adrien Foucal, Shingai Mutambirwa, Lachlan Mcintosh, Michèle Orain, Matthew Wakefield, Valérie Picard, Daniel Park, Hélène Hovington, Michael Kerger, Alain Bergeron, Veronica Sabelnykova, Ji-Heui Seo, Mark Pomerantz, Noah Zaitlen, Sebastian Waszak, Alexander Gusev, Louis Lacombe, Yves Fradet, Andrew Ryan, Amar Kishan, Martijn Lokema, Joachim Weischenfeldt, Bernard Têtu, Anthony Costello, Vanessa Hayes, Rayjean Hung, Housheng He, John McPherson, Bogdan Pasaniuc, Theodorus van der Kwast, Anthony Papenfuss, Matthew Freedman, Bernard Pope, Robert Bristow, Ram Mani, Niall Corcoran, Jüri Reimand, Christopher Hovens, Paul Boutros]
+  date: 29 November 2023 
+  kind: Oral presentation
+
+- title: 'A tale of two tools: Varlap for assessment of variants in their alignment context, and Gurita for data analytics and plotting on the command line'
+  event: "Monash Bioinformatics Seminar"
+  location: Monash University, Clayton, Victoria 
+  authors: [Bernie Pope]
+  date: 4 October 2023 
+  kind: Invited oral presentation
+
 - title: 'Trusted Research Environments for Health and Medical Research Panel Discussion'  
   event: "ARDC Leadership Forum"
   location: Melbourne, Australia 
