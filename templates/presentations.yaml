@@ -77,6 +77,16 @@
     - url: https://doi.org/10.5281/zenodo.18529124  
       title: Poster
 
+- title: "Cancer genomics and global collaboration" 
+  event: "Open Access Government"
+  location: online 
+  authors: [Zinaida Perova, Bernard Pope, Benjamin Haibe-Kains]
+  date: 8 October 2025 
+  kind: Interview 
+  media:
+    - url: https://www.openaccessgovernment.org/publication/open-access-government-october-2025/198657/
+      title: Publication
+
 - title: "The role of Data Commons infrastructure in data governance"  
   event: "InGeNA Member Session on Data Privacy & Sovereignty in Genomics"
   location: Sydney and online 
