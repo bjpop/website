@@ -25,9 +25,9 @@ DEFAULT_TEMPLATES_DIR = 'templates'
 DEFAULT_OUTPUT_DIR = 'docs' 
 PROGRAM_NAME = "website"
 # Number of latest publications to show on index.html
-MAX_LATEST_PUBLICATIONS = 3
+MAX_LATEST_PUBLICATIONS = 5
 # Number of latest presentations to show on index.html
-MAX_LATEST_PRESENTATIONS = 3
+MAX_LATEST_PRESENTATIONS = 5
 # Number of latest activities to show on index.html
 MAX_LATEST_ACTIVITIES = 5
 

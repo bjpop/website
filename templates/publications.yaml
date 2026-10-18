@@ -1,3 +1,18 @@
+- abstract: |
+     Prostate cancer is a common malignancy with a heterogeneous disease course. Prior studies have identified a paucity of point mutations in protein-coding genes and only a few clinically relevant driver alterations. Here, using the Pan Prostate Cancer Group whole genome sequencing dataset from 1001 men, we perform an integrative analysis of cancer driver genes by quantifying recurrent genomic alterations among small mutations, structural variants, and copy number alterations in 961 primary prostate tumour samples. We identify at least one recurrent somatic or germline alteration in 97% of tumours and identify putative driver genes and mechanisms of dysregulation including frequently altered regulatory elements. A prominent example is the activation of oncogenes by structural variation-mediated hijacking of onco-enhancers of the solute carrier gene family including SLC30A4. Other recurrent alterations including FOXA1, MDM4, COL5A1, TP53, and BRCA1 stratify with metastatic disease, with additional drivers enriched in African-ancestry tumours. One quarter of tumours have acquired genome-informed therapeutic targets. Unsupervised analysis of alterations reveals four oncotypes with distinct genetic and clinical characteristics, including two clinically unfavourable oncotypes with shorter metastasis-free survival. Our study uncovers the full spectrum and recurrence patterns of genomic driver alterations in primary prostate cancers and delivers targets for biomarker development, mechanistic studies, and potential therapeutic interventions.
+  authors: [Diogo Pellegrina, Daria Kiriy, Kevin C. L. Cheng, Francesco Favero, Enrichetta Miletti, Zoe P. Klein, Barbara Hernando, Andre V. Olsen, Atef Sahli, Yunfan Fu, Pavlo Lutsik, Weerachai Jaratlerdsiri, William J. Hutchison, G. Steven Bova, Daniel S. Brewer, Mark Brook, Benedikt Brors, Adam Butler, Géraldine Cancel-Tassin, Niall M. Corcoran, Olivier Cussenot, Abraham Gihawi, Etsehiwot G. Girma, Vincent J. Gnanapragasam, Anis A. Hamid, Housheng Hansen He, Eddie Luidy L. Imada, G. Maria Jakobsdottir, Chol-hee Jung, Francesca Khani, Zsofia Kote-Jarai, Philippe Lamy, Gregory Leeman, Massimo Loda, Ramyar Molania, Lucio R. Queiroz, Tobias Rausch, Brian Robinson, Karina D. Sørensen, Sebastian Uhrig, Yaobo Xu, Takafumi N. Yamaguchi, Claudio Zanettini, Pan Prostate Cancer Group, Stefano Mangiola, Lena Voith von Voithenberg, Luigi Marchionni, Anthony T. Papenfuss, Bernard Pope, Vanessa M. Hayes, Thorsten Schlomm, Robert G. Bristow, Christopher M. Hovens, Ros A. Eeles, Colin S. Cooper, Clarissa Gerhauser, Geoff Macintyre, Andreas J. Gruber, David C. Wedge, Joachim Weischenfeldt, Jüri Reimand] 
+  date: 16 October 2026 
+  doi: 10.1038/s41467-026-77900-7 
+  issue: 1 
+  journal: Nature Communications 
+  keywords:  
+  pmid: 
+  title: The molecular heterogeneity and clinical impact of genomic driver alterations in prostate cancer
+  type: Journal Article 
+  url: https://doi.org/10.1038/s41467-026-77900-7 
+  volume: 17 
+  year: 2026 
+
 - authors: [Romy Walker, James G Dowty, Rachel Pearlman, Alicia Latham, Mark Clendenning, Sharelle Joseland, Hsin-Lun Liao, Peter Georgeson, Julia Como, Jihoon E Joo, Khalid Mahmood, Bernard J Pope, Fiona Phillips, Christophe Rosty, Finlay A Macrae, Ingrid M Winship, Aung K Win, Amanda I Phipps, Steven Gallinger, Robert C Grant, John D Potter, N Jewel Samadder, Susan Parry, Julie Arnold, Varnika Vijay, Ahmed Bouras, Cédrick Lefol, Qing Wang, Aliya Khurram, Yelena M Kemel, Mohammad Ali Abbass, Sara HM Keshavjee, Zsofia K Stadler, MS Heather Hampel, Mark A Jenkins, Daniel D Buchanan] 
   date: 5 October 2026 
   doi: 10.1053/j.gastro.2026.09.015
