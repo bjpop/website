@@ -1,3 +1,23 @@
+- title: "Varlap: Bringing Alignment-Based Variant Quality Control to Scale"  
+  event: ABACBS 2026 
+  location: RMIT, Melbourne, Victoria, Australia 
+  authors: [Bernie Pope, Julian Chiu, Christopher Hovens, Grace Hall, Peter Georgeson, Daniel Park, Chol-hee Jung, Francesco Favero]  
+  date: 16-20 November 2026  
+  kind: Poster 
+  media:
+    - url: https://doi.org/10.5281/zenodo.24239219 
+      title: Poster
+
+- title: "Gurita: a flexible, scalable command line data analytics and plotting tool with applications in bioinformatics"
+  event: ABACBS 2026 
+  location: RMIT, Melbourne, Victoria, Australia 
+  authors: [Bernie Pope, Ching-Yi Peng, Grace Hall, Chol-hee Jung, Chris Hovens, Peter Georgeson, Daniel Park] 
+  date: 16-20 November 2026  
+  kind: Poster 
+  media:
+    - url: https://doi.org/10.5281/zenodo.24238897  
+      title: Poster
+
 - title: "University of Melbourne Rapport Network Spotlight"
   event: "University of Melbourne Rapport Network Newsletter"
   location: online 
